@@ -1,5 +1,4 @@
 theme: jekyll-theme-slate
 title: Oh Hello
 description: Hello yourself
-github:
-  is_project_page: false
+github:  is_project_page: false
