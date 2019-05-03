@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## ONE SECTION
 
-You can use the [editor on GitHub](https://github.com/arcraik/neuroexo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+THIS IS WHERE YOU PUT STUFF
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### ANOTHER SECTION
 
-### Markdown
+COOL EXAMPLES BELOW
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Atilla
+## Atilla
+### Atilla
 
-```markdown
-Syntax highlighted code block
+- Atilla
+- Atilla
 
-# Header 1
-## Header 2
-### Header 3
+1. Atilla
+2. Atilla
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+**Atilla** and _Atilla_ and `Atilla` text
 
 [Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### YET ANOTHER SECTION
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arcraik/neuroexo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### AND STILL YET ANOTHER SECTION
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
