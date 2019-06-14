@@ -1,5 +1,4 @@
 ---
 layout: page
-title: contact
+title: Contact Us
 ---
-<h2>Contact us</h2>
