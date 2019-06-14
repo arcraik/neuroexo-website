@@ -1,6 +1,6 @@
 Our NSF PFI:RP supported work is progressing nicely! This project is a collaboration between the University of Houston, TIRR Memorial Hermann, National Instruments and Harmonic Bionics.
 
-### [NSF PFI-RP: Brain-controlled Upper-Limb Robot-Assisted Rehabilitation Device for Stroke Survivors](https://nsf.gov/awardsearch/showAward?AWD_ID=1827769&HistoricalAwards=false)
+### [NSF PFI-RP: Brain-controlled Upper-Limb Robot-Assisted Rehabilitation Device for Stroke Survivors](https://nsf.gov/awardsearch/showAward?AWD_ID=1827769&HistoricalAwards=false){target="_blank"}
 
 ![](/assets/newfigure.png)
 
