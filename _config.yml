@@ -4,3 +4,6 @@ title: NeuroExo
 #email: email goes here
 description: BMI Robotic Rehabilitation 
 layout: post
+
+header_pages:
+  - about.md
