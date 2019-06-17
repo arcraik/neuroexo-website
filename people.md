@@ -10,9 +10,6 @@ title: People
         height: px;
         width: px;
       }
-      .button { 
-        
-      }
    </style>
   </head> 
  </html>
