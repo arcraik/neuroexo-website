@@ -12,7 +12,7 @@ title: People
         padding-left: 25px;
         padding-right: 25px;
       }
-      /* The Modal (background) */
+     /* The Modal (background) */
       .modal {
         display: none; /* Hidden by default */
         position: fixed; /* Stay in place */
@@ -27,28 +27,62 @@ title: People
         background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
       }
 
-/* Modal Content */
+      /* Modal Content */
       .modal-content {
+        position: relative;
         background-color: #fefefe;
         margin: auto;
-        padding: 20px;
+        padding: 0;
         border: 1px solid #888;
         width: 80%;
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+        -webkit-animation-name: animatetop;
+        -webkit-animation-duration: 0.4s;
+        animation-name: animatetop;
+        animation-duration: 0.4s
       }
 
-/* The Close Button */
+      /* Add Animation */
+      @-webkit-keyframes animatetop {
+        from {top:-300px; opacity:0} 
+        to {top:0; opacity:1}
+      }
+
+      @keyframes animatetop {
+        from {top:-300px; opacity:0}
+        to {top:0; opacity:1}
+      }
+
+      /* The Close Button */
       .close {
-        color: #aaaaaa;
+        color: white;
         float: right;
         font-size: 28px;
         font-weight: bold;
       }
+
       .close:hover,
       .close:focus {
         color: #000;
         text-decoration: none;
         cursor: pointer;
       }
+
+      .modal-header {
+        padding: 2px 16px;
+        background-color: #5cb85c;
+        color: white;
+      }
+
+      .modal-body {padding: 2px 16px;}
+
+      .modal-footer {
+        padding: 2px 16px;
+        background-color: #5cb85c;
+        color: white;
+      }
+</style>
+</head>
 
    </style>
   </head> 
@@ -62,7 +96,7 @@ title: People
 <h4>email@email.org</h4>
 
 
-  <!-- Trigger/Open The Modal -->
+<!-- Trigger/Open The Modal -->
 <button id="myBtn">About First Name</button>
 
 <!-- The Modal -->
@@ -70,8 +104,17 @@ title: People
 
   <!-- Modal content -->
   <div class="modal-content">
-    <span class="close">&times;</span>
-    <p>Content</p>
+    <div class="modal-header">
+      <span class="close">&times;</span>
+      <h2>Full Name, PHD(or whatever else)</h2>
+    </div>
+    <div class="modal-body">
+      <p>First Name is blah blah blah</p>
+      <p>Some other text...</p>
+    </div>
+    <div class="modal-footer">
+      <h3>Close button</h3>
+    </div>
   </div>
 
 </div>
@@ -103,6 +146,7 @@ window.onclick = function(event) {
   }
 }
 </script>
+
 
 
 
