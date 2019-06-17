@@ -7,4 +7,5 @@ layout: post
 permalink: pretty
 header_pages:
   - about.md
+  - people.md
   - contact.md
