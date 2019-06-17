@@ -7,12 +7,15 @@ title: People
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
       img {
-        height: px;
-        width: px;
+        height: 240px;
+        width: 240px;
       }
    </style>
   </head> 
  </html>
+
+<img src="/assets/newfigure.png" alt="Test">
+
       
         
       
