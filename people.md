@@ -63,7 +63,7 @@ title: People
 
 
   <!-- Trigger/Open The Modal -->
-<button id="myBtn">Open Modal</button>
+<button id="myBtn">About First Name</button>
 
 <!-- The Modal -->
 <div id="myModal" class="modal">
@@ -71,7 +71,7 @@ title: People
   <!-- Modal content -->
   <div class="modal-content">
     <span class="close">&times;</span>
-    <p>Some text in the Modal..</p>
+    <p>Content</p>
   </div>
 
 </div>
