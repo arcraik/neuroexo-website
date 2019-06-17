@@ -83,8 +83,6 @@ title: People
         color: black;
         border-top: 1px solid #e9ecef;
       }
-</style>
-</head>
 
    </style>
   </head> 
