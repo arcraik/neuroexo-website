@@ -72,6 +72,7 @@ title: People
         padding: 2px 16px;
         background-color: white;
         color: black;
+        border-bottom: 1px solid #e9ecef;
       }
 
       .modal-body {padding: 2px 16px;}
@@ -80,6 +81,7 @@ title: People
         padding: 2px 16px;
         background-color: white;
         color: black;
+        border-top: 1px solid #e9ecef;
       }
 </style>
 </head>
