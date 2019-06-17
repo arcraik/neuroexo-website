@@ -14,7 +14,14 @@ title: People
   </head> 
  </html>
 
-<img src="/assets/newfigure.png" alt="Test">
+<img src="/assets/newfigure.png" alt="Test" align="left"/>
+<h3>First Name Last Name</h3>
+
+
+<h4>email@email.org</h4>
+
+
+button
 
       
         
