@@ -70,16 +70,16 @@ title: People
 
       .modal-header {
         padding: 2px 16px;
-        background-color: #5cb85c;
-        color: white;
+        background-color: white;
+        color: black;
       }
 
       .modal-body {padding: 2px 16px;}
 
       .modal-footer {
         padding: 2px 16px;
-        background-color: #5cb85c;
-        color: white;
+        background-color: white;
+        color: black;
       }
 </style>
 </head>
@@ -106,14 +106,14 @@ title: People
   <div class="modal-content">
     <div class="modal-header">
       <span class="close">&times;</span>
-      <h2>Full Name, PHD(or whatever else)</h2>
+      <h3>Full Name, PHD(or whatever else)</h3>
     </div>
     <div class="modal-body">
       <p>First Name is blah blah blah</p>
       <p>Some other text...</p>
     </div>
     <div class="modal-footer">
-      <h3>Close button</h3>
+      <h4>Close button</h4>
     </div>
   </div>
 
