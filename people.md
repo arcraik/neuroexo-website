@@ -9,7 +9,8 @@ title: People
       img {
         height: 240px;
         width: 240px;
-        padding: 25px;
+        padding-left: 25px;
+        padding-right: 25px;
       }
    </style>
   </head> 
