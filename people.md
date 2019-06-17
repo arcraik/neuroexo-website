@@ -55,7 +55,7 @@ title: People
 
       /* The Close Button */
       .close {
-        color: white;
+        color: black;
         float: right;
         font-size: 28px;
         font-weight: bold;
