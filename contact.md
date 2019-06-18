@@ -41,7 +41,7 @@ title: Contact Us
     <input name="entry.17102386" type="email"/>
     <label><h4>Message</h4></label>
     <textarea>
-    <input name="entry.616702237" type="message"/>
+        <input name="entry.616702237" type="message"/>
     </textarea>
     <br>
     <input type="submit" value="Send" />
