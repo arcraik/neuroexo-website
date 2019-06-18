@@ -30,7 +30,7 @@ title: Contact Us
             }
             .contact_info {
                 position: absolute;
-                bottom: 300px;
+                bottom: 600px;
                 right: 400px;
         </style>
     </head>
