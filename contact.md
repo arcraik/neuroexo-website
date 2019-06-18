@@ -8,8 +8,8 @@ title: Contact Us
             input {
                 border: 2px solid black;
                 border-radius: 4px;
-                padding-top: 5px;
-                padding-bottom: 20px;
+                margin-top: 5px;
+                margin-bottom: 20px;
             }
             input[type=submit] {
                 border: none;
