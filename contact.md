@@ -6,7 +6,8 @@ title: Contact Us
     <head>
         <style>
             input {
-                border: 2px solid #ccc;
+                border: 1px solid #ccc;
+                padding: 12px;
                 margin-top: 5px;
                 margin-bottom: 20px;
                 background-color: #fafafa;
@@ -28,11 +29,11 @@ title: Contact Us
 
 <form action="https://docs.google.com/forms/d/e/1FAIpQLSfzO-mkf1gKY5kpA8piBab6h6KymTF0sMOzfcbuRoEvuL6SOA/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true;" align="left">
     <label><h4>Name</h4></label>
-    <input name="entry.134554697" type="text" placeholder="Name" />
+    <input name="entry.134554697" type="text"/>
     <label><h4>Email</h4></label>
-    <input name="entry.17102386" type="email" placeholder="Email"/>
+    <input name="entry.17102386" type="email"/>
     <label><h4>Message</h4></label>
-    <input name="entry.616702237" type="text" placeholder="Message" />
+    <input name="entry.616702237" type="text"/>
     <br>
     <input type="submit" value="Send" />
 
