@@ -29,9 +29,9 @@ title: Contact Us
                 border: none;
             }
             div.contact_info {
-                position: relative;
-                bottom: 200px;
-                left: 450px;
+                position: absolute;
+                bottom: 5px;
+                left: 50px;
                 width: 300px;
        </style>
     </head>
