@@ -5,7 +5,7 @@ title: Contact Us
 
     
  <script type="text/javascript">var submitted=false;</script>
-    <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {window.location='index.md';}"></iframe
+    <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {window.location='index.md';}"></iframe>
    <form action="https://docs.google.com/forms/d/e/1FAIpQLSfzO-mkf1gKY5kpA8piBab6h6KymTF0sMOzfcbuRoEvuL6SOA/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true;">
           <label>Name</label>
           <input name="entry.134554697" type="text" placeholder="Name" />
