@@ -13,6 +13,7 @@ title: Contact Us
                 background-color: #fafafa;
                 font-size: 14px;
                 border-radius: 2px;
+                width: 100%;
             }
             input[type=submit] {
                 border: none;
