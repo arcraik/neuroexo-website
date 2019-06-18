@@ -6,6 +6,7 @@ description: BMI Robotic Rehabilitation
 permalink: pretty
 header_pages:
   - about.md
+  - research.md
   - people.md
   - publications.md
   - contact.md
