@@ -15,14 +15,22 @@ title: Contact Us
                 border-radius: 2px;
                 width: 50%;
             }
-            input[type=message] {
+            textarea[type=message] {
                 height: 100px;
+                border: 1px solid #ccc;
+                padding: 12px;
+                margin-top: 5px;
+                margin-bottom: 20px;
+                background-color: #fafafa;
+                font-size: 14px;
+                border-radius: 2px;
+                width: 50%;
             input[type=submit] {
                 border: none;
             }
             .contact_info {
                 position: absolute;
-                bottom: 200px;
+                bottom: 300px;
                 right: 400px;
         </style>
     </head>
@@ -40,7 +48,7 @@ title: Contact Us
     <label><h4>Email</h4></label>
     <input name="entry.17102386" type="email"/>
     <label><h4>Message</h4></label>
-    <textarea name="entry.616702237" type="message"/>
+    <textarea name="entry.616702237" type="message"></textarea>
     <br>
     <input type="submit" value="Send" />
 
