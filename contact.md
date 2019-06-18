@@ -9,6 +9,9 @@ title: Contact Us
                 border: none;
                 border-bottom: 2px solid black;
             }
+            input[type=submit] {
+                border: none;
+            }
         </style>
     </head>
     </html>
@@ -34,4 +37,4 @@ title: Contact Us
    </form>
    
    
-    aa
+    
