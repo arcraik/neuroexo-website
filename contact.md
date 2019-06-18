@@ -21,7 +21,7 @@ title: Contact Us
             .contact_info {
                 position: absolute;
                 bottom: 200px;
-                right: 143px;
+                right: 400px;
         </style>
     </head>
     </html>
