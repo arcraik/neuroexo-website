@@ -28,7 +28,7 @@ title: Contact Us
             input[type=submit] {
                 border: none;
             }
-            .contact {
+            div.contact {
                 position: absolute;
                 bottom: 5px;
                 left: 50px;
