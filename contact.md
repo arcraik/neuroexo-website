@@ -8,6 +8,8 @@ title: Contact Us
             input {
                 border: none;
                 border-bottom: 2px solid black;
+                padding-top: 20px;
+                padding-bottom: 5px;
             }
             input[type=submit] {
                 border: none;
@@ -24,15 +26,10 @@ title: Contact Us
 
 <form action="https://docs.google.com/forms/d/e/1FAIpQLSfzO-mkf1gKY5kpA8piBab6h6KymTF0sMOzfcbuRoEvuL6SOA/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true;">
     <label><h4>Name</h4></label>
-    <br>
     <input name="entry.134554697" type="text" placeholder="Name" />
-    <br>
     <label><h4>Email</h4></label>
-    <br>
     <input name="entry.17102386" type="email" placeholder="Email"/>
-    <br>
     <label><h4>Message</h4></label>
-    <br>
     <input name="entry.616702237" type="text" placeholder="Message" />
     <br>
     <input type="submit" value="Send" />
