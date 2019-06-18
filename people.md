@@ -31,6 +31,7 @@ title: People
       .modal-content {
         position: relative;
         background-color: #fefefe;
+        border-radius: 25px
         margin: auto;
         padding: 0;
         border: 1px solid #888;
