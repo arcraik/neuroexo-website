@@ -30,6 +30,9 @@ title: Contact Us
             }
             .contact_info {
                 position: relative;
+                bottom: 200px;
+                left: 450px;
+                width: 300px;
        </style>
     </head>
     </html>
