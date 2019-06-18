@@ -29,10 +29,11 @@ title: Contact Us
                 border: none;
             }
             div.contact {
-                position: absolute;
-                bottom: 5px;
-                left: 50px;
+                position: relative;
+                bottom: 200px;
+                left: 450px;
                 width: 300px;
+            }
        </style>
     </head>
     </html>
