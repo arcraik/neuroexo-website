@@ -18,7 +18,7 @@ title: Contact Us
           <input name="entry.17102386" type="email" placeholder="Email"/>
           <br>
           <label>Message</label>
-          <input name="entry.616702237" type="text+ placeholder="Message" />
+          <input name="entry.616702237" type="text" placeholder="Message" />
           <br>
           <input type="submit" value="Send" />
 
