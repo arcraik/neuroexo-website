@@ -19,9 +19,8 @@ title: Contact Us
                 border: none;
             }
             .contact_info {
-                position: absolute;
+                position: relative;
                 bottom: 200px;
-                right: 0px;
         </style>
     </head>
     </html>
@@ -46,8 +45,8 @@ title: Contact Us
    
 
 <div class="contact_info">
-    This is some contact info 
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3464.88967405869!2d-95.34373238489242!3d29.72295488200039!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8640be59dd97a6b5%3A0x5cf93fc344a3f9e9!2sCullen+College+of+Engineering+2%2C+Houston%2C+TX+77004!5e0!3m2!1sen!2sus!4v1560872855810!5m2!1sen!2sus" width="300" height="225" frameborder="0" style="border:0"  allowfullscreen></iframe>
+    <p align="right">This is some contact info</p> 
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3464.88967405869!2d-95.34373238489242!3d29.72295488200039!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8640be59dd97a6b5%3A0x5cf93fc344a3f9e9!2sCullen+College+of+Engineering+2%2C+Houston%2C+TX+77004!5e0!3m2!1sen!2sus!4v1560872855810!5m2!1sen!2sus" width="300" height="225" frameborder="0" style="border:0" align="right"  allowfullscreen></iframe>
     </div> 
    
    
