@@ -6,10 +6,12 @@ title: Contact Us
     <head>
         <style>
             input {
-                border: none;
-                border-bottom: 2px solid black;
+                border: 2px solid #ccc;
                 margin-top: 5px;
                 margin-bottom: 20px;
+                background-color: #fafafa;
+                font-size: 14px;
+                border-radius: 2px;
             }
             input[type=submit] {
                 border: none;
