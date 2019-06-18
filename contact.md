@@ -2,23 +2,7 @@
 layout: page
 title: Contact Us
 ---
- <form class="form" action="https://docs.google.com/forms/d/e/1FAIpQLSfzO-mkf1gKY5kpA8piBab6h6KymTF0sMOzfcbuRoEvuL6SOA/formResponse">
 
-          <label>Name</label>
-          <input name="entry.134554697" type="text" />
-
-          <label>Email</label>
-          <input name="entry.17102386" type="email"  />
-          
-          <label>Message</label>
-          <input name="entry.616702237" type="text" />
-          
-          
-
-
-          <input type="submit" value="Send" />
-
-    </form>
     
     
     
@@ -39,3 +23,5 @@ title: Contact Us
           <input type="submit" value="Send" />
 
     </form>
+    
+    <div id="wufoo-z1p8hs8v0uo31pa"> Fill out my <a href="https://ruofanliu7.wufoo.com/forms/z1p8hs8v0uo31pa">online form</a>. </div> <script type="text/javascript"> var z1p8hs8v0uo31pa; (function(d, t) { var s = d.createElement(t), options = { 'userName':'ruofanliu7', 'formHash':'z1p8hs8v0uo31pa', 'autoResize':true, 'height':'434', 'async':true, 'host':'wufoo.com', 'header':'show', 'ssl':true }; s.src = ('https:' == d.location.protocol ?'https://':'http://') + 'secure.wufoo.com/scripts/embed/form.js'; s.onload = s.onreadystatechange = function() { var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return; try { z1p8hs8v0uo31pa = new WufooForm(); z1p8hs8v0uo31pa.initialize(options); z1p8hs8v0uo31pa.display(); } catch (e) { } }; var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr); })(document, 'script'); </script>
