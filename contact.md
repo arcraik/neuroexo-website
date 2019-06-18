@@ -5,8 +5,8 @@ title: Contact Us
 
     
  <script type="text/javascript">var submitted=false;</script>
-    <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {window.location='index.md';}"></iframe>
-   <form action="https://docs.google.com/forms/d/e/1FAIpQLSfzO-mkf1gKY5kpA8piBab6h6KymTF0sMOzfcbuRoEvuL6SOA/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true;">
+<iframe id="hidden_iframe" name="hidden_iframe" onload="submitted&amp;&amp;(window.location=&quot;https://blog.webjeda.com/demo/google-form-customize/&quot;)" style="display:none"></iframe>   
+<form action="https://docs.google.com/forms/d/e/1FAIpQLSfzO-mkf1gKY5kpA8piBab6h6KymTF0sMOzfcbuRoEvuL6SOA/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true;">
           <label>Name</label>
           <input name="entry.134554697" type="text" placeholder="Name" />
           <br>
