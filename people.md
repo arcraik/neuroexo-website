@@ -95,55 +95,93 @@ title: People
 
 <h4>email@email.org</h4>
 
-
 <!-- Trigger/Open The Modal -->
-<button id="myBtn">About First Name</button>
+<button class="modal-button" href="#myModal1">About First name</button>
 
 <!-- The Modal -->
-<div id="myModal" class="modal">
+<div id="myModal1" class="modal">
 
   <!-- Modal content -->
   <div class="modal-content">
     <div class="modal-header">
-      <span class="close">&times;</span>
-      <h3>Full Name, PHD(or whatever else)</h3>
+      <span class="close">×</span>
+      <h2>Full Name, Qualifications</h2>
     </div>
     <div class="modal-body">
-      <p>First Name is blah blah blah</p>
+      <p>Some text in the Modal Body</p>
       <p>Some other text...</p>
     </div>
     <div class="modal-footer">
-      <h4>Close button</h4>
+      <h3>Modal Footer</h3>
     </div>
   </div>
 
 </div>
 
-<script>
-// Get the modal
-var modal = document.getElementById("myModal");
 
+
+<!-- Trigger/Open The Modal -->
+<button class="modal-button" href="#myModal2">About First Name</button>
+
+<!-- The Modal -->
+<div id="myModal2" class="modal">
+
+  <!-- Modal content -->
+  <div class="modal-content">
+    <div class="modal-header">
+      <span class="close">×</span>
+      <h2>Modal Header</h2>
+    </div>
+    <div class="modal-body">
+      <p>Some text in the Modal Body</p>
+      <p>Some other text...</p>
+    </div>
+    <div class="modal-footer">
+      <h3>Modal Footer</h3>
+    </div>
+  </div>
+
+</div>
+
+
+
+
+
+<script>
 // Get the button that opens the modal
-var btn = document.getElementById("myBtn");
+var btn = document.querySelectorAll("button.modal-button");
+
+// All page modals
+var modals = document.querySelectorAll('.modal');
 
 // Get the <span> element that closes the modal
-var span = document.getElementsByClassName("close")[0];
+var spans = document.getElementsByClassName("close");
 
-// When the user clicks the button, open the modal 
-btn.onclick = function() {
-  modal.style.display = "block";
+// When the user clicks the button, open the modal
+for (var i = 0; i < btn.length; i++) {
+ btn[i].onclick = function(e) {
+    e.preventDefault();
+    modal = document.querySelector(e.target.getAttribute("href"));
+    modal.style.display = "block";
+ }
 }
 
 // When the user clicks on <span> (x), close the modal
-span.onclick = function() {
-  modal.style.display = "none";
+for (var i = 0; i < spans.length; i++) {
+ spans[i].onclick = function() {
+    for (var index in modals) {
+      if (typeof modals[index].style !== 'undefined') modals[index].style.display = "none";    
+    }
+ }
 }
 
 // When the user clicks anywhere outside of the modal, close it
 window.onclick = function(event) {
-  if (event.target == modal) {
-    modal.style.display = "none";
-  }
+    if (event.target.classList.contains('modal')) {
+     for (var index in modals) {
+      if (typeof modals[index].style !== 'undefined') modals[index].style.display = "none";    
+     }
+    }
 }
 </script>
 
