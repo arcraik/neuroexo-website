@@ -28,7 +28,7 @@ title: Contact Us
             input[type=submit] {
                 border: none;
             }
-            .contact_info {
+            div.contact_info {
                 position: relative;
                 bottom: 200px;
                 left: 450px;
