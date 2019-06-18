@@ -2,6 +2,17 @@
 layout: page
 title: Contact Us
 ---
+<html>
+    <head>
+        <style>
+            input {
+                border: none;
+                border-bottom: 2px solid black;
+            }
+        </style>
+    </head>
+    </html>
+    
 
     
  <script type="text/javascript">var submitted=false;</script>
