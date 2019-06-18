@@ -6,8 +6,8 @@ title: Contact Us
     <head>
         <style>
             input {
-                border: 2px solid black;
-                border-radius: 4px;
+                border: none;
+                border-bottom: 2px solid black;
                 margin-top: 5px;
                 margin-bottom: 20px;
             }
