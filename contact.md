@@ -6,7 +6,7 @@ title: Contact Us
     
  <script type="text/javascript">var submitted=false;</script>
 
-<iframe id="hidden_iframe" name="hidden_iframe" onload="submitted&amp;&amp;(window.location="https://blog.webjeda.com/demo/google-form-customize/)" style="display:none"></iframe>   
+<iframe id="hidden_iframe" name="hidden_iframe" onload="submitted&&(window.location="https://blog.webjeda.com/demo/google-form-customize/")" style="display:none"></iframe>   
 
 <form action="https://docs.google.com/forms/d/e/1FAIpQLSfzO-mkf1gKY5kpA8piBab6h6KymTF0sMOzfcbuRoEvuL6SOA/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true;">
           <label>Name</label>
@@ -22,5 +22,5 @@ title: Contact Us
 
    </form>
    
-   a
+   aa
     
