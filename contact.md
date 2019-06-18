@@ -20,7 +20,7 @@ title: Contact Us
             }
             iframe[id=map] {
                 position: relative;
-                bottom: 50px;
+                bottom: 200px;
         </style>
     </head>
     </html>
