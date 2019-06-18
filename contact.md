@@ -21,7 +21,7 @@ title: Contact Us
             div[id=info] {
                 position: relative;
                 bottom: 200px;
-                align: right;
+                float: right;
         </style>
     </head>
     </html>
