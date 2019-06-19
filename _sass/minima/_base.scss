@@ -284,6 +284,7 @@ table {
 /**
 * Buttons
 */
+
 button {
   background-color: white;
     border-radius: 8px;
@@ -296,19 +297,16 @@ button {
     font-size: 16px;
     margin: 4px 2px;
     cursor: pointer;
-    
-    &:hover {
+}  
+button:hover {
       text-decoration: none;
       background-color: black;
       color: white;
-    }
 }
 
 /**
 * Submit Buttons
 */
-button.submit {
-}
 
 /**
 * Input Boxes
