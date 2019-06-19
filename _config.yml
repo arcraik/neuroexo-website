@@ -10,3 +10,4 @@ header_pages:
   - people.md
   - publications.md
   - contact.md
+paginate: 2
