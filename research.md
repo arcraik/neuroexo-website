@@ -7,5 +7,5 @@ Eos eu docendi tractatos sapientem, brute option menandri in vix, quando vivendo
 <br>
 <a href="https://neuroexo.org" class="button" >Learn More</a>
 <img src="/assets/newfigure.png" alt="Test" align="right"/>
-<a href="https://neuroexo.org" class="button" >Learn More</a>
+<a href="https://neuroexo.org" class="button" height="150px" width="250px" >Learn More</a>
 <hr>
