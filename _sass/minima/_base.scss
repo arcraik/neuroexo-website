@@ -116,7 +116,9 @@ a {
     text-decoration: underline;
   }
   
-  .button {
+}
+
+a.button {
     background-color: white;
     border-radius: 8px;
     border: 2px solid black;
@@ -134,8 +136,7 @@ a {
       background-color: black;
       color: white;
     }
-  }
-  
+}  
 
   .social-media-list &:hover {
     text-decoration: none;
