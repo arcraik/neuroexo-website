@@ -8,6 +8,7 @@ title: Contact Us
             input {
                 margin-top: 5px;
                 margin-bottom: 20px;
+                width: 50%;
             }
             textarea[type=message] {
                 height: 100px;
@@ -18,6 +19,7 @@ title: Contact Us
                 background-color: #fafafa;
                 font-size: 14px;
                 border-radius: 2px;
+                width: 50%;
             }
             input[type=submit] {
                 border: none;
@@ -38,7 +40,7 @@ title: Contact Us
 
 <iframe id="hidden_iframe" name="hidden_iframe" onload="submitted&amp;&amp;(window.location=&quot;https://neuroexo.org/thanks/&quot;)" style="display:none"></iframe>
 
-<form action="https://docs.google.com/forms/d/e/1FAIpQLSfzO-mkf1gKY5kpA8piBab6h6KymTF0sMOzfcbuRoEvuL6SOA/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true;" align="left" width="50%">
+<form action="https://docs.google.com/forms/d/e/1FAIpQLSfzO-mkf1gKY5kpA8piBab6h6KymTF0sMOzfcbuRoEvuL6SOA/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true;" align="left" >
     <label><h4>Name*</h4></label>
     <input name="entry.134554697" type="text" required/>
     <label><h4>Email*</h4></label>
@@ -50,7 +52,7 @@ title: Contact Us
 
    </form>
    
-<div class="contact" style="position: absolute; top: 130px; left: 450px; width: 300px; line-height:100px;">
+<div class="contact" style="position: relative; bottom: 500px; left: 450px; width: 300px; line-height:100px;">
     <p>Graduate Students something something</p> 
     <br>
     <p>This is some contact info</p> 
