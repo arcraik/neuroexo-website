@@ -266,3 +266,17 @@ table {
 */
 button.submit {
 }
+
+/**
+* Input Boxes
+*/
+input {
+  border: 1px solid #ccc;
+  padding: 12px;
+  background-color: #fafafa;
+  font-size: 14px;
+  border-radius: 2px;
+}
+input:hover {
+  background-color: white;
+}
