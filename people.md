@@ -26,8 +26,6 @@ title: People
         background-color: rgb(0,0,0); /* Fallback color */
         background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
       }
-
-      /* Modal Content */
       .modal-content {
         position: relative;
         background-color: #fefefe;
@@ -41,42 +39,33 @@ title: People
         animation-name: animatetop;
         animation-duration: 0.4s
       }
-
-      /* Add Animation */
       @-webkit-keyframes animatetop {
         from {top:-300px; opacity:0} 
         to {top:0; opacity:1}
       }
-
       @keyframes animatetop {
         from {top:-300px; opacity:0}
         to {top:0; opacity:1}
       }
-
-      /* The Close Button */
       .close {
         color: black;
         float: right;
         font-size: 28px;
         font-weight: bold;
       }
-
       .close:hover,
       .close:focus {
         color: #000;
         text-decoration: none;
         cursor: pointer;
       }
-
       .modal-header {
         padding: 2px 16px;
         background-color: white;
         color: black;
         border-bottom: 1px solid #e9ecef;
       }
-
       .modal-body {padding: 2px 16px;}
-
       .modal-footer {
         padding: 2px 16px;
         background-color: white;
