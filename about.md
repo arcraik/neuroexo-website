@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-Test top menu
+<a href="https://neuroexo.org" class="button" >Learn More</a>
