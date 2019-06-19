@@ -23,6 +23,9 @@ title: Contact Us
             input[type=submit] {
                 border: none;
             }
+            input[type=submit]:focus {
+                background-color: #fafafa;
+            }
        </style>
     </head>
     </html>
