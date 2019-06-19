@@ -6,13 +6,8 @@ title: Contact Us
     <head>
         <style>
             input {
-                border: 1px solid #ccc;
-                padding: 12px;
                 margin-top: 5px;
                 margin-bottom: 20px;
-                background-color: #fafafa;
-                font-size: 14px;
-                border-radius: 2px;
                 width: 50%;
             }
             textarea[type=message] {
