@@ -52,7 +52,7 @@ title: Contact Us
 
    </form>
    
-<div class="contact" style="position: relative; bottom: 400px; left: 450px; width: 300px; line-height:100px;">
+<div class="contact" style="position: relative; bottom: 400px; left: 450px; width: 300px; line-height:100px; vertical-align: text-top;">
     <p>Graduate Students something something</p> 
     <br>
     <p>This is some contact info</p> 
