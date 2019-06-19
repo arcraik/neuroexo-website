@@ -10,6 +10,7 @@ header_pages:
   - people.md
   - publications.md
   - contact.md
-plugins: [jekyll-paginate]
+plugins: 
+  - jekyll-paginate
 paginate: 2
 paginate_path: /page:num/
