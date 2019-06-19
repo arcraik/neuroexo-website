@@ -21,8 +21,11 @@ title: Contact Us
                 border-radius: 2px;
                 width: 50%;
             }
+            textarea[type=message]:focus {
+                background-color: white;
             input[type=submit] {
                 border: none;
+                width: 50%;
             }
             input[type=submit]:focus {
                 background-color: #fafafa;
