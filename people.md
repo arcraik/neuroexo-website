@@ -8,7 +8,7 @@ title: People
     <style>
       img {
         height: 240px;
-        width: 240px;
+        width: 20%;
         padding-left: 25px;
         padding-right: 25px;
       }
