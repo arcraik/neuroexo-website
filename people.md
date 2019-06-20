@@ -9,7 +9,7 @@ title: People
       img {
         height: 20%;
         width: 20%;
-        padding: 25px;
+        padding: 0px 25px 25px;
       }
      /* The Modal (background) */
       .modal {
