@@ -7,9 +7,6 @@ layout: default
       img {
         padding: 12px;
       }
-      li {
-        margin-bottom: 0px;
-      }
     </style>
   </head>
 </html>
@@ -26,7 +23,7 @@ layout: default
     <ul class="post-list">
       {%- for post in site.posts -%}
         <hr>
-      <li style="overflow: auto;">
+      <li style="overflow: auto; margin-bottom: 0;">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
