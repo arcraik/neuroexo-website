@@ -38,6 +38,7 @@ title: People
         -webkit-animation-duration: 0.4s;
         animation-name: animatetop;
         animation-duration: 0.4s
+        overflow: auto;
       }
       @-webkit-keyframes animatetop {
         from {top:-300px; opacity:0} 
