@@ -68,7 +68,9 @@ title: People
         padding: 2px 16px;
         overflow: auto;
       }
-
+      p {
+        padding: 25px;
+      }
    </style>
   </head> 
  
