@@ -68,7 +68,7 @@ title: People
         padding: 2px 16px;
         overflow: auto;
       }
-      p.content {
+      .content {
         padding: 25px;
       }
    </style>
@@ -95,7 +95,7 @@ title: People
       <h2>Atilla Kilicarslan, PHD</h2>
     </div>
     <div class="modal-body">
-      <img src="/photos/AKilicarslan.jpeg" alt="Atilla Kilicarslan" align="left"/>
+      <img class="content" src="/photos/AKilicarslan.jpeg" alt="Atilla Kilicarslan" align="left"/>
       <p class="content">Dr Atilla Kilicarslan (Co-PI) is a Research Assistant Professor at the University of Houston, Electrical and Computer Engineering Department. He specializes in Robotics, Control systems, Brain Machine Interfaces, Adaptive systems, Signal De-Noising, and Spatial Sensory Data Enhancement.</p>
     </div>
    </div>
