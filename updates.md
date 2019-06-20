@@ -20,6 +20,7 @@ title: Updates
       </li>
       {%- endfor -%}
     </ul>
-    <hr>
 {%- endif -%}
+
+<hr>
 
