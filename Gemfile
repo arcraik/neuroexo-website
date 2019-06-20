@@ -1,5 +1,6 @@
 source "https://rubygems.org"
 ruby "2.5.5"
+gem "minima"
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
