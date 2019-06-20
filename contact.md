@@ -38,7 +38,7 @@ title: Contact Us
     </html>
     
    
-<div class="contact" style="width: 300px; float:right;" align:"left" >
+<div class="contact" style="width: 300px; float:right;" align="left" >
     <p>Graduate Students something something</p> 
     <br>
     <p>This is some contact info</p> 
