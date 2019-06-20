@@ -16,7 +16,7 @@ plugins:
   - jekyll-paginate
 gems:
   - jekyll-paginate
-paginate: 2
+paginate: 3
 paginate_path: "/page-:num/"
 
   
