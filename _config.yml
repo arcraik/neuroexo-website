@@ -2,7 +2,7 @@ theme: minima
 title: NeuroExo
 #author:
 #email: email goes here
-description: BMI Robotic Rehabilitation 
+description: BMI Robotic Rehabilitation
 permalink: pretty
 header_pages:
   - about.md
@@ -12,3 +12,8 @@ header_pages:
   - contact.md
 show_excerpts: true
 excerpt_separator: <!--more-->
+plugins:
+  - jekyll-paginate
+gems:
+  - jekyll-paginate
+  
