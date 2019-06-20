@@ -6,7 +6,7 @@ title: Updates
     <ul class="post-list">
       {%- for post in site.posts -%}
     <hr>
-      <li>
+      <li style="overflow: auto;">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
