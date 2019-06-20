@@ -10,3 +10,5 @@ header_pages:
   - people.md
   - publications.md
   - contact.md
+show_excerpts: true
+excerpt_separator: <!--more-->
