@@ -66,44 +66,34 @@ title: People
         border-bottom: 1px solid #e9ecef;
       }
       .modal-body {padding: 2px 16px;}
-      .modal-footer {
-        padding: 2px 16px;
-        background-color: white;
-        color: black;
-        border-top: 1px solid #e9ecef;
-      }
 
    </style>
   </head> 
  
  </html>
 
-<img src="/assets/newfigure.png" alt="Test" align="left"/>
-<h3>First Name Last Name</h3>
+<img src="/photos/AKilicarslan.jpeg" alt="Atilla Kilicarslan" align="left"/>
+<h3>Atilla Kilicarslan</h3>
 
 
-<h4>email@email.org</h4>
+<h4>akilica2@central.uh.edu</h4>
 
 <!-- Trigger/Open The Modal -->
-<button class="modal-button" href="#myModal1">About First name</button>
+<button class="modal-button" href="#akilicarslan">About Atilla</button>
 
 <!-- The Modal -->
-<div id="myModal1" class="modal">
+<div id="akilicarslan" class="modal">
 
   <!-- Modal content -->
   <div class="modal-content">
     <div class="modal-header">
       <span class="close">×</span>
-      <h2>Full Name, Qualifications</h2>
+      <h2>Atilla Kilicarslan, PHD</h2>
     </div>
     <div class="modal-body">
-      <p>Some text in the Modal Body</p>
-      <p>Some other text...</p>
+      <p>Dr Atilla Kilicarslan (Co-PI) is a Research Assistant Professor at the University of Houston, Electrical and Computer Engineering Department. He specializes in Robotics, Control systems, Bain Machine Interfaces, Adaptive systems, Signal De-noising, and Spatial Sensory Data Enhancement.</p>
     </div>
-    <div class="modal-footer">
-      <h3>Modal Footer</h3>
-    </div>
-  </div>
+   </div>
 
 </div>
 
