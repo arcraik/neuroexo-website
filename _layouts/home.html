@@ -22,7 +22,7 @@ layout: default
  <ul class="post-list">
     {% for post in paginator.posts %}
       <hr>
-      <li>
+      <li style="overflow: auto;">
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
         <h2>
