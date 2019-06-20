@@ -14,6 +14,8 @@ show_excerpts: true
 excerpt_separator: <!--more-->
 plugins:
   - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
 gems:
   - jekyll-paginate
 paginate: 3
