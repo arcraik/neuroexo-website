@@ -5,6 +5,7 @@ title: Updates
 {%- if site.posts.size > 0 -%}
     <ul class="post-list">
       {%- for post in site.posts -%}
+    <hr>
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
@@ -19,5 +20,6 @@ title: Updates
       </li>
       {%- endfor -%}
     </ul>
+    <hr>
 {%- endif -%}
 
