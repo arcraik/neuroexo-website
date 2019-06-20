@@ -9,8 +9,7 @@ title: People
       img {
         height: 20%;
         width: 20%;
-        padding-left: 25px;
-        padding-right: 25px;
+        padding: 25px;
       }
      /* The Modal (background) */
       .modal {
@@ -38,7 +37,6 @@ title: People
         -webkit-animation-duration: 0.4s;
         animation-name: animatetop;
         animation-duration: 0.4s
-        overflow: auto;
       }
       @-webkit-keyframes animatetop {
         from {top:-300px; opacity:0} 
@@ -66,7 +64,10 @@ title: People
         color: black;
         border-bottom: 1px solid #e9ecef;
       }
-      .modal-body {padding: 2px 16px;}
+      .modal-body {
+        padding: 2px 16px;
+        overflow: auto;
+      }
 
    </style>
   </head> 
