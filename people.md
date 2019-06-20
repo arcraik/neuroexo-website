@@ -91,6 +91,7 @@ title: People
       <h2>Atilla Kilicarslan, PHD</h2>
     </div>
     <div class="modal-body">
+      <img src="/photos/AKilicarslan.jpeg" alt="Atilla Kilicarslan" align="left"/>
       <p>Dr Atilla Kilicarslan (Co-PI) is a Research Assistant Professor at the University of Houston, Electrical and Computer Engineering Department. He specializes in Robotics, Control systems, Bain Machine Interfaces, Adaptive systems, Signal De-noising, and Spatial Sensory Data Enhancement.</p>
     </div>
    </div>
