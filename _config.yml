@@ -16,8 +16,6 @@ plugins:
   - jekyll-paginate
   - jekyll-feed
   - jekyll-seo-tag
-gems:
-  - jekyll-paginate
 paginate: 3
 paginate_path: "/page-:num/"
 
