@@ -7,7 +7,7 @@ title: People
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
       img {
-        height: 240px;
+        height: 20%;
         width: 20%;
         padding-left: 25px;
         padding-right: 25px;
