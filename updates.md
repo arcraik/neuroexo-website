@@ -19,3 +19,5 @@ title: Updates
       </li>
       {%- endfor -%}
     </ul>
+{%- endif -%}
+
