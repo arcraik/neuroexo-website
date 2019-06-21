@@ -9,6 +9,7 @@ title: People
       img {
         height: 20%;
         width: 20%;
+        float: left;
         padding: 0px 25px 25px;
       }
      /* The Modal (background) */
@@ -77,7 +78,7 @@ title: People
  </html>
  
 <div>
-  <img src="/photos/AKilicarslan.jpeg" alt="Atilla Kilicarslan" align="left"/>
+  <img src="/photos/AKilicarslan.jpeg" alt="Atilla Kilicarslan" />
   <h3>Atilla Kilicarslan</h3>
 
 
