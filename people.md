@@ -72,6 +72,9 @@ title: People
       .content {
         padding: 25px;
       }
+      div {
+        overflow: auto;
+      }
    </style>
   </head> 
  
