@@ -104,7 +104,7 @@ title: People
 
   </div>
 </div>
-
+<br>
 <div>
   <img src="/assets/newfigure.png" alt="Test" />
   <h3> First Name Last Name</h3>
