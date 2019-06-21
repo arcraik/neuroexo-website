@@ -75,56 +75,63 @@ title: People
   </head> 
  
  </html>
+ 
+<div>
+  <img src="/photos/AKilicarslan.jpeg" alt="Atilla Kilicarslan" align="left"/>
+  <h3>Atilla Kilicarslan</h3>
 
-<img src="/photos/AKilicarslan.jpeg" alt="Atilla Kilicarslan" align="left"/>
-<h3>Atilla Kilicarslan</h3>
 
+  <h4>akilica2@central.uh.edu</h4>
 
-<h4>akilica2@central.uh.edu</h4>
+  <!-- Trigger/Open The Modal -->
+  <button class="modal-button" href="#akilicarslan">About Atilla</button>
 
-<!-- Trigger/Open The Modal -->
-<button class="modal-button" href="#akilicarslan">About Atilla</button>
+  <!-- The Modal -->
+  <div id="akilicarslan" class="modal">
 
-<!-- The Modal -->
-<div id="akilicarslan" class="modal">
+    <!-- Modal content -->
+   <div class="modal-content">
+      <div class="modal-header">
+        <span class="close">×</span>
+        <h2>Atilla Kilicarslan, PHD</h2>
+      </div>
+      <div class="modal-body">
+        <img class="content" src="/photos/AKilicarslan.jpeg" alt="Atilla Kilicarslan" align="left"/>
+        <p class="content">Dr Atilla Kilicarslan (Co-PI) is a Research Assistant Professor at the University of Houston, Electrical and Computer Engineering Department. He specializes in Robotics, Control systems, Brain Machine Interfaces, Adaptive systems, Signal De-Noising, and Spatial Sensory Data Enhancement.</p>
+      </div>
+     </div>
 
-  <!-- Modal content -->
-  <div class="modal-content">
-    <div class="modal-header">
-      <span class="close">×</span>
-      <h2>Atilla Kilicarslan, PHD</h2>
-    </div>
-    <div class="modal-body">
-      <img class="content" src="/photos/AKilicarslan.jpeg" alt="Atilla Kilicarslan" align="left"/>
-      <p class="content">Dr Atilla Kilicarslan (Co-PI) is a Research Assistant Professor at the University of Houston, Electrical and Computer Engineering Department. He specializes in Robotics, Control systems, Brain Machine Interfaces, Adaptive systems, Signal De-Noising, and Spatial Sensory Data Enhancement.</p>
-    </div>
-   </div>
-
+  </div>
 </div>
 
+<div>
+  <img src="/assets/newfigure.png" alt="Test" />
+  <h3> First Name Last Name</h3>
+  
+  
+  <h4>firstnamelastname@central.uh.edu</h4>
+  <!-- Trigger/Open The Modal -->
+  <button class="modal-button" href="#myModal2">About First Name</button>
 
+  <!-- The Modal -->
+  <div id="myModal2" class="modal">
 
-<!-- Trigger/Open The Modal -->
-<button class="modal-button" href="#myModal2">About First Name</button>
-
-<!-- The Modal -->
-<div id="myModal2" class="modal">
-
-  <!-- Modal content -->
-  <div class="modal-content">
-    <div class="modal-header">
-      <span class="close">×</span>
-      <h2>Modal Header</h2>
+    <!-- Modal content -->
+   <div class="modal-content">
+      <div class="modal-header">
+        <span class="close">×</span>
+        <h2>Modal Header</h2>
+      </div>
+      <div class="modal-body">
+        <p>Some text in the Modal Body</p>
+        <p>Some other text...</p>
+      </div>
+      <div class="modal-footer">
+        <h3>Modal Footer</h3>
+      </div>
     </div>
-    <div class="modal-body">
-      <p>Some text in the Modal Body</p>
-      <p>Some other text...</p>
-    </div>
-    <div class="modal-footer">
-      <h3>Modal Footer</h3>
-    </div>
+
   </div>
-
 </div>
 
 
