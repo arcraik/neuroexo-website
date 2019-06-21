@@ -8,7 +8,7 @@ title: Contact Us
             input {
                 margin-top: 5px;
                 margin-bottom: 20px;
-                width: 100%;
+                max-width: 100%;
             }
             textarea[type=message] {
                 height: 100px;
@@ -19,13 +19,13 @@ title: Contact Us
                 background-color: #fafafa;
                 font-size: 14px;
                 border-radius: 2px;
-                width: 100%;
+                max-width: 100%;
             }
             textarea[type=message]:focus {
                 background-color: white;
             input[type=submit] {
                 border: none;
-                width: 50%;
+                max-width: 50%;
             }
             input[type=submit]:focus {
                 background-color: #fafafa;
@@ -38,7 +38,7 @@ title: Contact Us
     </html>
     
    
-<div class="contact" style="width: 300px; float:right;" align="left" >
+<div class="contact" style="max-width:50%; float:right;" align="left" >
     <p>Graduate Students something something</p> 
     <br>
     <p>This is some contact info</p> 
