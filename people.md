@@ -135,7 +135,7 @@ title: People
 </div>
 <br>
 <div>
-  <img src="/photo/KSchmidt.JPG" alt="Kristin Schmidt" />
+  <img src="/photos/KSchmidt.JPG" alt="Kristin Schmidt" />
   <h3>Kristin Schmidt</h3>
   
   
@@ -153,7 +153,7 @@ title: People
         <h2>Kristin Schmidt, REU Program</h2>
       </div>
       <div class="modal-body">
-        <img class="content" src="/photo/KSchmidt.JPG" alt="Kristin Schmidt" />
+        <img class="content" src="/photos/KSchmidt.JPG" alt="Kristin Schmidt" />
         <p class="content">Kristin Schmidt is an undergraduate student working in the lab this summer through the NSF REU program. Originally from Long Island, NY, Kristin currently attends the University of Virginia, studying mechanical engineering, and plans to graduate in spring 2020. At UVA’s Center for Applied Biomechanics, she studied the role of occupant posture in frontal car crashes. Additionally, Kristin is highly involved in service and outreach activities, such as introducing STEM to elementary school students of minority backgrounds. In the BRAIN Center at UH, Kristin is working to design a novel, low-cost dry cap system to integrate with the “NeuroExo” project. </p>
       </div>
   </div>
