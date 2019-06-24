@@ -96,7 +96,7 @@ title: People
    <div class="modal-content">
       <div class="modal-header">
         <span class="close">×</span>
-        <h2>Jose L Contreras-Vidal</h2>
+        <h2>Jose L Contreras-Vidal, PHD</h2>
       </div>
       <div class="modal-body">
           <img src="/photos/JContreras-Vidal.jpg" alt="Jose Luis Contreras-Vidal" />
@@ -135,31 +135,28 @@ title: People
 </div>
 <br>
 <div>
-  <img src="/assets/newfigure.png" alt="Test" />
-  <h3> First Name Last Name</h3>
+  <img src="/photo/KSchmidt.JPG" alt="Kristin Schmidt" />
+  <h3>Kristin Schmidt</h3>
   
   
-  <h4>firstnamelastname@central.uh.edu</h4>
+  <h4>khs4jv@virginia.edu</h4>
   <!-- Trigger/Open The Modal -->
-  <button class="modal-button" href="#myModal2">About First Name</button>
+  <button class="modal-button" href="#kschmidt">About Kristin</button>
 
   <!-- The Modal -->
-  <div id="myModal2" class="modal">
+  <div id="kschmidt" class="modal">
 
     <!-- Modal content -->
    <div class="modal-content">
       <div class="modal-header">
         <span class="close">×</span>
-        <h2>Modal Header</h2>
+        <h2>Kristin Schmidt, REU Program</h2>
       </div>
       <div class="modal-body">
-        <p>Some text in the Modal Body</p>
-        <p>Some other text...</p>
+        <img src="/photo/KSchmidt.JPG" alt="Kristin Schmidt" />
+        <p>Kristin Schmidt is an undergraduate student working in the lab this summer through the NSF REU program. Originally from Long Island, NY, Kristin currently attends the University of Virginia, studying mechanical engineering, and plans to graduate in spring 2020. At UVA’s Center for Applied Biomechanics, she studied the role of occupant posture in frontal car crashes. Additionally, Kristin is highly involved in service and outreach activities, such as introducing STEM to elementary school students of minority backgrounds. In the BRAIN Center at UH, Kristin is working to design a novel, low-cost dry cap system to integrate with the “NeuroExo” project. </p>
       </div>
-      <div class="modal-footer">
-        <h3>Modal Footer</h3>
-      </div>
-    </div>
+  </div>
 
   </div>
 </div>
