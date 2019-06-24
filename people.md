@@ -81,7 +81,7 @@ title: People
  </html>
 
 <div>
-  <img src="/photos/JContreras-Vidal.jpeg" alt="Jose Luis Contreras-Vidal" />
+  <img src="/photos/JContreras-Vidal.jpg" alt="Jose Luis Contreras-Vidal" />
   <h3> Jose Luis Contreras-Vidal</h3>
   
   
