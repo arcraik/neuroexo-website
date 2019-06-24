@@ -79,7 +79,32 @@ title: People
   </head> 
  
  </html>
- 
+
+<div>
+  <img src="/photos/JContreras-Vidal.jpeg" alt="Jose Luis Contreras-Vidal" />
+  <h3> Jose Luis Contreras-Vidal</h3>
+  
+  
+  <h4>jlcontreras-vidal@uh.edu</h4>
+  <!-- Trigger/Open The Modal -->
+  <button class="modal-button" href="#pepe">About Jose</button>
+
+  <!-- The Modal -->
+  <div id="pepe" class="modal">
+
+    <!-- Modal content -->
+   <div class="modal-content">
+      <div class="modal-header">
+        <span class="close">×</span>
+        <h2>Jose L Contreras-Vidal</h2>
+      </div>
+      <div class="modal-body">
+        <p>Jose Luis Contreras-Vidal, Ph.D., IEEE Fellow (EMBS, SMC, RAS), is Cullen Distinguished Professor of Electrical &amp; Computer Engineering, and Director of the NSF Industry-University Collaborative Research Center on Building Reliable Advances and Innovations in Neurotechnologies (IUCRC BRAIN) at the University of Houston, and the Principal Investigator for this NSF PFI Project. He has pioneered the development of noninvasive brain-machine interfaces and wearable exoskeletons to restore motor function in individuals with spinal cord injury, stroke and limb amputation. Professor Contreras-Vidal is an associate editor of IEEE Transactions on Human Machine Systems and J of Mobile Human Computer Interaction, a Review Editor for Frontiers in Neuroprosthetics, a Topic Editor for Frontiers in Human Neuroscience and Editor-in-Chief for the incoming book (Springer Nature Switzerland AG) on Mobile Brain-Body Imaging and the Neuroscience of Art, Innovation and Creativity. His work has been supported by the NIH, NSF, VA, DARPA, ONR, Foundations, donors, and industry. Dr. Contreras-Vidal’s research has been highlighted by The Economist, Nature, Science, Science News, Der Spiegel, NSF, Wall Street Journal, SFN, O&amp;P, Scientific American, NPR’s Science Friday, and Neurology Today among others. Jose’s career development in biomedical engineering has been highlighted in the magazine Science.</p>
+       </div>
+    </div>
+
+  </div>
+</div> 
 <div>
   <img src="/photos/AKilicarslan.jpeg" alt="Atilla Kilicarslan" />
   <h3>Atilla Kilicarslan</h3>
@@ -137,7 +162,36 @@ title: People
 
   </div>
 </div>
+<br>
+<div>
+  <img src="/assets/newfigure.png" alt="Test" />
+  <h3> First Name Last Name</h3>
+  
+  
+  <h4>firstnamelastname@central.uh.edu</h4>
+  <!-- Trigger/Open The Modal -->
+  <button class="modal-button" href="#myModal2">About First Name</button>
 
+  <!-- The Modal -->
+  <div id="myModal2" class="modal">
+
+    <!-- Modal content -->
+   <div class="modal-content">
+      <div class="modal-header">
+        <span class="close">×</span>
+        <h2>Modal Header</h2>
+      </div>
+      <div class="modal-body">
+        <p>Some text in the Modal Body</p>
+        <p>Some other text...</p>
+      </div>
+      <div class="modal-footer">
+        <h3>Modal Footer</h3>
+      </div>
+    </div>
+
+  </div>
+</div>
 
 
 
