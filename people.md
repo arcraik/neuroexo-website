@@ -106,6 +106,7 @@ title: People
 
   </div>
 </div> 
+<br>
 <div>
   <img src="/photos/AKilicarslan.jpeg" alt="Atilla Kilicarslan" />
   <h3>Atilla Kilicarslan</h3>
