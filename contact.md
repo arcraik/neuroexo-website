@@ -1,47 +1,8 @@
 ---
 layout: page
 title: Contact Us
----
-<html>
-    <head>
-        <style>
-            input {
-                margin-top: 5px;
-                margin-bottom: 20px;
-                width: 100%;
-            }
-            textarea[type=message] {
-                height: 100px;
-                border: 1px solid #ccc;
-                padding: 12px;
-                margin-top: 5px;
-                margin-bottom: 20px;
-                background-color: #fafafa;
-                font-size: 14px;
-                border-radius: 2px;
-                width: 100%;
-            }
-            textarea[type=message]:focus {
-                background-color: white;
-            input[type=submit] {
-                border: none;
-                width: 50%;
-            }
-            input[type=submit]:focus {
-                background-color: #fafafa;
-            }
-            p.contact {
-                float: left;
-            }     
-       </style>
-    </head>
-    </html>
-    
-   
-
-    
-    
- <script type="text/javascript">var submitted=false;</script>
+--- 
+<script type="text/javascript">var submitted=false;</script>
 
 <iframe id="hidden_iframe" name="hidden_iframe" onload="submitted&amp;&amp;(window.location=&quot;https://neuroexo.org/thanks/&quot;)" style="display:none"></iframe>
 
