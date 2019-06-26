@@ -106,7 +106,7 @@ img {vertical-align: middle;}
   <span class="dot"></span> 
 </div>
 
-
+<script src="/javascript/carousel.js"></script>
 
 </body>
 </html> 
