@@ -6,6 +6,12 @@ title: People
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
+      img{
+        height: 20%;
+        width: 20%;
+        float: left;
+        padding: 0px 25px 25px;
+      }
       div {
         overflow: auto;
       }
