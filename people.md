@@ -42,7 +42,7 @@ title: People
 </div> 
 <br>
 <div>
-  <img src="/photos/AKilicarslan.jpeg" alt="Atilla Kilicarslan" />
+  <img class="peoplepic" src="/photos/AKilicarslan.jpeg" alt="Atilla Kilicarslan" />
   <h3>Atilla Kilicarslan</h3>
 
 
@@ -70,7 +70,7 @@ title: People
 </div>
 <br>
 <div>
-  <img src="/photos/KSchmidt.JPG" alt="Kristin Schmidt" />
+  <img class="peoplepic" src="/photos/KSchmidt.JPG" alt="Kristin Schmidt" />
   <h3>Kristin Schmidt</h3>
   
   
@@ -97,7 +97,7 @@ title: People
 </div>
 <br>
 <div>
-  <img src="/assets/newfigure.png" alt="Test" />
+  <img class="peoplepic" src="/assets/newfigure.png" alt="Test" />
   <h3> First Name Last Name</h3>
   
   
