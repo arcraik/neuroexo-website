@@ -68,6 +68,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll-feed (~> 0.6)
   jekyll-paginate
+  jekyll-seo-tag
   minima
 
 RUBY VERSION
