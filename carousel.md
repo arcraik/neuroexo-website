@@ -82,19 +82,19 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
-  <img src="AKilicarslan.jpeg" style="width:100%">
+  <img src="/photos/AKilicarslan.jpeg" style="width:100%">
   <div class="text">Caption Text</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
-  <img src="KSchmidt.JPG" style="width:100%">
+  <img src="/photos/KSchmidt.JPG" style="width:100%">
   <div class="text">Caption Two</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 3</div>
-  <img src="JContreras-Vidal.jpg" style="width:100%">
+  <img src="/photos/JContreras-Vidal.jpg" style="width:100%">
   <div class="text">Caption Three</div>
 </div>
 
