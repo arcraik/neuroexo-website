@@ -45,7 +45,7 @@ title: Contact Us
 
 <iframe id="hidden_iframe" name="hidden_iframe" onload="submitted&amp;&amp;(window.location=&quot;https://neuroexo.org/thanks/&quot;)" style="display:none"></iframe>
 
-<form action="https://docs.google.com/forms/d/e/1FAIpQLSfzO-mkf1gKY5kpA8piBab6h6KymTF0sMOzfcbuRoEvuL6SOA/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true;" style="width:50%;" align="left" float="left" >
+<form action="https://docs.google.com/forms/d/e/1FAIpQLSfzO-mkf1gKY5kpA8piBab6h6KymTF0sMOzfcbuRoEvuL6SOA/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true;" style="width:50%; float:left;" align="left" >
     <label><h4>Name*</h4></label>
     <input name="entry.134554697" type="text" required/>
     <label><h4>Email*</h4></label>
