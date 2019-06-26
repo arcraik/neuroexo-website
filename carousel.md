@@ -55,10 +55,6 @@ img {vertical-align: middle;}
 </style>
 </head>
 <body>
-
-<h2>Automatic Slideshow</h2>
-<p>Change image every 2 seconds:</p>
-
 <div class="slideshow-container">
 
 <div class="mySlides fade">
@@ -75,17 +71,20 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 3</div>
-  <img src="/photos/JContreras-Vidal.jpg" style="width:100%">
+  <img src="JoseContreras-Vidal.jpg" style="width:100%">
   <div class="text">Caption Three</div>
 </div>
+
+<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+<a class="next" onclick="plusSlides(1)">&#10095;</a>
 
 </div>
 <br>
 
 <div style="text-align:center">
-  <span class="dot"></span> 
-  <span class="dot"></span> 
-  <span class="dot"></span> 
+  <span class="dot" onclick="currentSlide(1)"></span> 
+  <span class="dot" onclick="currentSlide(2)"></span> 
+  <span class="dot" onclick="currentSlide(3)"></span> 
 </div>
 
 <script src="/javascript/carousel.js"></script>
