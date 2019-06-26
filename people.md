@@ -6,45 +6,6 @@ title: People
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
-      img {
-        height: 20%;
-        width: 20%;
-        float: left;
-        padding: 0px 25px 25px;
-      }
-      @-webkit-keyframes animatetop {
-        from {top:-300px; opacity:0} 
-        to {top:0; opacity:1}
-      }
-      @keyframes animatetop {
-        from {top:-300px; opacity:0}
-        to {top:0; opacity:1}
-      }
-      .close {
-        color: black;
-        float: right;
-        font-size: 28px;
-        font-weight: bold;
-      }
-      .close:hover,
-      .close:focus {
-        color: #000;
-        text-decoration: none;
-        cursor: pointer;
-      }
-      .modal-header {
-        padding: 2px 16px;
-        background-color: white;
-        color: black;
-        border-bottom: 1px solid #e9ecef;
-      }
-      .modal-body {
-        padding: 2px 16px;
-        overflow: auto;
-      }
-      .content {
-        padding: 25px;
-      }
       div {
         overflow: auto;
       }
