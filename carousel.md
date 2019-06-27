@@ -28,6 +28,7 @@
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
 <a class="next" onclick="plusSlides(1)">&#10095;</a>
 
+<div class="carousel-text" style="position: absolute; bottom: 20px; right: 20px;">Welcome to our lab!</div>
 </div>
 <br>
 
