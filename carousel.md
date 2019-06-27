@@ -11,6 +11,7 @@
   <div class="numbertext">1 / 3</div>
   <img src="/photos/AKilicarslan.jpeg" style="width:100%">
   <div class="text">Caption Text</div>
+  <div class="carousel-text" style="position: absolute; top: 50%; left: 20px;">Welcome to our lab!</div>
 </div>
 
 <div class="mySlides fade">
@@ -28,7 +29,6 @@
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
 <a class="next" onclick="plusSlides(1)">&#10095;</a>
 
-<div class="carousel-text" style="position: absolute; bottom: 20px; right: 20px;">Welcome to our lab!</div>
 </div>
 <br>
 
@@ -37,7 +37,7 @@
   <span class="dot" onclick="currentSlide(2)"></span> 
   <span class="dot" onclick="currentSlide(3)"></span> 
 </div>
-
+Hello
 <script src="/javascript/carousel.js"></script>
 
 </body>
