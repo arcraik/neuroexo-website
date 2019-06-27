@@ -1,8 +1,8 @@
 theme: minima
 title: NeuroExo
-author: BMI Robotic Rehabilitation
+#author: 
 #email: email goes here
-description: Using noninvasive Brain Machine Interface to rehabilitate stoke victims and to improve efficiency, cost, reliability and ease of use of previous methods of rehabilitaion.
+description: BMI Robotic Rehabilitation
 permalink: pretty
 header_pages:
   - about.md
