@@ -1,4 +1,9 @@
 <html>
+  <head>
+    <style>
+      * {box-sizing: border-box;}
+    </style>
+  </head>
 <body>
 <div class="slideshow-container">
 
