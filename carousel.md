@@ -9,6 +9,8 @@ img {vertical-align: middle;}
 /* Slideshow container */
 .slideshow-container {
   max-width: 1000px;
+  height: 300px;
+  overflow: hidden;
   position: relative;
   margin: auto;
 }
@@ -19,7 +21,7 @@ img {vertical-align: middle;}
   position: absolute;
   top: 50%;
   width: auto;
-  padding: 16px;
+  padding: 25px;
   margin-top: -22px;
   color: white;
   font-weight: bold;
