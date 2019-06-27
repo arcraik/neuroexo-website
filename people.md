@@ -13,7 +13,7 @@ title: People
   </head> 
  
  </html>
-
+<h2>Principal Investigator</h2>
 <div>
   <img class="peoplepic" src="/photos/JContreras-Vidal.jpg" alt="Jose Luis Contreras-Vidal" />
   <h3> Jose Luis Contreras-Vidal</h3>
@@ -41,6 +41,7 @@ title: People
   </div>
 </div> 
 <br>
+<h2>Co-Principal Investigator</h2>
 <div>
   <img class="peoplepic" src="/photos/AKilicarslan.jpeg" alt="Atilla Kilicarslan" />
   <h3>Atilla Kilicarslan</h3>
@@ -69,6 +70,7 @@ title: People
   </div>
 </div>
 <br>
+<h2>REU Students</h2>
 <div>
   <img class="peoplepic" src="/photos/KSchmidt.JPG" alt="Kristin Schmidt" />
   <h3>Kristin Schmidt</h3>
