@@ -25,3 +25,5 @@ Brain-controlled robotic devices are excellent candidates for engaging the patie
 <a class="button" href="/lab/">Learn More</a>
   </div>
 <hr>
+
+<h3>Our Partners:</h3>
