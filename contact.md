@@ -13,6 +13,7 @@ title: Contact Us
     <input name="entry.17102386" type="email" required/>
     <label><h4>Classification</h4></label>
     <select name="entry.1310522851">
+      <option name="entry.1310522851" data-value>Choose</option>
       <option name="entry.1310522851" data-value="Graduate Student">Graduate Student</option>
       <option name="entry.1310522851" data-value="Undergraduate Student">Undergraduate Student</option>
       <option name="entry.1310522851" data-value="High Schooler">High Schooler</option>
