@@ -11,6 +11,14 @@ title: Contact Us
     <input name="entry.134554697" type="text" required/>
     <label><h4>Email*</h4></label>
     <input name="entry.17102386" type="email" required/>
+    <label><h4>Classification</h4></label>
+    <select name="entry.1310522851">
+      <option name="entry.1310522851" data-value="Graduate Student">Graduate Student</option>
+      <option name="entry.1310522851" data-value="Undergraduate Student">Undergraduate Student</option>
+      <option name="entry.1310522851" data-value="High Schooler">High Schooler</option>
+      <option name="entry.1310522851" data-value="Corporation">Corporation</option>
+      <option name="entry.1310522851" data-value="Other">Other</option>
+    </select>
     <label><h4>Message*</h4></label>
     <textarea name="entry.616702237" type="message" required></textarea>
     <br>
