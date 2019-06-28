@@ -30,5 +30,5 @@ Brain-controlled robotic devices are excellent candidates for engaging the patie
 <span>
   <img src="/photos/harmonicbionics.png">
   <img src="/photos/nationalinstruments.png">
-  <img src="/photos/tirrmemorialhermann.jpg">
+  <img src="/photos/tirrmemorialhermann.png">
 </span>
