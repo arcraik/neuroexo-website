@@ -2,8 +2,25 @@
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
   {%- include head.html -%}
+<head>
+  <style>
+    .reveal a:link {
+  color: white;
+}
 
+.reveal a:active,
+.reveal a:focus {
+  background: black;
+}
+  </style>
+  </head>
   <body>
+    
+
+// For example, in the HTML you would include the class like this:
+<div id="skip-nav" class="reveal">
+  <a href="#main-content"><?php print t('Skip to main content'); ?></a>
+</div>
 
     {%- include header.html -%}
 
