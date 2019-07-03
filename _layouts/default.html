@@ -4,13 +4,25 @@
   {%- include head.html -%}
 <head>
   <style>
-    .reveal a:link {
-  color: black;
+ a.offscreen {
+position:absolute;
+left:-1000px;
+top:-1000px;
+width:1px;
+height:1px;
+text-align: left; 
+overflow:hidden;
 }
 
-.reveal a:active,
-.reveal a:focus {
-  background: white;
+a.offscreen:focus, a.offscreen:active, a.offscreen:hover { 
+position:absolute; 
+left:0; 
+top:0; 
+width:auto; 
+height:auto; 
+overflow:visible;
+background-color:#FF3;
+border: 1px dotted #000;
 }
   </style>
   </head>
@@ -18,14 +30,14 @@
     
 
 <div id="skip-nav" class="reveal">
-  <a href="#main-content"><?php print t('Skip to main content'); ?></a>
+<a href="#main-content" class="offscreen">Skip Content</a>
 </div>
 
     {%- include header.html -%}
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        <a name="main-content" tabindex="-1"></a>
+        <a name="main-content" ></a> 
         {{ content }}
       </div>
     </main>
