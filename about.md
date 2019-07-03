@@ -31,4 +31,5 @@ Brain-controlled robotic devices are excellent candidates for engaging the patie
   <a href="http://harmonicbionics.com/" target="_blank"><img src="/photos/harmonicbionics.png" ></a>
   <a href="https://www.ni.com/en-us.html" target="_blank"><img src="/photos/nationalinstruments.png"></a>
   <a href="http://tirr.memorialhermann.org/" target="_blank"><img src="/photos/tirrmemorialhermann.png" ></a>
+  <a href="http://brain.egr.uh.edu/" target="_blank"><img src="/photos/brain_logo.png"></a>
 </span>
