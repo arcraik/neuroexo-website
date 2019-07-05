@@ -98,6 +98,7 @@ title: People
   </div>
 </div>
 <br>
+<h2>Collaborators</h2>
 <div>
   <img class="peoplepic" src="/assets/newfigure.png" alt="Test" />
   <h3> First Name Last Name</h3>
