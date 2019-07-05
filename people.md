@@ -70,6 +70,10 @@ title: People
   </div>
 </div>
 <br>
+<h2>Graduate Students</h2>
+<div>
+  </div>
+ <br>
 <h2>REU Students</h2>
 <div>
   <img class="peoplepic" src="/photos/KSchmidt.JPG" alt="Kristin Schmidt" />
