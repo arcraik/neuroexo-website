@@ -18,7 +18,7 @@ title: People
   <img class="peoplepic" src="/photos/JContreras-Vidal.jpg" alt="Jose Luis Contreras-Vidal" />
   <h3> Jose Luis Contreras-Vidal</h3>
   
-  
+  <h4>Principal Investigator</h4>
   <h4>jlcontreras-vidal@uh.edu</h4>
   <!-- Trigger/Open The Modal -->
   <button class="modal-button" href="#pepe">About Jose</button>
@@ -46,7 +46,7 @@ title: People
   <img class="peoplepic" src="/photos/AKilicarslan.jpeg" alt="Atilla Kilicarslan" />
   <h3>Atilla Kilicarslan</h3>
 
-
+  <h4>Co-Principal Investigator</h4>
   <h4>akilica2@central.uh.edu</h4>
 
   <!-- Trigger/Open The Modal -->
@@ -75,7 +75,7 @@ title: People
   <img class="peoplepic" src="/photos/ArCraik.jpg" alt="Alexander Craik" />
   <h3>Alexander Craik</h3>
   
-  
+  <h4>PHD Student</h4>
   <h4>jlcontreras-vidal@uh.edu</h4>
   <!-- Trigger/Open The Modal -->
   <button class="modal-button" href="#arcraik">About Alex</button>
@@ -105,7 +105,7 @@ title: People
   <img class="peoplepic" src="/photos/KSchmidt.JPG" alt="Kristin Schmidt" />
   <h3>Kristin Schmidt</h3>
   
-  
+  <h4>University of Virginia Undergraduate</h4>
   <h4>khs4jv@virginia.edu</h4>
   <!-- Trigger/Open The Modal -->
   <button class="modal-button" href="#kschmidt">About Kristin</button>
