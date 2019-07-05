@@ -72,6 +72,32 @@ title: People
 <br>
 <h2>Graduate Students</h2>
 <div>
+  <img class="peoplepic" src="/photos/ArCraik.jpg" alt="Alexander Craik" />
+  <h3>Alexander Craik</h3>
+  
+  
+  <h4>jlcontreras-vidal@uh.edu</h4>
+  <!-- Trigger/Open The Modal -->
+  <button class="modal-button" href="#arcraik">About Alex</button>
+
+  <!-- The Modal -->
+  <div id="arcraik" class="modal">
+
+    <!-- Modal content -->
+   <div class="modal-content">
+      <div class="modal-header">
+        <span class="close">×</span>
+        <h2>Alexander Craik, PHD Student</h2>
+      </div>
+      <div class="modal-body">
+          <img class="content peoplepic" src="/photos/ArCraik.jpg" alt="Alexander Craik" />
+        <p class="content">Alexander Craik is currently a PhD student in Electrical and Computer Engineering (ECE) at the University of Houston.  He previously received his M.S. in ECE, his B.S. in Aerospace Engineering, and his B.A. in Economics. His research involves the use of transfer learning and deep neural networks in decoding neural intent with EEG. His interests include neuroscience and speech synthesis.</p>
+       </div>
+    </div>
+
+  </div>
+</div>
+<div>
   </div>
  <br>
 <h2>REU Students</h2>
