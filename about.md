@@ -2,6 +2,10 @@
 layout: page
 title: About
 ---
+This project is funded by the National Science Foundation(NSF) through the Partners for Innovation(PFI) program.
+<h3><a href="https://nsf.gov/awardsearch/showAward?AWD_ID=1827769&HistoricalAwards=false" target="_blank">NSF PFI-RP: Brain-controlled Upper-Limb Robot-Assisted Rehabilitation Device for Stroke Survivors</a></h3>
+
+
 The broader impact/commercial potential of this PFI project is to advance the national health by accelerating the development, efficacy and use of brain-controlled robotic rehabilitation after stroke by capitalizing on the benefits of non-invasive brain interfaces that extract information about the patients’ motor intent and the real-time assessment of impairment and recovery of motor function. 
 
 <img src="/assets/newfigure.png" alt="Test" />
