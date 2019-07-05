@@ -14,10 +14,9 @@ title: Contact Us
     <label><h4>Classification</h4></label>
     <select name="entry.1310522851">
       <option name="entry.1310522851" data-value>Choose</option>
-      <option name="entry.1310522851" data-value="Graduate Student">Graduate Student</option>
-      <option name="entry.1310522851" data-value="Undergraduate Student">Undergraduate Student</option>
-      <option name="entry.1310522851" data-value="High Schooler">High Schooler</option>
-      <option name="entry.1310522851" data-value="Corporation">Corporation</option>
+      <option name="entry.1310522851" data-value="Interested in Joining">Interested in Joining</option>
+      <option name="entry.1310522851" data-value="Interested in Collaborating">Interested in Collaborating</option>
+      <option name="entry.1310522851" data-value="Question">Question</option>
       <option name="entry.1310522851" data-value="Other">Other</option>
     </select>
     <label><h4>Message*</h4></label>
