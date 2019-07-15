@@ -1,3 +1,8 @@
+---
+layout: page
+title: Carousel
+---
+
 <html>
   <head>
     <style>
@@ -7,20 +12,25 @@
 <body>
 <div class="slideshow-container">
 
-<div class="mySlides fade">
+<div class="mySlides fade carousel-image ">
   <div class="numbertext">1 / 3</div>
   <img src="/photos/AKilicarslan.jpeg" style="width:100%">
   <div class="text">Caption Text</div>
   <div class="carousel-text">Welcome to our lab!</div>
 </div>
 
-<div class="mySlides fade">
+<div class="mySlides fade carousel-image">
   <div class="numbertext">2 / 3</div>
   <img src="/photos/KSchmidt.JPG" style="width:100%">
   <div class="text">Caption Two</div>
+  <div class="carousel-text">
+  Meet The People
+  <br>
+  <a class="button" href="/people/">Learn More</a>
+  </div>
 </div>
 
-<div class="mySlides fade">
+<div class="mySlides fade carousel-image">
   <div class="numbertext">3 / 3</div>
   <img src="/photos/JContreras-Vidal.jpg" style="width:100%">
   <div class="text">Caption Three</div>
@@ -33,12 +43,12 @@
 <br>
 
 <div style="text-align:center">
-  <span class="dot" onclick="currentSlide(1)"></span> 
-  <span class="dot" onclick="currentSlide(2)"></span> 
-  <span class="dot" onclick="currentSlide(3)"></span> 
+  <span class="dot" onclick="currentSlide(1)"></span>
+  <span class="dot" onclick="currentSlide(2)"></span>
+  <span class="dot" onclick="currentSlide(3)"></span>
 </div>
 Hello
 <script src="/javascript/carousel.js"></script>
 
 </body>
-</html> 
+</html>
