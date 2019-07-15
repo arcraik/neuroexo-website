@@ -11,7 +11,7 @@
   <div class="numbertext">1 / 3</div>
   <img src="/photos/AKilicarslan.jpeg" style="width:100%">
   <div class="text">Caption Text</div>
-  <div class="carousel-text" style="position: absolute; top: 50%; left: 20px;">Welcome to our lab!</div>
+  <div class="carousel-text">Welcome to our lab!</div>
 </div>
 
 <div class="mySlides fade">
