@@ -361,7 +361,7 @@ input[type=submit]:focus {
 }
 p.contact {
   float: left;
-}     
+}
 select {
   border: 1px solid #ccc;
   padding: 12px;
@@ -378,16 +378,16 @@ select {
 */
 .modal {
   display: none; /* Hidden by default */
-  position: fixed; 
-  z-index: 1; 
+  position: fixed;
+  z-index: 1;
   padding-top: 100px; /* Location of the box */
   left: 0;
   top: 0;
   width: 100%;
   height: 100%;
-  overflow: auto; 
-  background-color: rgb(0,0,0); 
-  background-color: rgba(0,0,0,0.4); 
+  overflow: auto;
+  background-color: rgb(0,0,0);
+  background-color: rgba(0,0,0,0.4);
 }
 .modal-content {
   position: relative;
@@ -443,11 +443,10 @@ img.content {
 *carousel
 */
 .mySlides {display: none;}
-img {vertical-align: middle;}
 
 .slideshow-container {
-  max-width: 1000px;
-  height: 300px;
+  max-width: 1100px;
+  height: 400px;
   overflow: hidden;
   position: relative;
   margin: auto;
@@ -458,7 +457,7 @@ img {vertical-align: middle;}
   position: absolute;
   top: 50%;
   width: auto;
-  padding: 25px;
+  padding: 15px;
   margin-top: -22px;
   color: white;
   font-weight: bold;
@@ -466,6 +465,7 @@ img {vertical-align: middle;}
   transition: 0.6s ease;
   border-radius: 0 3px 3px 0;
   user-select: none;
+  z-index: 5;
 }
 
 .next {
@@ -474,7 +474,8 @@ img {vertical-align: middle;}
 }
 
 .prev:hover, .next:hover {
-  background-color: rgba(0,0,0,0.8);
+  background-color: grey;
+  text-decoration: none;
 }
 
 .text {
@@ -495,11 +496,25 @@ img {vertical-align: middle;}
   top: 0;
 }
 
-.carouseltext {
-  position: absolute; 
-  top: 50%; 
-  left: 20px;
+.carousel-text {
+  position: absolute;
+  top: 35%;
+  left: 50px;
   color: white;
+  font-size: 40px;
+  z-index: 6;
+}
+
+.carousel-image:after{
+  content:"";
+  display:block;
+  position:absolute;
+  top:0;
+  bottom:0;
+  left:0;
+  right:0;
+  background: linear-gradient(to right, rgba(0,0,0,0.6), 70%, rgba(0,0,0,0),);
+  z-index: 2;
 }
 
 .dot {
