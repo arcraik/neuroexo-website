@@ -10,14 +10,14 @@ title: People
         overflow: auto;
       }
    </style>
-  </head> 
- 
+  </head>
+
  </html>
 <h2>Principal Investigator</h2>
 <div>
   <img class="peoplepic" src="/photos/JContreras-Vidal.jpg" alt="Jose Luis Contreras-Vidal" />
   <h3> Jose Luis Contreras-Vidal</h3>
-  
+
   <h4>Principal Investigator</h4>
   <h4>jlcontreras-vidal@uh.edu</h4>
   <!-- Trigger/Open The Modal -->
@@ -39,7 +39,7 @@ title: People
     </div>
 
   </div>
-</div> 
+</div>
 <br>
 <h2>Co-Principal Investigator</h2>
 <div>
@@ -74,7 +74,7 @@ title: People
 <div>
   <img class="peoplepic" src="/photos/ArCraik.jpg" alt="Alexander Craik" />
   <h3>Alexander Craik</h3>
-  
+
   <h4>PHD Student</h4>
   <h4>jlcontreras-vidal@uh.edu</h4>
   <!-- Trigger/Open The Modal -->
@@ -104,7 +104,7 @@ title: People
 <div>
   <img class="peoplepic" src="/photos/KSchmidt.JPG" alt="Kristin Schmidt" />
   <h3>Kristin Schmidt</h3>
-  
+
   <h4>University of Virginia Undergraduate</h4>
   <h4>khs4jv@virginia.edu</h4>
   <!-- Trigger/Open The Modal -->
@@ -128,12 +128,38 @@ title: People
   </div>
 </div>
 <br>
+<div>
+  <img class="peoplepic" src="/photos/RSutherland.JPG" alt="Robert Sutherland" />
+  <h3>Robert Sutherland</h3>
+
+  <h4>University of South California Undergraduate</h4>
+  <h4>rfsuther@usc.edu</h4>
+  <!-- Trigger/Open The Modal -->
+  <button class="modal-button" href="#rsutherland">About Rob</button>
+
+  <!-- The Modal -->
+  <div id="rsutherland" class="modal">
+
+    <!-- Modal content -->
+   <div class="modal-content">
+      <div class="modal-header">
+        <span class="close">×</span>
+        <h2>Robert Sutherland, REU Program</h2>
+      </div>
+      <div class="modal-body">
+        <img class="content peoplepic" src="/photos/RSutherland.JPG" alt="Robert Sutherland" />
+        <p class="content">Robert is a researcher looking to unlock the amazing potential within our brains. His passion for neural interfaces began in high school with an internship at Walter Reed. The time he spent working with veteran amputees inspired him to look to neural prosthetics as a tool for enhancing people's lives. He currently attends the University of Southern California as a Biomedical Engineering Undergrad and assists research in the University of Southern California's BioMEMs lab. Robert plans to continue his research in the fall at Charité – Universitätsmedizin in Berlin studying BMI’s. </p>
+      </div>
+  </div>
+
+  </div>
+</div>
 <h2>Collaborators</h2>
 <div>
   <img class="peoplepic" src="/assets/newfigure.png" alt="Test" />
   <h3> First Name Last Name</h3>
-  
-  
+
+
   <h4>firstnamelastname@central.uh.edu</h4>
   <!-- Trigger/Open The Modal -->
   <button class="modal-button" href="#myModal2">About First Name</button>
@@ -163,14 +189,3 @@ title: People
 
 
 <script src="/javascript/modal.js"></script>
-
-
-
-
-      
-        
-      
-      
-     
-
-
