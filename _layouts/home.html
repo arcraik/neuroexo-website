@@ -7,10 +7,10 @@ layout: default
   {%- endif -%}
 
   {{ content }}
-  
-  
-  
-<div>
+
+
+<br>
+<div style="width:50%; float:right;">
  <h2 style="padding-top:20px;" class="post-list-heading">{{ page.list_title | default: "Recent Updates" }}</h2>
  <ul class="post-list">
     {% for post in paginator.posts %}
@@ -29,8 +29,8 @@ layout: default
   <hr>
 <a href="/updates/" class="archive">See All </a>
   </div>
-   
-  
+
+
    <!-- <p style="margin-top:20px;" class="feed-subscribe"><svg class="svg-icon orange"><use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use></svg><a href="{{ "/feed.xml" | relative_url }}">Subscribe</a></p>-->
 
 </div>
