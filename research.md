@@ -10,7 +10,7 @@ Eos eu docendi tractatos sapientem, brute option menandri in vix, quando vivendo
 <br>
 <a href="https://neuroexo.org" class="button" >Learn More</a>
 </div>
-<br>
+
 <div class="section">
 <hr>
 <h3>Hardware</h3>
@@ -20,7 +20,7 @@ Eos eu docendi tractatos sapientem, brute option menandri in vix, quando vivendo
 <a href="https://neuroexo.org" class="button" >Learn More</a>
 </div>
 <div class="section">
-<br>
+
 <hr>
 <h3>Software</h3>
 <img class="section" src="/assets/newfigure.png" alt="Test" align="right" height="150" width="250" />
