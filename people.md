@@ -129,7 +129,7 @@ title: People
 </div>
 <br>
 <div>
-  <img class="peoplepic" src="/photos/RSutherland.JPG" alt="Robert Sutherland" />
+  <img class="peoplepic" src="/photos/RSutherland.jpg" alt="Robert Sutherland" />
   <h3>Robert Sutherland</h3>
 
   <h4>University of South California Undergraduate</h4>
@@ -147,7 +147,7 @@ title: People
         <h2>Robert Sutherland, REU Program</h2>
       </div>
       <div class="modal-body">
-        <img class="content peoplepic" src="/photos/RSutherland.JPG" alt="Robert Sutherland" />
+        <img class="content peoplepic" src="/photos/RSutherland.jpg" alt="Robert Sutherland" />
         <p class="content">Robert is a researcher looking to unlock the amazing potential within our brains. His passion for neural interfaces began in high school with an internship at Walter Reed. The time he spent working with veteran amputees inspired him to look to neural prosthetics as a tool for enhancing people's lives. He currently attends the University of Southern California as a Biomedical Engineering Undergrad and assists research in the University of Southern California's BioMEMs lab. Robert plans to continue his research in the fall at Charité – Universitätsmedizin in Berlin studying BMI’s. </p>
       </div>
   </div>
