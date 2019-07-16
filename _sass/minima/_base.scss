@@ -359,6 +359,11 @@ input[type=submit] {
 input[type=submit]:focus {
   background-color: #fafafa;
 }
+.contact{
+  width: 40%;
+  float: right;
+
+}
 p.contact {
   float: left;
 }
@@ -531,8 +536,16 @@ img.content {
 .active, .dot:hover {
   background-color: #717171;
 }
+.post-thing{
+  width:40%;
+  float:right;
+}
 
-
-@media only screen and (max-width: 300px) {
+@media (max-width: 700px) {
   .text {font-size: 11px}
+  .post-thing, .page-content, .post-content, .contact{
+    width: 100%;
+  }
+
+
 }
