@@ -36,6 +36,7 @@
   border: 1px solid $grey-color-light;
   border-radius: 5px;
   text-align: right;
+  z-index: 10;
 
   .nav-trigger {
       display: none;
@@ -48,7 +49,6 @@
     line-height: 0;
     padding-top: 10px;
     text-align: center;
-    z-index: 10;
 
     > svg path {
       fill: $grey-color-dark;
