@@ -8,7 +8,7 @@ This project is funded by the National Science Foundation(NSF) through the Partn
 
 The broader impact/commercial potential of this PFI project is to advance the national health by accelerating the development, efficacy and use of brain-controlled robotic rehabilitation after stroke by capitalizing on the benefits of non-invasive brain interfaces that extract information about the patients’ motor intent and the real-time assessment of impairment and recovery of motor function. 
 
-<img src="/assets/newfigure.png" alt="Test" />
+<img src="/assets/about.png" alt="Test" />
 
 <hr>
 <h3>The Challenge</h3>
