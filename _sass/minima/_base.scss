@@ -459,6 +459,8 @@ img.content {
   margin: auto;
 }
 
+
+
 .prev, .next {
   cursor: pointer;
   position: absolute;
@@ -547,6 +549,9 @@ img.content {
   .text {font-size: 11px}
   .post-thing, .page-content, .post-content, .contact{
     width: 100%;
+  .slideshow-container{
+    height: 280px;
+  }
   }
 
 
