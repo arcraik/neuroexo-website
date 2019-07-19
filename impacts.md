@@ -11,7 +11,7 @@ Eos eu docendi tractatos sapientem, brute option menandri in vix, quando vivendo
 <br>
 <a href="/artifacts/" class="button" >Learn More</a>
 </div>
-
+<img src="/assets/newfigure.png" alt="Test" align="right" width="300" height="300" />
 <div class="section">
 <hr>
 <h3>Labaratory Demonstrations</h3>
@@ -20,7 +20,7 @@ Eos eu docendi tractatos sapientem, brute option menandri in vix, quando vivendo
 <br>
 <a href="https://neuroexo.org" class="button" >Learn More</a>
 </div>
-
+<img src="/assets/newfigure.png" alt="Test" align="right" width="300" height="300" />
 <div class="section">
 <hr>
 <h3>BCI Standards and Interoperability</h3>
