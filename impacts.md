@@ -13,11 +13,11 @@ permalink: /impacts/
     </style>
   </head>
 <div class="side-image">
-<img class="section" src="/assets/newfigure.png" alt="Test" align="right" width="300" height="300" />
+<img class="section" src="/assets/newfigure.png" alt="Test" align="right" width="500" height="300" />
 <br>
-<img class="section" src="/assets/newfigure.png" alt="Test" align="right" width="300" height="300" />
+<img class="section" src="/assets/newfigure.png" alt="Test" align="right" width="500" height="300" />
 <br>
-<img class="section" src="/assets/newfigure.png" alt="Test" align="right" width="300" height="300" />
+<img class="section" src="/assets/newfigure.png" alt="Test" align="right" width="500" height="300" />
   </div>
 <div class="section" align="left">
 <hr>
