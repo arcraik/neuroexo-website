@@ -3,7 +3,15 @@ layout: page
 title: Broader Impacts
 permalink: /impacts/
 ---
-<img src="/assets/newfigure.png" alt="Test" align="right" width="300" height="300" />
+<html>
+  <head>
+    <style>
+      img.side-image{
+        padding: 10px;
+     }
+    </style>
+  </head>
+<img class="side-image" src="/assets/newfigure.png" alt="Test" align="right" width="300" height="300" />
 <div class="section" align="left">
 <hr>
 <h3>Steam Outreach at the Children's Museum of Houston</h3>
