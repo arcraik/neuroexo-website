@@ -8,6 +8,7 @@ permalink: /impacts/
     <style>
       img.side-image{
         padding: 10px;
+        float: right;
      }
     </style>
   </head>
