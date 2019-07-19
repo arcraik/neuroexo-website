@@ -6,18 +6,19 @@ permalink: /impacts/
 <html>
   <head>
     <style>
-      img.side-image{
+      .side-image{
         padding: 10px;
         float: right;
      }
     </style>
   </head>
-<img class="side-image" src="/assets/newfigure.png" alt="Test" align="right" width="300" height="300" />
+<div class="side-image">
+<img src="/assets/newfigure.png" alt="Test" align="right" width="300" height="300" />
 <br>
-<img class="side-image" src="/assets/newfigure.png" alt="Test" align="right" width="300" height="300" />
+<img src="/assets/newfigure.png" alt="Test" align="right" width="300" height="300" />
 <br>
-<img class="side-image" src="/assets/newfigure.png" alt="Test" align="right" width="300" height="300" />
-
+<img src="/assets/newfigure.png" alt="Test" align="right" width="300" height="300" />
+  </div>
 <div class="section" align="left">
 <hr>
 <h3>Steam Outreach at the Children's Museum of Houston</h3>
