@@ -13,6 +13,7 @@ permalink: /impacts/
     </style>
   </head>
 <div class="side-image">
+Add some pictures of examples of broader impacts here with caption. Links buttons take to specific pages
 <img class="section" src="/assets/newfigure.png" alt="Test" align="right" width="500" height="300" />
 <br>
 <img class="section" src="/assets/newfigure.png" alt="Test" align="right" width="500" height="300" />
