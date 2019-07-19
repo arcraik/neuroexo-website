@@ -19,6 +19,7 @@ Eos eu docendi tractatos sapientem, brute option menandri in vix, quando vivendo
 <br>
 <a href="/artifacts/" class="button" >Learn More</a>
 </div>
+<br>
 <img src="/assets/newfigure.png" alt="Test" align="right" width="300" height="300" />
 <div class="section">
 <hr>
