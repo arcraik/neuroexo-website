@@ -9,7 +9,7 @@ permalink: /impacts/
       .side-image{
         padding: 10px;
         float: right;
-        width: 500px;
+        width: 525px;
      }
     </style>
   </head>
