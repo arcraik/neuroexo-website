@@ -12,7 +12,9 @@ permalink: /impacts/
     </style>
   </head>
 <img class="side-image" src="/assets/newfigure.png" alt="Test" align="right" width="300" height="300" />
+<br>
 <img class="side-image" src="/assets/newfigure.png" alt="Test" align="right" width="300" height="300" />
+<br>
 <img class="side-image" src="/assets/newfigure.png" alt="Test" align="right" width="300" height="300" />
 
 <div class="section" align="left">
