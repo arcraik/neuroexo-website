@@ -44,4 +44,3 @@ Eos eu docendi tractatos sapientem, brute option menandri in vix, quando vivendo
 <a href="https://neuroexo.org" class="button" >Learn More</a>
 <br>
 </div>
-<hr>
