@@ -2,6 +2,7 @@
 layout: home
 pagination:
   enabled: true
+youtubeId: -F_0Tzwhopc
 ---
 <html>
 <body>
@@ -25,9 +26,9 @@ pagination:
   </div>
 </div>
 
-<div class="mySlides fade carousel-image">
+<div class="mySlides fade ">
   <div class="numbertext">3 / 3</div>
-  <img src="/photos/JContreras-Vidal.jpg" style="width:100%">
+  {% include youtubePlayer.html id=page.youtubeId %}
   <div class="text">Caption Three</div>
 </div>
 
@@ -45,11 +46,10 @@ pagination:
 <br>
 <hr>
 <br>
-The goal is to improve the feasibility of at-home neurorehabilitation for patients with chronic stroke by providing a low-cost, portable, form fitting, reliable, and easy-to-use system.
+The goal of the PFI project is to improve the feasibility of at-home neurorehabilitation for patients with chronic stroke by providing a low-cost, portable, form fitting, reliable, and easy-to-use system.
 <br>
 <a class="button" href="/about/">Learn More</a>
 
-<a href="/carousel/"> Carousel</a>
 </body>
 </html>
 <script src="/javascript/carousel.js"></script>
