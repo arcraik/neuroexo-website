@@ -14,7 +14,6 @@ permalink: /impacts/
     </style>
   </head>
 <div class="side-image">
-
 <figure>
 <img src="/photos/Childrens_Museum_2.jpg" alt="Test" width="500" height="300" />
 <figcaption>2019 Children's Museum</figcaption>
@@ -26,11 +25,12 @@ permalink: /impacts/
 </figure>
 <br>
 <figure>
-<img src="/photos/lab_tour1.JPG" alt="Test"  width="500"  />
+<img src="/photos/lab_tour1.JPG" style="transform: rotate(180deg);" alt="Test"  width="500"  />
 <figcaption> Labaratory Tours</figcaption>
+</figure>
 <img src="/photos/lab_tour2.JPG" alt="Test"  width="500"  />
+</div>
 
-  </div>
 <div class="section" align="left">
 <hr>
 <h3>Steam Outreach at the Children's Museum of Houston</h3>
