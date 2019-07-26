@@ -26,9 +26,9 @@ permalink: /impacts/
 </figure>
 <br>
 <figure>
-<img src="/photos/lab_tour1.JPG" alt="Test"  width="500" height="300" />
+<img src="/photos/lab_tour1.JPG" alt="Test"  width="500"  />
 <figcaption> Labaratory Tours</figcaption>
-<img src="/photos/lab_tour1.JPG" alt="Test"  width="500" height="300" />
+<img src="/photos/lab_tour2.JPG" alt="Test"  width="500"  />
 
   </div>
 <div class="section" align="left">
