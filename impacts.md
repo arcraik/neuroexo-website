@@ -25,7 +25,11 @@ permalink: /impacts/
 <figcaption>2019 Children's Museum(Continued)</figcaption>
 </figure>
 <br>
-<img src="/assets/newfigure.png" alt="Test"  width="500" height="300" />
+<figure>
+<img src="/photos/lab_tour1.JPG" alt="Test"  width="500" height="300" />
+<figcaption> Labaratory Tours</figcaption>
+<img src="/photos/lab_tour1.JPG" alt="Test"  width="500" height="300" />
+
   </div>
 <div class="section" align="left">
 <hr>
