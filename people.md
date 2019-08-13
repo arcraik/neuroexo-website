@@ -16,12 +16,12 @@ title: People
 <h2>Principal Investigator</h2>
 <div>
   <img class="peoplepic" src="/photos/JContreras-Vidal.jpg" alt="Jose Luis Contreras-Vidal" />
-  <h3> Jose Luis Contreras-Vidal</h3>
+  <h4><a href="http://www.ee.uh.edu/faculty/contreras-vidal" target="_blank"> Jose Luis Contreras-Vidal</a></h4>
 
-  <h4>Principal Investigator</h4>
-  <h4>jlcontreras-vidal@uh.edu</h4>
+  <h5>Principal Investigator</h5>
+  <h5>jlcontreras-vidal@uh.edu</h5>
   <!-- Trigger/Open The Modal -->
-  <button class="modal-button" href="#pepe">About Jose</button>
+  <button class="modal-button" href="#pepe">About Pepe</button>
 
   <!-- The Modal -->
   <div id="pepe" class="modal">
@@ -44,10 +44,10 @@ title: People
 <h2>Co-Principal Investigator</h2>
 <div>
   <img class="peoplepic" src="/photos/AKilicarslan.jpeg" alt="Atilla Kilicarslan" />
-  <h3>Atilla Kilicarslan</h3>
+  <h4>Atilla Kilicarslan</h4>
 
-  <h4>Co-Principal Investigator</h4>
-  <h4>akilica2@central.uh.edu</h4>
+  <h5>Co-Principal Investigator</h5>
+  <h5>akilica2@central.uh.edu</h5>
 
   <!-- Trigger/Open The Modal -->
   <button class="modal-button" href="#akilicarslan">About Atilla</button>
@@ -73,10 +73,10 @@ title: People
 <h2>Graduate Students</h2>
 <div>
   <img class="peoplepic" src="/photos/ArCraik.jpg" alt="Alexander Craik" />
-  <h3>Alexander Craik</h3>
+  <h4>Alexander Craik</h4>
 
-  <h4>PHD Student</h4>
-  <h4>jlcontreras-vidal@uh.edu</h4>
+  <h5>PhD Student, Graduate Research Assistant</h5>
+  <h5>arcraik@uh.edu</h5>
   <!-- Trigger/Open The Modal -->
   <button class="modal-button" href="#arcraik">About Alex</button>
 
@@ -103,10 +103,12 @@ title: People
 <h2>REU Students</h2>
 <div>
   <img class="peoplepic" src="/photos/KSchmidt.JPG" alt="Kristin Schmidt" />
-  <h3>Kristin Schmidt</h3>
+  <h4>Kristin Schmidt</h4>
 
-  <h4>University of Virginia Undergraduate</h4>
-  <h4>khs4jv@virginia.edu</h4>
+  <h5>University of Virginia </h5>
+  <h5>Undergraduate Student</h5>
+  <h5>Mechanical Engineering Major</h5>
+  <h5>khs4jv@virginia.edu</h5>
   <!-- Trigger/Open The Modal -->
   <button class="modal-button" href="#kschmidt">About Kristin</button>
 
@@ -130,10 +132,12 @@ title: People
 <br>
 <div>
   <img class="peoplepic" src="/photos/RSutherland.jpg" alt="Robert Sutherland" />
-  <h3>Robert Sutherland</h3>
+  <h4>Robert Sutherland</h4>
 
-  <h4>University of South California Undergraduate</h4>
-  <h4>rfsuther@usc.edu</h4>
+  <h5>University of Southern California</h5>
+  <h5>Undergraduate Student</h5>
+  <h5>Electrical Engineering Major</h5>
+  <h5>rfsuther@usc.edu</h5>
   <!-- Trigger/Open The Modal -->
   <button class="modal-button" href="#rsutherland">About Rob</button>
 
@@ -157,10 +161,10 @@ title: People
 <h2>Collaborators</h2>
 <div>
   <img class="peoplepic" src="/assets/newfigure.png" alt="Test" />
-  <h3> First Name Last Name</h3>
+  <h4> First Name Last Name</h4>
 
 
-  <h4>firstnamelastname@central.uh.edu</h4>
+  <h5>firstnamelastname@central.uh.edu</h5>
   <!-- Trigger/Open The Modal -->
   <button class="modal-button" href="#myModal2">About First Name</button>
 
@@ -178,7 +182,7 @@ title: People
         <p>Some other text...</p>
       </div>
       <div class="modal-footer">
-        <h3>Modal Footer</h3>
+        <h4>Modal Footer</h4>
       </div>
     </div>
 
