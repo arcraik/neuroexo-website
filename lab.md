@@ -6,4 +6,4 @@ The University of Houston Brain-Machine Interface Systems Team (UH BMIST) is a r
 
 
 
-<a href="https://www.facebook.com/UHBMIST/" ><img src="/photos/facebooklogo.png"></a>
+<a href="https://www.facebook.com/UHBMIST/" target="_blank"><img src="/photos/facebooklogo.png"></a>
