@@ -13,8 +13,8 @@ title: People
   </head>
 
  </html>
-<h1>University of Houston Team</h1>
-<h2>Principal Investigator</h2>
+<h2>University of Houston Team</h2>
+<h3>Principal Investigator</h3>
 <div>
   <img class="peoplepic" src="/photos/JContreras-Vidal.jpg" alt="Jose Luis Contreras-Vidal" />
   <h4><a href="http://www.ee.uh.edu/faculty/contreras-vidal" target="_blank"> Jose Luis Contreras-Vidal Ph.D., Hugh Roy and Lillie Cranz Cullen Distinguished Professor</a></h4>
@@ -43,7 +43,7 @@ title: People
 </div>
 <br>
 
-<h2>Co-Principal Investigator</h2>
+<h3>Co-Principal Investigator</h3>
 <div>
   <img class="peoplepic" src="/photos/AKilicarslan.jpeg" alt="Atilla Kilicarslan" />
   <h4>Atilla Kilicarslan PhD</h4>
@@ -68,38 +68,70 @@ title: People
 
   </div>
 </div>
-<br>
-<h2>Graduate Students</h2>
 <div>
-  <img class="peoplepic" src="/photos/ArCraik.jpg" alt="Alexander Craik" />
-  <h4>Alexander Craik</h4>
+<img class="peoplepic" src="/photos/slokhan.jpg" alt="Shaheen Lokhandwala " />
+<h4>Shaheen Lokhandwala </h4>
+<h4>Technology Licensing Associate</h4>
+<h4>Office of Intellectual Property Management (OIPM)</h4>
+<h4>slokhand@central.uh.edu</h4>
+<!-- Trigger/Open The Modal -->
+<button class="modal-button" href="#slokhandwala">About Shaheen</button>
 
-  <h4>PhD Student, Graduate Research Assistant</h4>
-  <h4>arcraik@uh.edu</h4>
-  <!-- Trigger/Open The Modal -->
-  <button class="modal-button" href="#arcraik">About Alex</button>
+<!-- The Modal -->
+<div id="slokhandwala" class="modal">
 
-  <!-- The Modal -->
-  <div id="arcraik" class="modal">
-
-    <!-- Modal content -->
-   <div class="modal-content">
-      <div class="modal-header">
-        <span class="close">×</span>
-        <h2>Alexander Craik, PHD Student</h2>
-      </div>
-      <div class="modal-body">
-          <img class="content peoplepic" src="/photos/ArCraik.jpg" alt="Alexander Craik" />
-        <p class="content">Alexander Craik is currently a PhD student in Electrical and Computer Engineering (ECE) at the University of Houston.  He previously received his M.S. in ECE, his B.S. in Aerospace Engineering, and his B.A. in Economics. His research involves the use of transfer learning and deep neural networks in decoding neural intent with EEG. His interests include neuroscience and speech synthesis.</p>
-       </div>
+  <!-- Modal content -->
+ <div class="modal-content">
+    <div class="modal-header">
+      <span class="close">×</span>
+      <h2>Shaheen Lokhandwala</h2>
     </div>
+    <div class="modal-body">
+      <img class="content peoplepic" src="/photos/slokhan.jpg" alt="Shaheen Lokhandwala " align="left"/>
+      <p class="content"></p>
+    </div>
+   </div>
 
-  </div>
 </div>
+</div>
+<br>
+<h3>Collaborator</h3>
 <div>
+<img class="peoplepic" src="/photos/jefffeng.jpg" alt="Jeff Feng" />
+<h4>Jeff Feng, Ph.D</h4>
+<h4>Associate Professor of Architecture and Design, Medical Device Design</h4>
+<h4>ffeng@uh.edu</h4>
+</div>
+
+<h3>Graduate Students</h3>
+<div>
+<img class="peoplepic" src="/photos/ArCraik.jpg" alt="Alexander Craik" />
+<h4>Alexander Craik MSEE</h4>
+
+<h4>PhD Student, Graduate Research Assistant</h4>
+<h4>arcraik@uh.edu</h4>
+<!-- Trigger/Open The Modal -->
+<button class="modal-button" href="#arcraik">About Alex</button>
+
+<!-- The Modal -->
+<div id="arcraik" class="modal">
+
+  <!-- Modal content -->
+ <div class="modal-content">
+    <div class="modal-header">
+      <span class="close">×</span>
+      <h2>Alexander Craik, PHD Student</h2>
+    </div>
+    <div class="modal-body">
+        <img class="content peoplepic" src="/photos/ArCraik.jpg" alt="Alexander Craik" />
+      <p class="content">Alexander Craik is currently a PhD student in Electrical and Computer Engineering (ECE) at the University of Houston.  He previously received his M.S. in ECE, his B.S. in Aerospace Engineering, and his B.A. in Economics. His research involves the use of transfer learning and deep neural networks in decoding neural intent with EEG. His interests include neuroscience and speech synthesis.</p>
+     </div>
   </div>
- <br>
-<h2>REU Students</h2>
+
+</div>
+</div>
+<br>
+<h3>2019 REU Students</h3>
 <div>
   <img class="peoplepic" src="/photos/KSchmidt.JPG" alt="Kristin Schmidt" />
   <h4>Kristin Schmidt</h4>
@@ -155,35 +187,45 @@ title: People
 
   </div>
 </div>
-<h2>Collaborators</h2>
+<h2>University of Texas Health Science Center (UTHealth)</h2>
+<h3>Principal Investigator</h3>
 <div>
-  <img class="peoplepic" src="/assets/newfigure.png" alt="Test" />
-  <h4> First Name Last Name</h4>
+  <img class="peoplepic" src="/photos/Francisco_Gerard.jpg" alt="Gerard Francisco" />
+  <h4><a href="https://med.uth.edu/pmr/faculty/gerard-e-francisco-md/" target="_blank">Gerard Francisco, MD</a></h4>
+  <h4>Chairman and Professor, Physical Medicine and Rehabilitation,
+University of Texas Health Science Center at Houston (UTHealth)</h4>
+  <h4>Director, NeuroRecovery Research Center</h4>
+  <h4>Chief Medical Officer, TIRR Memorial Hermann</h4>
+  <h4>gerard.e.francisco@uth.tmc.edu</h4>
 
-
-  <h4>firstnamelastname@central.uh.edu</h4>
-  <!-- Trigger/Open The Modal -->
-  <button class="modal-button" href="#myModal2">About First Name</button>
-
-  <!-- The Modal -->
-  <div id="myModal2" class="modal">
-
-    <!-- Modal content -->
-   <div class="modal-content">
-      <div class="modal-header">
-        <span class="close">×</span>
-        <h2>Modal Header</h2>
-      </div>
-      <div class="modal-body">
-        <p>Some text in the Modal Body</p>
-        <p>Some other text...</p>
-      </div>
-      <div class="modal-footer">
-        <h4>Modal Footer</h4>
-      </div>
-    </div>
-
-  </div>
+</div>
+<h3>Co-Investigator</h3>
+<div>
+  <img class="peoplepic" src="/photos/jameschang.jpg" alt="Shuo-Hsiu Chang" />
+  <h4><a href="https://med.uth.edu/pmr/faculty/shuo-hsiu-james-chang-pt-phd/" target="_blank">Shuo-Hsiu Chang, PhD</a></h4>
+  <h4>Assistant Professor</h4>
+  <h4>Department of Physical Medicine and Rehabilitation</h4>
+  <h4>shuo-hsiu.chang@uth.tmc.edu</h4>
+</div>
+<h2>Harmonic Bionics, Inc</h2>
+<div>
+  <img class="peoplepic" src="/photos/YoungMok Yu.jpg" alt="Youngmok Yun" />
+  <h4><a href="https://harmonicbionics.com/" target="_blank">Youngmok Yun, PhD</a></h4>
+  <h4>Chief Executive Officer/Cofounder</h4>
+  <h4>mok@harmonicbionics.com</h4>
+</div>
+<h2>National Instruments</h2>
+<div>
+  <img class="peoplepic" src="/photos/igoralvarado.png" alt="Igor Alvarado" />
+  <h4><a href="https://www.ni.com/en-us.html" target="_blank">Igor Alvarado</a></h4>
+  <h4>Business Development Manager for Academic Research</h4>
+  <h4>igor.alvarado@ni.com</h4>
+</div>
+<div>
+  <img class="peoplepic" src="/photos/YoungMok Yu.jpg" alt="Alejandro Ramirez" />
+  <h4>Alejandro Ramirez, E.E</h4>
+  <h4>Academic Account Manager</h4>
+  <h4>alejandro.ramirez@ni.com</h4>
 </div>
 
 
