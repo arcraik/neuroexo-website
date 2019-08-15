@@ -13,13 +13,14 @@ title: People
   </head>
 
  </html>
+<h1>University of Houston Team</h1>
 <h2>Principal Investigator</h2>
 <div>
   <img class="peoplepic" src="/photos/JContreras-Vidal.jpg" alt="Jose Luis Contreras-Vidal" />
-  <h4><a href="http://www.ee.uh.edu/faculty/contreras-vidal" target="_blank"> Jose Luis Contreras-Vidal</a></h4>
+  <h4><a href="http://www.ee.uh.edu/faculty/contreras-vidal" target="_blank"> Jose Luis Contreras-Vidal Ph.D., Hugh Roy and Lillie Cranz Cullen Distinguished Professor</a></h4>
 
-  <h5>Principal Investigator</h5>
-  <h5>jlcontreras-vidal@uh.edu</h5>
+  <h4>jlcontreras-vidal@uh.edu</h4>
+  <h4><a href="http://brain.egr.uh.edu/" target="_blank"> Director, UH NSF IUCRC BRAIN</a></h4>
   <!-- Trigger/Open The Modal -->
   <button class="modal-button" href="#pepe">About Pepe</button>
 
@@ -38,17 +39,15 @@ title: People
        </div>
     </div>
 
-  </div>
+</div>
 </div>
 <br>
+
 <h2>Co-Principal Investigator</h2>
 <div>
   <img class="peoplepic" src="/photos/AKilicarslan.jpeg" alt="Atilla Kilicarslan" />
-  <h4>Atilla Kilicarslan</h4>
-
-  <h5>Co-Principal Investigator</h5>
-  <h5>akilica2@central.uh.edu</h5>
-
+  <h4>Atilla Kilicarslan PhD</h4>
+  <h4>akilica2@central.uh.edu</h4>
   <!-- Trigger/Open The Modal -->
   <button class="modal-button" href="#akilicarslan">About Atilla</button>
 
@@ -75,8 +74,8 @@ title: People
   <img class="peoplepic" src="/photos/ArCraik.jpg" alt="Alexander Craik" />
   <h4>Alexander Craik</h4>
 
-  <h5>PhD Student, Graduate Research Assistant</h5>
-  <h5>arcraik@uh.edu</h5>
+  <h4>PhD Student, Graduate Research Assistant</h4>
+  <h4>arcraik@uh.edu</h4>
   <!-- Trigger/Open The Modal -->
   <button class="modal-button" href="#arcraik">About Alex</button>
 
@@ -105,10 +104,9 @@ title: People
   <img class="peoplepic" src="/photos/KSchmidt.JPG" alt="Kristin Schmidt" />
   <h4>Kristin Schmidt</h4>
 
-  <h5>University of Virginia </h5>
-  <h5>Undergraduate Student</h5>
-  <h5>Mechanical Engineering Major</h5>
-  <h5>khs4jv@virginia.edu</h5>
+  <h4>University of Virginia </h4>
+  <h4>Mechanical Engineering Major</h4>
+  <h4>khs4jv@virginia.edu</h4>
   <!-- Trigger/Open The Modal -->
   <button class="modal-button" href="#kschmidt">About Kristin</button>
 
@@ -134,10 +132,9 @@ title: People
   <img class="peoplepic" src="/photos/RSutherland.jpg" alt="Robert Sutherland" />
   <h4>Robert Sutherland</h4>
 
-  <h5>University of Southern California</h5>
-  <h5>Undergraduate Student</h5>
-  <h5>Electrical Engineering Major</h5>
-  <h5>rfsuther@usc.edu</h5>
+  <h4>University of Southern California</h4>
+  <h4>Electrical Engineering Major</h4>
+  <h4>rfsuther@usc.edu</h4>
   <!-- Trigger/Open The Modal -->
   <button class="modal-button" href="#rsutherland">About Rob</button>
 
@@ -164,7 +161,7 @@ title: People
   <h4> First Name Last Name</h4>
 
 
-  <h5>firstnamelastname@central.uh.edu</h5>
+  <h4>firstnamelastname@central.uh.edu</h4>
   <!-- Trigger/Open The Modal -->
   <button class="modal-button" href="#myModal2">About First Name</button>
 
