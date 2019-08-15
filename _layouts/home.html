@@ -10,25 +10,7 @@ layout: default
 
 
 <br>
-<div class="post-thing" >
- <h2 style="padding-top:20px;" class="post-list-heading">{{ page.list_title | default: "Recent Updates" }}</h2>
- <ul class="post-list">
-    {% for post in paginator.posts %}
-      <hr>
-      <li style="overflow: auto;">
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
-
-        {{ post.excerpt }}
-      </li>
-    {% endfor %}
-  </ul>
-  <hr>
-<a href="/updates/" class="archive">See All </a>
-  </div>
 
 
    <!-- <p style="margin-top:20px;" class="feed-subscribe"><svg class="svg-icon orange"><use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use></svg><a href="{{ "/feed.xml" | relative_url }}">Subscribe</a></p>-->
