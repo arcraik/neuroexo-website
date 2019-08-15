@@ -29,6 +29,12 @@ permalink: /impacts/
 <figcaption>On April 17, 2019 students participating in the First Robotics Tournament visited our laboratory</figcaption>
 </figure>
 <img src="/photos/lab_tour2.JPG" alt="Test"  width="500"  />
+<br>
+<br>
+<figure>
+<img src="/photos/THRogersOutreachB.png" alt="Test"  width="500"  />
+<figcaption>On February 28, 2019, the lab demonstrated a powered walking exoskeleton robot and brain recording devices to visualize brain activity non-invasively.</figcaption>
+</figure>
 </div>
 
 <div class="section" align="left">
