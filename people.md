@@ -130,6 +130,32 @@ title: People
 
 </div>
 </div>
+<div>
+<img class="peoplepic" src="/photos/jj.jpg" alt="Alexander Craik" />
+<h4>Juan Jose Gonzalez Espana, MSEE</h4>
+
+<h4>PhD Student, Graduate Research Assistant</h4>
+<h4>jgonz220@central.uh.edu</h4>
+<!-- Trigger/Open The Modal -->
+<button class="modal-button" href="#jj">About Juan Jose</button>
+
+<!-- The Modal -->
+<div id="jj" class="modal">
+
+  <!-- Modal content -->
+ <div class="modal-content">
+    <div class="modal-header">
+      <span class="close">×</span>
+      <h2>Juan Jose Gonzalez Espana, PHD Student</h2>
+    </div>
+    <div class="modal-body">
+        <img class="content peoplepic" src="/photos/jj.jpg" alt="Juan Jose Gonzalez Espana" />
+      <p class="content"></p>
+     </div>
+  </div>
+
+</div>
+</div>
 <br>
 <h3>2019 REU Students</h3>
 <div>
