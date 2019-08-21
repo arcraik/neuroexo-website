@@ -39,6 +39,7 @@ title: People
 
 </div>
 </div>
+</div>
 <br>
 
 <h3>Co-Principal Investigator</h3>
@@ -93,6 +94,7 @@ title: People
 </div>
 </div>
 <br>
+
 <h3>Collaborator</h3>
 <div>
 <img class="peoplepic" src="/photos/jefffeng.jpg" alt="Jeff Feng" />
@@ -100,6 +102,7 @@ title: People
 <h4>Associate Professor of Architecture and Design, Medical Device Design</h4>
 <h4>ffeng@uh.edu</h4>
 </div>
+<br>
 
 <h3>Graduate Students</h3>
 <div>
@@ -129,7 +132,7 @@ title: People
 </div>
 </div>
 <div>
-<img class="peoplepic" src="/photos/jj.jpg" alt="Alexander Craik" />
+<img class="peoplepic" src="/photos/jj.jpg" alt="Juan Jose Gonzalez Espana" />
 <h4>Juan Jose Gonzalez Espana, MSEE</h4>
 
 <h4>PhD Student, Graduate Research Assistant</h4>
@@ -192,7 +195,7 @@ title: People
   <h4>Electrical Engineering Major</h4>
   <h4>rfsuther@usc.edu</h4>
   <!-- Trigger/Open The Modal -->
-  <button class="modal-button" href="#rsutherland">About Rob</button>
+  <button class="modal-button" href="#rsutherland">About Robert</button>
 
   <!-- The Modal -->
   <div id="rsutherland" class="modal">
@@ -206,6 +209,33 @@ title: People
       <div class="modal-body">
         <img class="content peoplepic" src="/photos/RSutherland.jpg" alt="Robert Sutherland" />
         <p class="content">Robert is a researcher looking to unlock the amazing potential within our brains. His passion for neural interfaces began in high school with an internship at Walter Reed. The time he spent working with veteran amputees inspired him to look to neural prosthetics as a tool for enhancing people's lives. He currently attends the University of Southern California as a Biomedical Engineering Undergrad and assists research in the University of Southern California's BioMEMs lab. Robert plans to continue his research in the fall at Charité – Universitätsmedizin in Berlin studying BMI’s. </p>
+      </div>
+  </div>
+
+  </div>
+</div>
+<div>
+  <img class="peoplepic" src="/photos/MZanovello.JPG" alt="Marianna Zanovello" />
+  <h4>Marianna Zanovello</h4>
+
+  <h4>University of Houston</h4>
+  <h4>Mechanical Engineering Major</h4>
+  <h4>mlzanovello@uh.edu</h4>
+  <!-- Trigger/Open The Modal -->
+  <button class="modal-button" href="#mlzanovello">About Marianna</button>
+
+  <!-- The Modal -->
+  <div id="mlzanovello" class="modal">
+
+    <!-- Modal content -->
+   <div class="modal-content">
+      <div class="modal-header">
+        <span class="close">×</span>
+        <h2>Marianna Zanovello, REU Program</h2>
+      </div>
+      <div class="modal-body">
+        <img class="content peoplepic" src="/photos/MZanovello.JPG" alt="Marianna Zanovello" />
+        <p class="content"> </p>
       </div>
   </div>
 
