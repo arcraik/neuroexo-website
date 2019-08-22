@@ -1,6 +1,7 @@
 ---
 layout: post
 title: TIRR Visit
+link: /2019/07/06/TIRR-Visit/
 excerpt: The NeuroExo project is a collaboration between several partners in academia, industry, and medicine. On June 3rd, the University of Houston, Harmonic Bionics, and TIRR Memorial Herman Hospital met up to discuss the progress of the project. Harmonic Bionics demonstrated their upper limb rehab device, and the University of Houston provided updates on the BMI roadmap.
 ---
 <p>On June 3rd, the University of Houston (UH) Laboratory for Non-invasive Brain-Machine Interfaces visited the rehabilitation labs at TIRR Memorial Hermann (TIRR) hospital in the Houston Medical Center. TIRR is ranked the best rehabilitation hospital in Texas, the third best in the nation, and is consistently considered a leader in rehabilitation research and technology.</p>
