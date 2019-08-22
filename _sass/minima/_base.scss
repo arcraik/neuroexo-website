@@ -70,7 +70,22 @@ img.peoplepic{
 
 img.section {
   padding: 12px;
+  width: 400px;
 }
+figure.post {
+  float: left;
+  width: 450px;
+}
+figure.rpost {
+  width: 450px;
+  float: right;
+}
+figure.section {
+  padding: 12px;
+  float: right;
+  width: 450px;
+}
+
 
 
 div.section {
