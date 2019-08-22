@@ -26,7 +26,7 @@ Brain-controlled robotic devices are excellent candidates for engaging the patie
 <hr>
 <h4>The Non-Invasive Brain Machine Interface Systems Laboratory</h4>
 <div float="left" style="overflow: auto;">
-  <img class="section" align="right" height="15%" width="15%" src="/photos/AKilicarslan.jpeg" />
+  <img class="section" align="right"  width="30%" src="/photos/REU-Tirr-PIF-visit-June-2019.jpg" />
 <p align="left">The NSF PFI project takes place at the Non-Invasive Brain Machine Interface Systems Laboratory directed by Professor Jose Contreras-Vidal. </p>
 
 <a class="button" href="/lab/">Learn More</a>
