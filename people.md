@@ -16,10 +16,10 @@ title: People
 <h3>Principal Investigator</h3>
 <div>
   <img class="peoplepic" src="/photos/JContreras-Vidal.jpg" alt="Jose Luis Contreras-Vidal" />
-  <h4><a href="http://www.ee.uh.edu/faculty/contreras-vidal" target="_blank"> Jose Luis Contreras-Vidal Ph.D., Hugh Roy and Lillie Cranz Cullen Distinguished Professor</a></h4>
-
-  <h4>jlcontreras-vidal@uh.edu</h4>
+  <h4><a href="http://www.ee.uh.edu/faculty/contreras-vidal" target="_blank"> Jose Luis Contreras-Vidal Ph.D.</a></h4>
+  <h4>Hugh Roy and Lillie Cranz Cullen Distinguished Professor</h4>  
   <h4><a href="http://brain.egr.uh.edu/" target="_blank"> Director, UH NSF IUCRC BRAIN</a></h4>
+  <h4>jlcontreras-vidal@uh.edu</h4>
   <!-- Trigger/Open The Modal -->
   <button class="modal-button" href="#pepe">About Pepe</button>
 
@@ -71,7 +71,7 @@ title: People
 <img class="peoplepic" src="/photos/slokhan.jpg" alt="Shaheen Lokhandwala " />
 <h4>Shaheen Lokhandwala </h4>
 <h4>Technology Licensing Associate</h4>
-<h4>Office of Intellectual Property Management (OIPM)</h4>
+<h4><a href="https://www.uh.edu/research/tech-transfer/ip/" target="_blank" >Office of Intellectual Property Management (OIPM)</a></h4>
 <h4>slokhand@central.uh.edu</h4>
 <!-- Trigger/Open The Modal -->
 <button class="modal-button" href="#slokhandwala">About Shaheen</button>
@@ -98,7 +98,7 @@ title: People
 <h3>Collaborator</h3>
 <div>
 <img class="peoplepic" src="/photos/jefffeng.jpg" alt="Jeff Feng" />
-<h4>Jeff Feng, Ph.D</h4>
+<h4><a href="http://www.uh.edu/architecture/about/faculty/#!/details/1224152" target="_blank">Jeff Feng, Ph.D</a></h4>
 <h4>Associate Professor of Architecture and Design, Medical Device Design</h4>
 <h4>ffeng@uh.edu</h4>
 </div>
@@ -276,7 +276,7 @@ University of Texas Health Science Center at Houston (UTHealth)</h4>
   <h4>igor.alvarado@ni.com</h4>
 </div>
 <div>
-  <img class="peoplepic" src="/photos/YoungMok Yu.jpg" alt="Alejandro Ramirez" />
+  <img class="peoplepic" src="/photos/YfoungMok Yu.jpg" alt="Alejandro Ramirez" />
   <h4>Alejandro Ramirez, E.E</h4>
   <h4>Academic Account Manager</h4>
   <h4>alejandro.ramirez@ni.com</h4>
