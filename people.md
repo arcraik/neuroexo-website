@@ -241,6 +241,15 @@ title: People
 
   </div>
 </div>
+<h3>High School Research Intern</h3>
+<div>
+  <img class="peoplepic" src="/photos/rliu.jpg" alt="Ruofan Liu" />
+  <h4>Ruofan Liu</h4>
+  <h4>Carnegie Vanguard High School</h4>
+  <h4>Junior</h4>
+  <h4>rliu17@uh.edu</h4>
+
+</div>
 <h2>University of Texas Health Science Center (UTHealth)</h2>
 <h3>Principal Investigator</h3>
 <div>
