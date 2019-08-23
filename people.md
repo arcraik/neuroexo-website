@@ -195,7 +195,7 @@ title: People
   <h4>Electrical Engineering Major</h4>
   <h4>rfsuther@usc.edu</h4>
   <!-- Trigger/Open The Modal -->
-  <button class="modal-button" href="#rsutherland">About Robert</button>
+  <button class="modal-button"  href="#rsutherland">About Robert</button>
 
   <!-- The Modal -->
   <div id="rsutherland" class="modal">
@@ -246,7 +246,6 @@ title: People
   <img class="peoplepic" src="/photos/rliu.jpg" alt="Ruofan Liu" />
   <h4>Ruofan Liu</h4>
   <h4>Carnegie Vanguard High School</h4>
-  <h4>Junior</h4>
   <h4>rliu17@uh.edu</h4>
 
 </div>
