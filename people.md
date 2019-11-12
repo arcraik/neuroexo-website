@@ -43,30 +43,7 @@ title: People
 <br>
 
 <h3>Co-Principal Investigator</h3>
-<div>
-  <img class="peoplepic" src="/photos/AKilicarslan.jpeg" alt="Atilla Kilicarslan" />
-  <h4>Atilla Kilicarslan PhD</h4>
-  <h4>akilica2@central.uh.edu</h4>
-  <!-- Trigger/Open The Modal -->
-  <button class="modal-button" href="#akilicarslan">About Atilla</button>
 
-  <!-- The Modal -->
-  <div id="akilicarslan" class="modal">
-
-    <!-- Modal content -->
-   <div class="modal-content">
-      <div class="modal-header">
-        <span class="close">×</span>
-        <h2>Atilla Kilicarslan, PHD</h2>
-      </div>
-      <div class="modal-body">
-        <img class="content peoplepic" src="/photos/AKilicarslan.jpeg" alt="Atilla Kilicarslan" align="left"/>
-        <p class="content">Dr Atilla Kilicarslan (Co-PI) is a Research Assistant Professor at the University of Houston, Electrical and Computer Engineering Department. He specializes in Robotics, Control systems, Brain Machine Interfaces, Adaptive systems, Signal De-Noising, and Spatial Sensory Data Enhancement.</p>
-      </div>
-     </div>
-
-  </div>
-</div>
 <div>
 <img class="peoplepic" src="/photos/slokhan.jpg" alt="Shaheen Lokhandwala " />
 <h4>Shaheen Lokhandwala </h4>
