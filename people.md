@@ -255,12 +255,6 @@ University of Texas Health Science Center at Houston (UTHealth)</h4>
 </div>
 <h2>National Instruments</h2>
 <div>
-  <img class="peoplepic" src="/photos/igoralvarado.png" alt="Igor Alvarado" />
-  <h4><a href="https://www.ni.com/en-us.html" target="_blank">Igor Alvarado</a></h4>
-  <h4>Business Development Manager for Academic Research</h4>
-  <h4>igor.alvarado@ni.com</h4>
-</div>
-<div>
   <img class="peoplepic" src="/photos/YfoungMok Yu.jpg" alt="Alejandro Ramirez" />
   <h4>Alejandro Ramirez, E.E</h4>
   <h4>Academic Account Manager</h4>
