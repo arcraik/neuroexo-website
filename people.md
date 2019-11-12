@@ -255,7 +255,7 @@ University of Texas Health Science Center at Houston (UTHealth)</h4>
 </div>
 <h2>National Instruments</h2>
 <div>
-  <img class="peoplepic" src="/photos/YfoungMok Yu.jpg" alt="Alejandro Ramirez" />
+  <img class="peoplepic" src="/photos/ramirez.png" alt="Alejandro Ramirez" />
   <h4>Alejandro Ramirez, E.E</h4>
   <h4>Academic Account Manager</h4>
   <h4>alejandro.ramirez@ni.com</h4>
