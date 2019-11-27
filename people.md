@@ -137,6 +137,33 @@ title: People
 <br>
 <h3>2019 REU Students</h3>
 <div>
+  <img class="peoplepic" src="/photos/MZanovello.JPG" alt="Marianna Zanovello" />
+  <h4>Marianna Zanovello</h4>
+
+  <h4>University of Houston</h4>
+  <h4>Mechanical Engineering Major</h4>
+  <h4>mlzanovello@uh.edu</h4>
+  <!-- Trigger/Open The Modal -->
+  <button class="modal-button" href="#mlzanovello">About Marianna</button>
+
+  <!-- The Modal -->
+  <div id="mlzanovello" class="modal">
+
+    <!-- Modal content -->
+   <div class="modal-content">
+      <div class="modal-header">
+        <span class="close">×</span>
+        <h2>Marianna Zanovello, REU Program</h2>
+      </div>
+      <div class="modal-body">
+        <img class="content peoplepic" src="/photos/MZanovello.JPG" alt="Marianna Zanovello" />
+        <p class="content"> </p>
+      </div>
+  </div>
+
+  </div>
+</div>
+<div>
   <img class="peoplepic" src="/photos/KSchmidt.JPG" alt="Kristin Schmidt" />
   <h4>Kristin Schmidt</h4>
 
@@ -191,32 +218,7 @@ title: People
 
   </div>
 </div>
-<div>
-  <img class="peoplepic" src="/photos/MZanovello.JPG" alt="Marianna Zanovello" />
-  <h4>Marianna Zanovello</h4>
 
-  <h4>University of Houston</h4>
-  <h4>Mechanical Engineering Major</h4>
-  <h4>mlzanovello@uh.edu</h4>
-  <!-- Trigger/Open The Modal -->
-  <button class="modal-button" href="#mlzanovello">About Marianna</button>
-
-  <!-- The Modal -->
-  <div id="mlzanovello" class="modal">
-
-    <!-- Modal content -->
-   <div class="modal-content">
-      <div class="modal-header">
-        <span class="close">×</span>
-        <h2>Marianna Zanovello, REU Program</h2>
-      </div>
-      <div class="modal-body">
-        <img class="content peoplepic" src="/photos/MZanovello.JPG" alt="Marianna Zanovello" />
-        <p class="content"> </p>
-      </div>
-  </div>
-
-  </div>
 </div>
 <h3>High School Research Intern</h3>
 <div>
