@@ -244,7 +244,7 @@ title: People
   </div>
 
   </div>
-</div>
+
 
 </div>
 <h3>High School Research Intern</h3>
