@@ -3,7 +3,7 @@ layout: post
 title: REU Students Present at the REU Poster Session
 ---
 <figure class="post">
-<img src="/photos/REU-Poster-1edit.jpg";" >
+<img src="/photos/REU-Poster-1edit.jpg" >
 <figcaption>Atilla Kilicarslan, Robert Sutherland (REU), Jose Contreras-Vidal<br>The Feasibility of a Portable Brain Computer Interface for Upper Limb Rehabilitation
 </figcaption></figure>
 <figure class="rpost">
