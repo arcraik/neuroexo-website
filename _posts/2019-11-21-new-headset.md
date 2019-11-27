@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Revision 2 of the Customized EEG headset from the College of Architecture
+title: Revision 2 of the Customized EEG Headset from the College of Architecture
 ---
 <figure class="post">
 <img src="/photos/headset.jpeg">
