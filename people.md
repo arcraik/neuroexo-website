@@ -164,7 +164,7 @@ title: People
   </div>
 </div>
 <div>
-  <img class="peoplepic" src="/photos/Annaleise.JPG" alt="Annaleise Gray" />
+  <img class="peoplepic" src="/photos/annaleise.jpg" alt="Annaleise Gray" />
   <h4>Annaleise Gray</h4>
 
   <h4>University of Houston</h4>
