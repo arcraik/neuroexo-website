@@ -164,11 +164,11 @@ title: People
   </div>
 </div>
 <div>
-  <img class="peoplepic" src="/photos/Anna.JPG" alt="Annaleise Gray" />
+  <img class="peoplepic" src="/photos/Annaleise.JPG" alt="Annaleise Gray" />
   <h4>Annaleise Gray</h4>
 
   <h4>University of Houston</h4>
-  <h4>Architecture</h4>
+  <h4>College of Architecture and Design</h4>
   <h4>annaleisegray@gmail.com</h4>
   <!-- Trigger/Open The Modal -->
   <button class="modal-button" href="#annaleise">About Annaleise</button>
