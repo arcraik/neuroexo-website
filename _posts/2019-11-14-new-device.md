@@ -5,3 +5,4 @@ title: Revision 2 of the Rehabilitation Device Received from Harmonic Bionics In
 
 <img src="/photos/device_new.jpg">
 Representatives from [Harmonic Bionics Inc.](http://harmonicbionics.com/) and their industrial partner [H.Robotics](https://hrobotics-rehab.com/) deliver and test the new revision of the rehabilitation device.
+
