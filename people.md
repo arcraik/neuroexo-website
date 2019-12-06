@@ -191,6 +191,34 @@ title: People
   </div>
 </div>
 <div>
+  <img class="peoplepic" src="/photos/antoin.jpg" alt="Antoinette Louw" />
+  <h4>Antoinette Louw</h4>
+
+  <h4>University of Houston </h4>
+  <h4>College of Architecture and Design</h4>
+  <h4>ant@louw.org</h4>
+  <!-- Trigger/Open The Modal -->
+  <button class="modal-button" href="#alouw">About Antoinette</button>
+
+  <!-- The Modal -->
+  <div id="alouw" class="modal">
+
+    <!-- Modal content -->
+   <div class="modal-content">
+      <div class="modal-header">
+        <span class="close">×</span>
+        <h2>Antoinette Louw, REU Program</h2>
+      </div>
+      <div class="modal-body">
+        <img class="content peoplepic" src="/photos/KSchmidt.JPG" alt="Kristin Schmidt" />
+        <p class="content"> </p>
+      </div>
+  </div>
+
+  </div>
+</div>
+<br>
+<div>
   <img class="peoplepic" src="/photos/KSchmidt.JPG" alt="Kristin Schmidt" />
   <h4>Kristin Schmidt</h4>
 
