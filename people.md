@@ -154,10 +154,10 @@ title: People
    <div class="modal-content">
       <div class="modal-header">
         <span class="close">×</span>
-        <h2>Antoinette Louw, REU Program</h2>
+        <h2>Antoinette Louw</h2>
       </div>
       <div class="modal-body">
-        <img class="content peoplepic" src="/photos/d.jpg" alt="Kristin Schmidt" />
+        <img class="content peoplepic" src="/photos/d.jpg" alt="Antoinette Louw" />
         <p class="content"> </p>
       </div>
   </div>
