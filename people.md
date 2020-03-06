@@ -316,7 +316,7 @@ University of Texas Health Science Center at Houston (UTHealth)</h4>
 </div>
 <h2>National Instruments</h2>
 <div>
-  <img class="peoplepic" src="/photos/ramirez.PNG" alt="Igor Alvarado" />
+  <img class="peoplepic" src="/photos/igoralvarado.png" alt="Igor Alvarado" />
   <h4>Igor Alvarado</h4>
   <h4>Business Development Manager for Academic Research</h4>
   <h4>igor.alvarado@ni.com</h4>
