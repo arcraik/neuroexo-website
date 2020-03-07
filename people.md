@@ -78,10 +78,22 @@ title: People
 <h4><a href="http://www.uh.edu/architecture/about/faculty/#!/details/1224152" target="_blank">Jeff Feng, Ph.D</a></h4>
 <h4>Associate Professor of Architecture and Design, Medical Device Design</h4>
 <h4>ffeng@uh.edu</h4>
+
+<button class="modal-button" href="#jfeng">About Jeff</button>
+<div id="jfeng" class="modal">
+<div class="modal-content">
+   <div class="modal-header">
+     <span class="close">×</span>
+     <h2>Jeff Feng, Ph.D</h2>
+   </div>
+   <div class="modal-body">
+       <img class="content peoplepic" src="/photos/jefffeng.jpg" alt="Jeff Feng" />
+     <p class="content"></p>
+    </div>
+ </div>
+ </div>
 </div>
-
 <br>
-
 <h3>Graduate Students</h3>
 <div>
 <img class="peoplepic" src="/photos/ArCraik.jpg" alt="Alexander Craik" />
@@ -157,7 +169,7 @@ title: People
         <h2>Antoinette Louw</h2>
       </div>
       <div class="modal-body">
-        <img class="content peoplepic" src="/photos/d.jpg" alt="Antoinette Louw" />
+        <img class="content peoplepic" src="/photos/antoin.jpg" alt="Antoinette Louw" />
         <p class="content"> </p>
       </div>
   </div>
@@ -287,7 +299,7 @@ title: People
   <h4>rliu17@uh.edu</h4>
 
 </div>
-<h2>University of Texas Health Science Center (UTHealth)</h2>
+<h2><a href="https://www.uth.edu/" target="_blank">University of Texas Health Science Center (UTHealth)</a></h2>
 <h3>Principal Investigator</h3>
 <div>
   <img class="peoplepic" src="/photos/Francisco_Gerard.jpg" alt="Gerard Francisco" />
@@ -295,7 +307,7 @@ title: People
   <h4>Chairman and Professor, Physical Medicine and Rehabilitation,
 University of Texas Health Science Center at Houston (UTHealth)</h4>
   <h4>Director, NeuroRecovery Research Center</h4>
-  <h4>Chief Medical Officer, TIRR Memorial Hermann</h4>
+  <h4><a href="http://tirr.memorialhermann.org/" target="_blank">Chief Medical Officer, TIRR Memorial Hermann</a></h4>
   <h4>gerard.e.francisco@uth.tmc.edu</h4>
 
 </div>
@@ -321,7 +333,7 @@ University of Texas Health Science Center at Houston (UTHealth)</h4>
   <h4>Business Development Manager for Academic Research</h4>
   <h4>igor.alvarado@ni.com</h4>
   <h4>Austin, TX</h4>
-  
+
 </div>
 
 
