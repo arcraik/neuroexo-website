@@ -30,7 +30,7 @@ During the week of July 7-13, 2019 our lab visited the Children’s Museum of Ho
 <div class="section">
 <hr>
 <figure class="section">
-<img src="/photos/lab_tour1.JPG" style="transform: rotate(180deg);" alt="Test" />
+<img src="/photos/lab_tour1.JPG" alt="Test" />
 <figcaption>On April 17, 2019 students participating in the First Robotics Tournament visited our laboratory</figcaption>
 </figure>
 <h3>Laboratory Demonstrations</h3>
