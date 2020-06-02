@@ -170,7 +170,7 @@ title: People
 <br>
 <h3>2020 Graduate Intern</h3>
 <div>
-<img class="peoplepic" src="/photos/OCantu.jpg" alt="Oziel Román Cantú López" />
+<img class="peoplepic" src="/photos/OCantu.png" alt="Oziel Román Cantú López" />
 <h4>Oziel Román Cantú López</h4>
 
 <h4>Universidad de Monterrey</h4>
@@ -189,7 +189,7 @@ title: People
       <h2>Oziel Román Cantú López</h2>
     </div>
     <div class="modal-body">
-        <img class="content peoplepic" src="/photos/OCantu.jpg" alt="Oziel Román Cantú López" />
+        <img class="content peoplepic" src="/photos/OCantu.png" alt="Oziel Román Cantú López" />
       <p class="content">My name is Oziel, I’m currently an international trainee at the University of Houston research laboratory participating in the Noninvasive Brain-Machine Interface project. Since I began my engineering studies, I have been interested in advance and technological innovation for the continuous improvement of the quality of life through engineering resources for health. I currently attend to UDEM (University of Monterrey) in Monterrey, MX as an undergraduate Biomedical Engineering student. My plans after this project is to continue my research so I can not only create new technology but ensure that the new people will be able to have a better quality of life with it.</p>
      </div>
   </div>
@@ -198,7 +198,7 @@ title: People
 </div>
 <h3>2020 REU Students</h3>
 <div>
-<img class="peoplepic" src="/photos/KMoore.jpg" alt="Kameron Moore" />
+<img class="peoplepic" src="/photos/KMoore.jpeg" alt="Kameron Moore" />
 <h4>Kameron Moore</h4>
 
 <h4>Arizona State University</h4>
@@ -217,7 +217,7 @@ title: People
       <h2>kjmoore8@asu.edu</h2>
     </div>
     <div class="modal-body">
-        <img class="content peoplepic" src="/photos/KMoore.jpg" alt="Kameron Moore" />
+        <img class="content peoplepic" src="/photos/KMoore.jpeg" alt="Kameron Moore" />
       <p class="content">Kameron Moore is pursuing concurrent bachelors degrees in Biomedical Engineering and Spanish Linguistics at Arizona State University in Barrett, the Honors College. From Cave Creek, Arizona, Kameron enjoys spending time outdoors, doing yoga, and cooking. He is very driven and extremely passionate about neurological health, hoping to secure a career improving healthcare for all in the future. Having previously worked in ASU’s Memory and Attention Control Lab, Kameron has experience studying ADD and ADHD through pupil dilation analysis and cognitive task assessment. </p>
      </div>
   </div>
