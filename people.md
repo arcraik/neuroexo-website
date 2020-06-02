@@ -95,7 +95,7 @@ title: People
 </div>
 <div>
 <img class="peoplepic" src="/photos/fgrandi.jpg" alt="Francisco Grandi" />
-<h4>Francisco Grandi</a></h4>
+<h4>Francisco Grandi</h4>
 <h4>University of Houston</h4>
 <h4>Industrial Design</h4>
 <h4>fgrandi@uh.edu</h4>
@@ -248,7 +248,6 @@ title: People
      </div>
   </div>
 
-</div>
 </div>
 <h3>2020 Undergraduate Researchers</h3>
 <div>
