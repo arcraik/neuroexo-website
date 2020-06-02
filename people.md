@@ -225,6 +225,7 @@ title: People
 </div>
 </div>
 <h3>2020 High School Intern</h3>
+<div>
 <img class="peoplepic" src="/photos/VMannem.jpg" alt="Vinay Mannem" />
 <h4>Vinay Mannem</h4>
 
@@ -247,7 +248,7 @@ title: People
       <p class="content">My name is Vinay Mannem and I am a rising senior at The Academy of Science and Technology at the Woodlands College Park High School. I am a high school intern working on the NeuroExo project at the University of Houston BRAIN Center. I am an active programming member on my school's robotics team 1477 Texas Torque and I play varsity tennis. In my free time, I tutor elementary and middle school students and work on my other science fair projects. Through science fair, I have worked on developing a belt to assist blind people during commutes through ultrasound and GPS technologies as well as a smart sole to predict foot injuries using pressure sensing data and machine learning to predict diabetes. I also am a member of my school DECA business club. </p>
      </div>
   </div>
-
+</div>
 </div>
 <h3>2020 Undergraduate Researchers</h3>
 <div>
