@@ -8,6 +8,9 @@ title: People
       div {
         overflow: auto;
       }
+      p {
+        position: absolute;
+      }
    </style>
   </head>
 
