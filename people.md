@@ -72,7 +72,7 @@ title: People
 </div>
 <br>
 
-<h3>Collaborator</h3>
+<h3>Collaborators</h3>
 <div>
 <img class="peoplepic" src="/photos/jefffeng.jpg" alt="Jeff Feng" />
 <h4><a href="http://www.uh.edu/architecture/about/faculty/#!/details/1224152" target="_blank">Jeff Feng, Ph.D</a></h4>
@@ -93,7 +93,27 @@ title: People
  </div>
  </div>
 </div>
-<br>
+<div>
+<img class="peoplepic" src="/photos/fgrandi.jpg" alt="Francisco Grandi" />
+<h4>Francisco Grandi</a></h4>
+<h4>University of Houston</h4>
+<h4>Industrial Design</h4>
+<h4>fgrandi@uh.edu</h4>
+
+<button class="modal-button" href="#fgrandi">About Francisco</button>
+<div id="fgrandi" class="modal">
+<div class="modal-content">
+   <div class="modal-header">
+     <span class="close">×</span>
+     <h2>Francisco Grandi</h2>
+   </div>
+   <div class="modal-body">
+       <img class="content peoplepic" src="/photos/fgrandi.jpg" alt="Francisco Grandi" />
+     <p class="content"></p>
+    </div>
+ </div>
+ </div>
+</div>
 <h3>Graduate Students</h3>
 <div>
 <img class="peoplepic" src="/photos/ArCraik.jpg" alt="Alexander Craik" />
@@ -148,6 +168,88 @@ title: People
 </div>
 </div>
 <br>
+<h3>2020 Graduate Intern</h3>
+<div>
+<img class="peoplepic" src="/photos/OCantu.jpg" alt="Oziel Román Cantú López" />
+<h4>Oziel Román Cantú López</h4>
+
+<h4>Universidad de Monterrey</h4>
+<h4>Biomedical Engineering</h4>
+<h4>oziel.cantu@udem.edu</h4>
+<!-- Trigger/Open The Modal -->
+<button class="modal-button" href="#OCantu">About Oziel</button>
+
+<!-- The Modal -->
+<div id="OCantu" class="modal">
+
+  <!-- Modal content -->
+ <div class="modal-content">
+    <div class="modal-header">
+      <span class="close">×</span>
+      <h2>Oziel Román Cantú López</h2>
+    </div>
+    <div class="modal-body">
+        <img class="content peoplepic" src="/photos/OCantu.jpg" alt="Oziel Román Cantú López" />
+      <p class="content">My name is Oziel, I’m currently an international trainee at the University of Houston research laboratory participating in the Noninvasive Brain-Machine Interface project. Since I began my engineering studies, I have been interested in advance and technological innovation for the continuous improvement of the quality of life through engineering resources for health. I currently attend to UDEM (University of Monterrey) in Monterrey, MX as an undergraduate Biomedical Engineering student. My plans after this project is to continue my research so I can not only create new technology but ensure that the new people will be able to have a better quality of life with it.</p>
+     </div>
+  </div>
+
+</div>
+</div>
+<h3>2020 REU Students</h3>
+<div>
+<img class="peoplepic" src="/photos/KMoore.jpg" alt="Kameron Moore" />
+<h4>Kameron Moore</h4>
+
+<h4>Arizona State University</h4>
+<h4>B.S.E. Biomedical Engineering and B.A. Spanish Linguistics</h4>
+<h4>kjmoore8@asu.edu</h4>
+<!-- Trigger/Open The Modal -->
+<button class="modal-button" href="#KMoore">About Kameron</button>
+
+<!-- The Modal -->
+<div id="KMoore" class="modal">
+
+  <!-- Modal content -->
+ <div class="modal-content">
+    <div class="modal-header">
+      <span class="close">×</span>
+      <h2>kjmoore8@asu.edu</h2>
+    </div>
+    <div class="modal-body">
+        <img class="content peoplepic" src="/photos/KMoore.jpg" alt="Kameron Moore" />
+      <p class="content">Kameron Moore is pursuing concurrent bachelors degrees in Biomedical Engineering and Spanish Linguistics at Arizona State University in Barrett, the Honors College. From Cave Creek, Arizona, Kameron enjoys spending time outdoors, doing yoga, and cooking. He is very driven and extremely passionate about neurological health, hoping to secure a career improving healthcare for all in the future. Having previously worked in ASU’s Memory and Attention Control Lab, Kameron has experience studying ADD and ADHD through pupil dilation analysis and cognitive task assessment. </p>
+     </div>
+  </div>
+
+</div>
+</div>
+<h3>2020 High School Intern</h3>
+<img class="peoplepic" src="/photos/VMannem.jpg" alt="Vinay Mannem" />
+<h4>Vinay Mannem</h4>
+
+<h4>The Academy of Science and Technology at the Woodlands College Park High School</h4>
+<h4>v.mannem99@gmail.com</h4>
+<!-- Trigger/Open The Modal -->
+<button class="modal-button" href="#VMannem">About Vinay</button>
+
+<!-- The Modal -->
+<div id="VMannem" class="modal">
+
+  <!-- Modal content -->
+ <div class="modal-content">
+    <div class="modal-header">
+      <span class="close">×</span>
+      <h2>kjmoore8@asu.edu</h2>
+    </div>
+    <div class="modal-body">
+        <img class="content peoplepic" src="/photos/VMannem.jpg" alt="Vinay Mannem" />
+      <p class="content">My name is Vinay Mannem and I am a rising senior at The Academy of Science and Technology at the Woodlands College Park High School. I am a high school intern working on the NeuroExo project at the University of Houston BRAIN Center. I am an active programming member on my school's robotics team 1477 Texas Torque and I play varsity tennis. In my free time, I tutor elementary and middle school students and work on my other science fair projects. Through science fair, I have worked on developing a belt to assist blind people during commutes through ultrasound and GPS technologies as well as a smart sole to predict foot injuries using pressure sensing data and machine learning to predict diabetes. I also am a member of my school DECA business club. </p>
+     </div>
+  </div>
+
+</div>
+</div>
 <h3>2020 Undergraduate Researchers</h3>
 <div>
   <img class="peoplepic" src="/photos/antoin.jpg" alt="Antoinette Louw" />
