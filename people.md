@@ -217,7 +217,7 @@ title: People
  <div class="modal-content">
     <div class="modal-header">
       <span class="close">×</span>
-      <h2>kjmoore8@asu.edu</h2>
+      <h2>Kameron Moore</h2>
     </div>
     <div class="modal-body">
         <img class="content peoplepic" src="/photos/KMoore.jpeg" alt="Kameron Moore" />
@@ -244,7 +244,7 @@ title: People
  <div class="modal-content">
     <div class="modal-header">
       <span class="close">×</span>
-      <h2>kjmoore8@asu.edu</h2>
+      <h2>Vinay Mannem, High School Intern</h2>
     </div>
     <div class="modal-body">
         <img class="content peoplepic" src="/photos/VMannem.jpg" alt="Vinay Mannem" />
