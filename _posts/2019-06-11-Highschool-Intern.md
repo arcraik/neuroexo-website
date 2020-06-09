@@ -2,6 +2,14 @@
 layout: post
 title: Ruofan, High School Intern from Carnegie Vanguard, joins our team
 ---
+<head>
+ <style>
+  figure {
+    padding: 12px;
+  }
+ </style>
+ </head>
+ 
  <figure class="post">
  <img src="/photos/rliu.jpg">
  <figcaption>Ruofan Liu</figcaption>
