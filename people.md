@@ -46,36 +46,6 @@ title: People
 <br>
 
 <h3>Co-Principal Investigator</h3>
-
-<div>
-<img class="peoplepic" src="/photos/slokhan.jpg" alt="Shaheen Lokhandwala " />
-<h4>Shaheen Lokhandwala </h4>
-<h4>Technology Licensing Associate</h4>
-<h4><a href="https://www.uh.edu/research/tech-transfer/ip/" target="_blank" >Office of Intellectual Property Management (OIPM)</a></h4>
-<h4>slokhand@central.uh.edu</h4>
-<!-- Trigger/Open The Modal -->
-<button class="modal-button" href="#slokhandwala">About Shaheen</button>
-
-<!-- The Modal -->
-<div id="slokhandwala" class="modal">
-
-  <!-- Modal content -->
- <div class="modal-content">
-    <div class="modal-header">
-      <span class="close">×</span>
-      <h2>Shaheen Lokhandwala</h2>
-    </div>
-    <div class="modal-body">
-      <img class="content peoplepic" src="/photos/slokhan.jpg" alt="Shaheen Lokhandwala " align="left"/>
-      <div><p class="content"></p></div>
-    </div>
-   </div>
-
-</div>
-</div>
-<br>
-
-<h3>Collaborators</h3>
 <div>
 <img class="peoplepic" src="/photos/jefffeng.jpg" alt="Jeff Feng" />
 <h4><a href="http://www.uh.edu/architecture/about/faculty/#!/details/1224152" target="_blank">Jeff Feng, Ph.D</a></h4>
@@ -97,26 +67,33 @@ title: People
  </div>
 </div>
 <div>
-<img class="peoplepic" src="/photos/fgrandi.jpg" alt="Francisco Grandi" />
-<h4>Francisco Grandi</h4>
-<h4>University of Houston</h4>
-<h4>Industrial Design</h4>
-<h4>fgrandi@uh.edu</h4>
+<img class="peoplepic" src="/photos/gillespie.jpg" alt="George Gilliespie " />
+<h4>George Gilliespie</h4>
+<h4>Technology Transfer Associate</h4>
+<h4><a href="https://www.uh.edu/research/about/organization/otti/" target="_blank" >Office of Technology Transfer and Innovation(OTTI)</a></h4>
+<h4>gcgillespie@uh.edu</h4>
+<!-- Trigger/Open The Modal -->
+<button class="modal-button" href="#gilliespie">About George</button>
 
-<button class="modal-button" href="#fgrandi">About Francisco</button>
-<div id="fgrandi" class="modal">
-<div class="modal-content">
-   <div class="modal-header">
-     <span class="close">×</span>
-     <h2>Francisco Grandi</h2>
-   </div>
-   <div class="modal-body">
-       <img class="content peoplepic" src="/photos/fgrandi.jpg" alt="Francisco Grandi" />
-     <div><p class="content"></p></div>
+<!-- The Modal -->
+<div id="gilliespie" class="modal">
+
+  <!-- Modal content -->
+ <div class="modal-content">
+    <div class="modal-header">
+      <span class="close">×</span>
+      <h2>George Gilliespie</h2>
     </div>
- </div>
- </div>
+    <div class="modal-body">
+      <img class="content peoplepic" src="/photos/gillespie.jpg" alt="George Gilliespie " align="left"/>
+      <div><p class="content"></p></div>
+    </div>
+   </div>
+
 </div>
+</div>
+<br>
+
 <h3>Graduate Students</h3>
 <div>
 <img class="peoplepic" src="/photos/ArCraik.jpg" alt="Alexander Craik" />
@@ -171,7 +148,32 @@ title: People
 </div>
 </div>
 <br>
-<h3>2020 Graduate Intern</h3>
+<h3>Undergraduate Collaborator</h3>
+
+<div>
+<img class="peoplepic" src="/photos/fgrandi.jpg" alt="Francisco Grandi" />
+<h4>Francisco Grandi</h4>
+<h4>University of Houston</h4>
+<h4>Industrial Design</h4>
+<h4>fgrandi@uh.edu</h4>
+
+<button class="modal-button" href="#fgrandi">About Francisco</button>
+<div id="fgrandi" class="modal">
+<div class="modal-content">
+   <div class="modal-header">
+     <span class="close">×</span>
+     <h2>Francisco Grandi</h2>
+   </div>
+   <div class="modal-body">
+       <img class="content peoplepic" src="/photos/fgrandi.jpg" alt="Francisco Grandi" />
+     <div><p class="content"></p></div>
+    </div>
+ </div>
+ </div>
+</div>
+
+<br>
+<h3>Undergraduate International Trainee</h3>
 <div>
 <img class="peoplepic" src="/photos/OCantu.png" alt="Oziel Román Cantú López" />
 <h4>Oziel Román Cantú López</h4>
@@ -227,6 +229,38 @@ title: People
 
 </div>
 </div>
+<div>
+<img class="peoplepic" src="/photos/erguzman.jpg" alt="Edgar Guzman" />
+<h4>Edgar Guzman</h4>
+
+<h4>California State Polytechnic University, Pomona</h4>
+<h4>Double Major: Computer Engineering and Electrical Engineering</h4>
+<h4>Minor: Mathematics</h4>
+<h4>erguzman@cpp.edu</h4>
+<!-- Trigger/Open The Modal -->
+<button class="modal-button" href="#erguzman">About Edgar</button>
+
+<!-- The Modal -->
+<div id="erguzman" class="modal">
+
+  <!-- Modal content -->
+ <div class="modal-content">
+    <div class="modal-header">
+      <span class="close">×</span>
+      <h2>Edgar Guzman</h2>
+    </div>
+    <div class="modal-body">
+        <img class="content peoplepic" src="/photos/erguzman.jpg" alt="Edgar Guzman" />
+      <div><p class="content">Edgar Guzman is currently a 5 th year student in Electrical and Computer Engineering (ECE)
+at California State Polytechnic University, Pomona. He will be applying to graduate school
+during the fall of 2020, where he intendents to research robotics. Specifically, he wants to
+read brains signals and translate them into robotic (rehabilitation robotics) movements.</p></div>
+     </div>
+  </div>
+
+</div>
+</div>
+
 <h3>2020 High School Intern</h3>
 <div>
 <img class="peoplepic" src="/photos/VMannem.jpg" alt="Vinay Mannem" />
