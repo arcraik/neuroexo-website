@@ -7,13 +7,20 @@ title: Research Blog
       {%- for post in site.posts -%}
     <hr>
       <li style="overflow: auto;">
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        {%- if post.author -%}
+          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+          <span class="post-meta">{{ post.date | date: date_format }} • {{ post.author | escape }}</span>
+        {%- else -%}
+          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+          <span class="post-meta">{{ post.date | date: date_format }}</span>
+        {%- endif -%}
+
+
         <h3>
         {%- if post.link -%}
           <a class="post-link" href="{{ post.link }}">
             {{ post.title | escape }}
-          </a>
+          </a>          
         {%- else -%}
           {{ post.title | escape }}
         {%- endif -%}
