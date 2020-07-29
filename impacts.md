@@ -15,7 +15,23 @@ permalink: /impacts/
   </head>
 
 
-
+<div class ="section" align="left">
+<hr>
+<h3>STEM Outreach at the Children's Museum of Houston 2020</h3>
+Due to the pandemic, our planned STEAM Outreach event at the Children's Museum of Houston this July has been cancelled.
+<br>
+</div>
+<br>
+<div class="section" >
+<hr>
+<figure class="section">
+<img style = "width: 80%;" src="/photos/2020interns.png" alt="2020 Summer Interns" />
+<figcaption>2020 Summer Interns</figcaption>
+</figure>
+<h3>2020 Summer Internships</h3>
+The NeuroExo project has the privilege of remotely hosting four interns, including two students from the Research Experiences for Undergraduates program (Edgar Guzman and Kameron Moore), a graduate student (Oziel Román Cantú López), and a local high school student (Vinay Mannem). While the pandemic has forced these internships to switch from in-person experiences to a virtual program, we expect these students will have a rewarding experience in gaining and improving the skill sets necessary for successful academic research.
+<br>
+</div>
 <div class="section" align="left">
 <hr>
 <figure class="section">
