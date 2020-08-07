@@ -130,6 +130,7 @@ title: People
 <!-- Trigger/Open The Modal -->
 <button class="modal-button" href="#jj">About Juan Jose</button>
 
+
 <!-- The Modal -->
 <div id="jj" class="modal">
 
@@ -147,6 +148,10 @@ title: People
 
 </div>
 </div>
+
+
+
+
 <br>
 <h3>Undergraduate Collaborator</h3>
 
@@ -157,8 +162,8 @@ title: People
 <h4>Industrial Design</h4>
 <h4></h4>
 
-<button class="modal-button" href="#fgrandi">About Francisco</button>
-<div id="fgrandi" class="modal">
+<button class="modal-button" href="#ngorman">About Francisco</button>
+<div id="ngorman" class="modal">
 <div class="modal-content">
    <div class="modal-header">
      <span class="close">×</span>
@@ -171,6 +176,8 @@ title: People
  </div>
  </div>
 </div>
+
+
 
 <br>
 <h3>Undergraduate International Trainee</h3>
@@ -461,6 +468,30 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
  </div>
  </div>
 </div>
+
+
+<div>
+<img class="peoplepic" src="/photos/slokhan.jpg" alt="Shaheen Lokhandwala" />
+<h4>Shaheen Lokhandwala</h4>
+<h4>University of Houston</h4>
+<h4>Office of Technology Transfer</h4>
+<h4>"slokhand@Central.uh.edu</h4>
+
+<button class="modal-button" href="#slokhan">About Francisco</button>
+<div id="slokhan" class="modal">
+<div class="modal-content">
+   <div class="modal-header">
+     <span class="close">×</span>
+     <h2>Francisco Grandi</h2>
+   </div>
+   <div class="modal-body">
+       <img class="content peoplepic" src="/photos/slokhan.jpg" alt="Shaheen Lokhandwala" />
+     <div><p class="content"></p></div>
+    </div>
+ </div>
+ </div>
+</div>
+
 
 
 
