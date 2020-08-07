@@ -61,7 +61,7 @@ title: People
    </div>
    <div class="modal-body">
        <img class="content peoplepic" src="/photos/jefffeng.jpg" alt="Jeff Feng" />
-     <div><p class="content"></p></div>
+     <div><p class="content">Jeff Feng, MFA is an associate professor at the College of Architecture and Desing at the University of Houston. He is the principle of the enLiving Laboratory for interdisciplinary research and design in healthcare products and services.  Jeff is an educator with over 15 years of experience in innovating in the industries of healthcare, consumer electronics, product packaging, etc. Jeff has worked as the design director at Metaphase Design Group for 7 years before he started teaching at the University of Houston. As an expert in design thinking, creative problem solving, design project management, design team building, and management, Jeff has led the design team to win numerous design awards and recognitions, most notably IDEA, Medical Design Excellence Award, and ID magazine. His works have been published in ID magazine, Metropolis magazine, Medical Design, Appliance Design magazine, etc. Jeff holds over 50 U.S. and international design and utility patents.</p></div>
     </div>
  </div>
  </div>
