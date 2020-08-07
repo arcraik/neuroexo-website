@@ -475,7 +475,7 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
 <h4>Shaheen Lokhandwala</h4>
 <h4>University of Houston</h4>
 <h4>Office of Technology Transfer</h4>
-<h4>"slokhand@Central.uh.edu</h4>
+<h4>slokhand@Central.uh.edu</h4>
 
 <button class="modal-button" href="#slokhan">About Shaheen</button>
 <div id="slokhan" class="modal">
