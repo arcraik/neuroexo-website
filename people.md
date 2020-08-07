@@ -151,21 +151,21 @@ title: People
 <h3>Undergraduate Collaborator</h3>
 
 <div>
-<img class="peoplepic" src="/photos/fgrandi.jpg" alt="Francisco Grandi" />
-<h4>Francisco Grandi</h4>
+<img class="peoplepic" src="/photos/Gorman.jpg" alt="Niell Gorman" />
+<h4>Niell Gorman</h4>
 <h4>University of Houston</h4>
 <h4>Industrial Design</h4>
-<h4>fgrandi@uh.edu</h4>
+<h4></h4>
 
 <button class="modal-button" href="#fgrandi">About Francisco</button>
 <div id="fgrandi" class="modal">
 <div class="modal-content">
    <div class="modal-header">
      <span class="close">×</span>
-     <h2>Francisco Grandi</h2>
+     <h2>Niell Gorman</h2>
    </div>
    <div class="modal-body">
-       <img class="content peoplepic" src="/photos/fgrandi.jpg" alt="Francisco Grandi" />
+       <img class="content peoplepic" src="/photos/Gorman.jpg" alt="Niell Gorman" />
      <div><p class="content"></p></div>
     </div>
  </div>
