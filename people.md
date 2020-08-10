@@ -162,7 +162,7 @@ title: People
 <h4>Industrial Design</h4>
 <h4>nbgorman@uh.edu</h4>
 
-<button class="modal-button" href="#ngorman">About Francisco</button>
+<button class="modal-button" href="#ngorman">About Niell</button>
 <div id="ngorman" class="modal">
 <div class="modal-content">
    <div class="modal-header">
