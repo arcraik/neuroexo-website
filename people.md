@@ -86,7 +86,7 @@ title: People
     </div>
     <div class="modal-body">
       <img class="content peoplepic" src="/photos/gillespie.jpg" alt="George Gilliespie " align="left"/>
-      <div><p class="content"></p></div>
+      <div><p class="content">Experienced research administrator and seasoned technology commercialization professional with more than 20 years of experience in federal (Army, Energy, NOAA) and university (UNC-Pembroke, University of Maryland and currently University of Houston). Experience locating sources of research sponsorship from federal, industry and foundations. Negotiated and brought to conclusion more than 25 research agreements bringing in approximately $2M in research funding/royalty revenue for federal and academic organizations.</p></div>
     </div>
    </div>
 
