@@ -61,7 +61,7 @@ title: People
    </div>
    <div class="modal-body">
        <img class="content peoplepic" src="/photos/jefffeng.jpg" alt="Jeff Feng" />
-     <div><p class="content"></p></div>
+     <div><p class="content">Jeff Feng, MFA is an associate professor at the College of Architecture and Desing at the University of Houston. He is the principle of the enLiving Laboratory for interdisciplinary research and design in healthcare products and services.  Jeff is an educator with over 15 years of experience in innovating in the industries of healthcare, consumer electronics, product packaging, etc. Jeff has worked as the design director at Metaphase Design Group for 7 years before he started teaching at the University of Houston. As an expert in design thinking, creative problem solving, design project management, design team building, and management, Jeff has led the design team to win numerous design awards and recognitions, most notably IDEA, Medical Design Excellence Award, and ID magazine. His works have been published in ID magazine, Metropolis magazine, Medical Design, Appliance Design magazine, etc. Jeff holds over 50 U.S. and international design and utility patents.</p></div>
     </div>
  </div>
  </div>
@@ -86,7 +86,7 @@ title: People
     </div>
     <div class="modal-body">
       <img class="content peoplepic" src="/photos/gillespie.jpg" alt="George Gilliespie " align="left"/>
-      <div><p class="content"></p></div>
+      <div><p class="content">Experienced research administrator and seasoned technology commercialization professional with more than 20 years of experience in federal (Army, Energy, NOAA) and university (UNC-Pembroke, University of Maryland and currently University of Houston). Experience locating sources of research sponsorship from federal, industry and foundations. Negotiated and brought to conclusion more than 25 research agreements bringing in approximately $2M in research funding/royalty revenue for federal and academic organizations.</p></div>
     </div>
    </div>
 
@@ -130,6 +130,7 @@ title: People
 <!-- Trigger/Open The Modal -->
 <button class="modal-button" href="#jj">About Juan Jose</button>
 
+
 <!-- The Modal -->
 <div id="jj" class="modal">
 
@@ -147,30 +148,36 @@ title: People
 
 </div>
 </div>
+
+
+
+
 <br>
 <h3>Undergraduate Collaborator</h3>
 
 <div>
-<img class="peoplepic" src="/photos/fgrandi.jpg" alt="Francisco Grandi" />
-<h4>Francisco Grandi</h4>
+<img class="peoplepic" src="/photos/Gorman.jpg" alt="Niell Gorman" />
+<h4>Niell Gorman</h4>
 <h4>University of Houston</h4>
 <h4>Industrial Design</h4>
-<h4>fgrandi@uh.edu</h4>
+<h4>nbgorman@uh.edu</h4>
 
-<button class="modal-button" href="#fgrandi">About Francisco</button>
-<div id="fgrandi" class="modal">
+<button class="modal-button" href="#ngorman">About Niell</button>
+<div id="ngorman" class="modal">
 <div class="modal-content">
    <div class="modal-header">
      <span class="close">×</span>
-     <h2>Francisco Grandi</h2>
+     <h2>Niell Gorman</h2>
    </div>
    <div class="modal-body">
-       <img class="content peoplepic" src="/photos/fgrandi.jpg" alt="Francisco Grandi" />
+       <img class="content peoplepic" src="/photos/Gorman.jpg" alt="Niell Gorman" />
      <div><p class="content"></p></div>
     </div>
  </div>
  </div>
 </div>
+
+
 
 <br>
 <h3>Undergraduate International Trainee</h3>
@@ -436,8 +443,58 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
   <h4>Ruofan Liu</h4>
   <h4>Carnegie Vanguard High School</h4>
   <h4>rliu17@uh.edu</h4>
-
 </div>
+
+<h3>Past Collaborators</h3>
+
+<div>
+<img class="peoplepic" src="/photos/fgrandi.jpg" alt="Francisco Grandi" />
+<h4>Francisco Grandi</h4>
+<h4>University of Houston</h4>
+<h4>Industrial Design</h4>
+<h4>fgrandi@uh.edu</h4>
+
+<button class="modal-button" href="#fgrandi">About Francisco</button>
+<div id="fgrandi" class="modal">
+<div class="modal-content">
+   <div class="modal-header">
+     <span class="close">×</span>
+     <h2>Francisco Grandi</h2>
+   </div>
+   <div class="modal-body">
+       <img class="content peoplepic" src="/photos/fgrandi.jpg" alt="Francisco Grandi" />
+     <div><p class="content"></p></div>
+    </div>
+ </div>
+ </div>
+</div>
+
+
+<div>
+<img class="peoplepic" src="/photos/slokhan.jpg" alt="Shaheen Lokhandwala" />
+<h4>Shaheen Lokhandwala</h4>
+<h4>University of Houston</h4>
+<h4>Office of Technology Transfer</h4>
+<h4>slokhand@Central.uh.edu</h4>
+
+<button class="modal-button" href="#slokhan">About Shaheen</button>
+<div id="slokhan" class="modal">
+<div class="modal-content">
+   <div class="modal-header">
+     <span class="close">×</span>
+     <h2>Shaheen Lokhandwala</h2>
+   </div>
+   <div class="modal-body">
+       <img class="content peoplepic" src="/photos/slokhan.jpg" alt="Shaheen Lokhandwala" />
+     <div><p class="content"></p></div>
+    </div>
+ </div>
+ </div>
+</div>
+
+
+
+
 <h2><a href="https://www.uth.edu/" target="_blank">University of Texas Health Science Center (UTHealth)</a></h2>
 <h3>Principal Investigator</h3>
 <div>
