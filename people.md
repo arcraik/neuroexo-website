@@ -156,7 +156,7 @@ title: People
 <img class="peoplepic" src="/photos/OCantu.png" alt="Oziel Román Cantú López" />
 <h4>Oziel Román Cantú López</h4>
 
-<h4>Universidad de Monterrey</h4>
+<h4>Universidad de Monterrey (Mexico)</h4>
 <h4>Biomedical Engineering</h4>
 <h4>oziel.cantu@udem.edu</h4>
 <!-- Trigger/Open The Modal -->
@@ -442,6 +442,47 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
   <h4>rliu17@uh.edu</h4>
 </div>
 
+
+
+
+<h2><a href="https://www.uth.edu/" target="_blank">University of Texas Health Science Center (UTHealth)</a></h2>
+<h3>Principal Investigator</h3>
+<div>
+  <img class="peoplepic" src="/photos/Francisco_Gerard.jpg" alt="Gerard Francisco" />
+  <h4><a href="https://med.uth.edu/pmr/faculty/gerard-e-francisco-md/" target="_blank">Gerard Francisco, MD</a></h4>
+  <h4>Chairman and Professor, Physical Medicine and Rehabilitation,
+University of Texas Health Science Center at Houston (UTHealth)</h4>
+  <h4>Director, NeuroRecovery Research Center</h4>
+  <h4><a href="http://tirr.memorialhermann.org/" target="_blank">Chief Medical Officer, TIRR Memorial Hermann</a></h4>
+  <h4>gerard.e.francisco@uth.tmc.edu</h4>
+
+</div>
+<h3>Co-Investigator</h3>
+<div>
+  <img class="peoplepic" src="/photos/jameschang.jpg" alt="Shuo-Hsiu Chang" />
+  <h4><a href="https://med.uth.edu/pmr/faculty/shuo-hsiu-james-chang-pt-phd/" target="_blank">Shuo-Hsiu Chang, PhD</a></h4>
+  <h4>Assistant Professor</h4>
+  <h4>Department of Physical Medicine and Rehabilitation</h4>
+  <h4>shuo-hsiu.chang@uth.tmc.edu</h4>
+</div>
+<h2>Harmonic Bionics, Inc</h2>
+<div>
+  <img class="peoplepic" src="/photos/YoungMok Yu.jpg" alt="Youngmok Yun" />
+  <h4><a href="https://harmonicbionics.com/" target="_blank">Youngmok Yun, PhD</a></h4>
+  <h4>Chief Executive Officer/Cofounder</h4>
+  <h4>mok@harmonicbionics.com</h4>
+</div>
+<h2>National Instruments</h2>
+<div>
+  <img class="peoplepic" src="/photos/igoralvarado.png" alt="Igor Alvarado" />
+  <h4>Igor Alvarado</h4>
+  <h4>Business Development Manager for Academic Research</h4>
+  <h4>igor.alvarado@ni.com</h4>
+  <h4>Austin, TX</h4>
+
+</div>
+
+
 <h3>Past Collaborators</h3>
 
 <div>
@@ -488,47 +529,6 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
  </div>
  </div>
 </div>
-
-
-
-
-<h2><a href="https://www.uth.edu/" target="_blank">University of Texas Health Science Center (UTHealth)</a></h2>
-<h3>Principal Investigator</h3>
-<div>
-  <img class="peoplepic" src="/photos/Francisco_Gerard.jpg" alt="Gerard Francisco" />
-  <h4><a href="https://med.uth.edu/pmr/faculty/gerard-e-francisco-md/" target="_blank">Gerard Francisco, MD</a></h4>
-  <h4>Chairman and Professor, Physical Medicine and Rehabilitation,
-University of Texas Health Science Center at Houston (UTHealth)</h4>
-  <h4>Director, NeuroRecovery Research Center</h4>
-  <h4><a href="http://tirr.memorialhermann.org/" target="_blank">Chief Medical Officer, TIRR Memorial Hermann</a></h4>
-  <h4>gerard.e.francisco@uth.tmc.edu</h4>
-
-</div>
-<h3>Co-Investigator</h3>
-<div>
-  <img class="peoplepic" src="/photos/jameschang.jpg" alt="Shuo-Hsiu Chang" />
-  <h4><a href="https://med.uth.edu/pmr/faculty/shuo-hsiu-james-chang-pt-phd/" target="_blank">Shuo-Hsiu Chang, PhD</a></h4>
-  <h4>Assistant Professor</h4>
-  <h4>Department of Physical Medicine and Rehabilitation</h4>
-  <h4>shuo-hsiu.chang@uth.tmc.edu</h4>
-</div>
-<h2>Harmonic Bionics, Inc</h2>
-<div>
-  <img class="peoplepic" src="/photos/YoungMok Yu.jpg" alt="Youngmok Yun" />
-  <h4><a href="https://harmonicbionics.com/" target="_blank">Youngmok Yun, PhD</a></h4>
-  <h4>Chief Executive Officer/Cofounder</h4>
-  <h4>mok@harmonicbionics.com</h4>
-</div>
-<h2>National Instruments</h2>
-<div>
-  <img class="peoplepic" src="/photos/igoralvarado.png" alt="Igor Alvarado" />
-  <h4>Igor Alvarado</h4>
-  <h4>Business Development Manager for Academic Research</h4>
-  <h4>igor.alvarado@ni.com</h4>
-  <h4>Austin, TX</h4>
-
-</div>
-
 
 
 
