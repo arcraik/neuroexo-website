@@ -531,5 +531,27 @@ University of Texas Health Science Center at Houston (UTHealth)</h4>
 </div>
 
 
+<div>
+<img class="peoplepic" src="/photos/AKilicarslan.jpeg" alt="Atilla Kilicarslan" />
+<h4>Atilla Kilicarslan</h4>
+<h4>University of Houston</h4>
+<h4>Research Assistant Professor</h4>
+<h4>a.kilicarslan@gmail.com</h4>
+
+<button class="modal-button" href="#AKilicarslan">About Atilla</button>
+<div id="AKilicarslan" class="modal">
+<div class="modal-content">
+   <div class="modal-header">
+     <span class="close">×</span>
+     <h2>Atilla Kilicarslan</h2>
+   </div>
+   <div class="modal-body">
+       <img class="content peoplepic" src="/photos/AKilicarslan.jpeg" alt="Atilla Kilicarslan" />
+     <div><p class="content"></p></div>
+    </div>
+ </div>
+ </div>
+</div>
+
 
 <script src="/javascript/modal.js"></script>
