@@ -150,35 +150,6 @@ title: People
 </div>
 
 
-
-
-<br>
-<h3>Undergraduate Collaborator</h3>
-
-<div>
-<img class="peoplepic" src="/photos/Gorman.jpg" alt="Niell Gorman" />
-<h4>Niell Gorman</h4>
-<h4>University of Houston</h4>
-<h4>Industrial Design</h4>
-<h4>nbgorman@uh.edu</h4>
-
-<button class="modal-button" href="#ngorman">About Niell</button>
-<div id="ngorman" class="modal">
-<div class="modal-content">
-   <div class="modal-header">
-     <span class="close">×</span>
-     <h2>Niell Gorman</h2>
-   </div>
-   <div class="modal-body">
-       <img class="content peoplepic" src="/photos/Gorman.jpg" alt="Niell Gorman" />
-     <div><p class="content"></p></div>
-    </div>
- </div>
- </div>
-</div>
-
-
-
 <br>
 <h3>Undergraduate International Trainee</h3>
 <div>
@@ -209,6 +180,32 @@ title: People
 </div>
 </div>
 <h3>2020 REU Students</h3>
+
+
+<div>
+<img class="peoplepic" src="/photos/Gorman.jpg" alt="Niell Gorman" />
+<h4>Niell Gorman</h4>
+<h4>University of Houston</h4>
+<h4>Industrial Design</h4>
+<h4>nbgorman@uh.edu</h4>
+
+<button class="modal-button" href="#ngorman">About Niell</button>
+<div id="ngorman" class="modal">
+<div class="modal-content">
+   <div class="modal-header">
+     <span class="close">×</span>
+     <h2>Niell Gorman</h2>
+   </div>
+   <div class="modal-body">
+       <img class="content peoplepic" src="/photos/Gorman.jpg" alt="Niell Gorman" />
+     <div><p class="content"></p></div>
+    </div>
+ </div>
+ </div>
+</div>
+
+
+
 <div>
 <img class="peoplepic" src="/photos/KMoore.jpeg" alt="Kameron Moore" />
 <h4>Kameron Moore</h4>
