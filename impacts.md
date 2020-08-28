@@ -49,7 +49,7 @@ The NeuroExo project has the privilege of remotely hosting four interns, includi
 <figcaption>Visit by St. Elmo Brady STEM Academy</figcaption>
 </figure>
 <h3>STEM Outreach with SEBA</h3>
-St. Elmo Brady STEM Academy (SEBA), a local organization that encourages fourth and fifth-grade African-American and Latino boys to consider a career in science, technology, engineering and mathematics, joined the lab for a tour of our ongoing research. In addition to demonstrating our individual projects, we spoke with the students about what it means to be a researcher and how one could prepare for the rigors of academia.
+On October 24th, 2019, St. Elmo Brady STEM Academy (SEBA), a local organization that encourages fourth and fifth-grade African-American and Latino boys to consider a career in science, technology, engineering and mathematics, joined the lab for a tour of our ongoing research. In addition to demonstrating our individual projects, we spoke with the students about what it means to be a researcher and how one could prepare for the rigors of academia.
 <br>
 </div>
 
@@ -63,7 +63,7 @@ St. Elmo Brady STEM Academy (SEBA), a local organization that encourages fourth 
 <figcaption>Discussion with NASA officials</figcaption>
 </figure>
 <h3>Visit by the National Aeronautics and Space Administration</h3>
-Senior representatives and former astronauts from NASA visited the lab to hear about our research. During the visit, we described and demonstrated our many different neurotechnologies, including our rehabilitation arm and Brain Computer Interface module.
+Senior representatives and former astronauts from NASA visited the lab to hear about our research on October 16th, 2019. During the visit, we described and demonstrated our many different neurotechnologies, including our rehabilitation arm and Brain Computer Interface module.
 <br>
 </div>
 
