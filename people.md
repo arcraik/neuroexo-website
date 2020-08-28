@@ -483,7 +483,7 @@ University of Texas Health Science Center at Houston (UTHealth)</h4>
 </div>
 
 
-<h3>Past Collaborators</h3>
+<h2>Past Collaborators</h2>
 
 <div>
 <img class="peoplepic" src="/photos/fgrandi.jpg" alt="Francisco Grandi" />
