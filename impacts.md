@@ -15,12 +15,16 @@ permalink: /impacts/
   </head>
 
 
+
+
 <div class ="section" align="left">
 <hr>
 <h3>STEM Outreach at the Children's Museum of Houston 2020</h3>
 Due to the pandemic, our planned STEAM Outreach event at the Children's Museum of Houston this July has been cancelled.
 <br>
 </div>
+
+
 
 
 <br>
@@ -34,6 +38,7 @@ Due to the pandemic, our planned STEAM Outreach event at the Children's Museum o
 The NeuroExo project has the privilege of remotely hosting four interns, including two students from the Research Experiences for Undergraduates program (Edgar Guzman and Kameron Moore), a graduate student (Oziel Román Cantú López), and a local high school student (Vinay Mannem). While the pandemic has forced these internships to switch from in-person experiences to a virtual program, we expect these students will have a rewarding experience in gaining and improving the skill sets necessary for successful academic research.
 <br>
 </div>
+
 
 
 <div class="section" align="left">
@@ -50,11 +55,12 @@ St. Elmo Brady STEM Academy (SEBA), a local organization that encourages fourth 
 
 
 
+
 <div class="section" align="left">
 <hr>
 <figure class="section">
 <img src="/photos/NASA.jpg" alt="Test" />
-<figcaption>2019 Children's Museum</figcaption>
+<figcaption>Discussion with NASA officials</figcaption>
 </figure>
 <h3>Visit by the National Aeronautics and Space Administration</h3>
 Senior representatives and former astronauts from NASA visited the lab to hear about our research. During the visit, we described and demonstrated our many different neurotechnologies, including our rehabilitation arm and Brain Computer Interface module.
@@ -92,6 +98,8 @@ On April 17, 2019, a group of international high school students from Darussafak
 </div>
 
 
+
+
 <div class="section">
 <hr>
 <figure class="section">
@@ -102,6 +110,8 @@ On April 17, 2019, a group of international high school students from Darussafak
 On February 28, 2019, our lab demonstrated a powered walking exoskeleton robot and brain recording devices to visualize brain activity non-invasively to children and parents during the STEM night at the T.H. Rogers School in Houston, Texas.
 <br>
 </div>
+
+
 
 
 <div class="section">
