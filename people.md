@@ -533,7 +533,7 @@ University of Texas Health Science Center at Houston (UTHealth)</h4>
 
 <div>
 <img class="peoplepic" src="/photos/AKilicarslan.jpeg" alt="Atilla Kilicarslan" />
-<h4>Atilla Kilicarslan</h4>
+<h4>Atilla Kilicarslan, PHD</h4>
 <h4>University of Houston</h4>
 <h4>Research Assistant Professor</h4>
 <h4>a.kilicarslan@gmail.com</h4>
