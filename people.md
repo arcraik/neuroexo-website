@@ -186,7 +186,7 @@ title: People
 <img class="peoplepic" src="/photos/Gorman.jpg" alt="Niell Gorman" />
 <h4>Niell Gorman</h4>
 <h4>University of Houston</h4>
-<h4>Industrial Design</h4>
+<h4>College of Architecture and Design</h4>
 <h4>nbgorman@uh.edu</h4>
 
 <button class="modal-button" href="#ngorman">About Niell</button>
@@ -198,7 +198,7 @@ title: People
    </div>
    <div class="modal-body">
        <img class="content peoplepic" src="/photos/Gorman.jpg" alt="Niell Gorman" />
-     <div><p class="content"></p></div>
+     <div><p class="content">Niell Gorman is currently a 4th year Industrial Design student at the University of Houston’s Gerald D. Hines College of Architecture and Design. Coming from an arts background, he finds inspiration in drawing, nature, and playing music, and also leads the University of Houston chapter of the Precious Plastic circular plastic economy movement. His aim is to pursue a career in product design, with a focus on medical design, sustainability, and new fabrication technologies.</p></div>
     </div>
  </div>
  </div>
