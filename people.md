@@ -66,33 +66,10 @@ title: People
  </div>
  </div>
 </div>
-<div>
-<img class="peoplepic" src="/photos/gillespie.jpg" alt="George Gilliespie " />
-<h4>George Gilliespie</h4>
-<h4>Technology Transfer Associate</h4>
-<h4><a href="https://www.uh.edu/research/about/organization/otti/" target="_blank" >Office of Technology Transfer and Innovation(OTTI)</a></h4>
-<h4>gcgillespie@uh.edu</h4>
-<!-- Trigger/Open The Modal -->
-<button class="modal-button" href="#gilliespie">About George</button>
 
-<!-- The Modal -->
-<div id="gilliespie" class="modal">
 
-  <!-- Modal content -->
- <div class="modal-content">
-    <div class="modal-header">
-      <span class="close">×</span>
-      <h2>George Gilliespie</h2>
-    </div>
-    <div class="modal-body">
-      <img class="content peoplepic" src="/photos/gillespie.jpg" alt="George Gilliespie " align="left"/>
-      <div><p class="content">Experienced research administrator and seasoned technology commercialization professional with more than 20 years of experience in federal (Army, Energy, NOAA) and university (UNC-Pembroke, University of Maryland and currently University of Houston). Experience locating sources of research sponsorship from federal, industry and foundations. Negotiated and brought to conclusion more than 25 research agreements bringing in approximately $2M in research funding/royalty revenue for federal and academic organizations.</p></div>
-    </div>
-   </div>
 
-</div>
-</div>
-<br>
+
 
 <h3>Graduate Students</h3>
 <div>
@@ -121,6 +98,12 @@ title: People
 
 </div>
 </div>
+<br>
+
+
+
+
+
 <div>
 <img class="peoplepic" src="/photos/jj.jpg" alt="Juan Jose Gonzalez Espana" />
 <h4>Juan Jose Gonzalez Espana, MSEE</h4>
@@ -148,9 +131,42 @@ title: People
 
 </div>
 </div>
-
-
 <br>
+
+
+
+
+<div>
+<img class="peoplepic" src="/photos/Ayman.jpg" alt="Ayman Alamir" />
+<h4>Ayman Alamir, MS</h4>
+
+<h4>PhD Student, Graduate Research Assistant</h4>
+<h4>asalamir@uh.edu</h4>
+<!-- Trigger/Open The Modal -->
+<button class="modal-button" href="#jj">About Ayman</button>
+
+
+<!-- The Modal -->
+<div id="jj" class="modal">
+
+  <!-- Modal content -->
+ <div class="modal-content">
+    <div class="modal-header">
+      <span class="close">×</span>
+      <h2>Ayman Alamir, PHD Student</h2>
+    </div>
+    <div class="modal-body">
+        <img class="content peoplepic" src="/photos/Ayman.jpg" alt="Ayman Alamir" />
+      <div><p class="content">Ayman Alamir is a PhD student in Biomedical Engineering at the University of Houston. He has a BS in Electrical Engineering and a MS in Biomedical Engineering. He is interested in brain-machine interfaces and neural engineering.</p></div>
+     </div>
+  </div>
+
+</div>
+</div>
+<br>
+
+
+
 <h3>Undergraduate International Trainee</h3>
 <div>
 <img class="peoplepic" src="/photos/OCantu.png" alt="Oziel Román Cantú López" />
@@ -548,6 +564,9 @@ University of Texas Health Science Center at Houston (UTHealth)</h4>
  </div>
  </div>
 </div>
+<br>
+
+
 
 
 <div>
@@ -571,6 +590,40 @@ University of Texas Health Science Center at Houston (UTHealth)</h4>
  </div>
  </div>
 </div>
+<br>
+
+
+
+
+<div>
+<img class="peoplepic" src="/photos/gillespie.jpg" alt="George Gilliespie " />
+<h4>George Gilliespie</h4>
+<h4>Technology Transfer Associate</h4>
+<h4><a href="https://www.uh.edu/research/about/organization/otti/" target="_blank" >Office of Technology Transfer and Innovation(OTTI)</a></h4>
+<h4>gcgillespie@uh.edu</h4>
+<!-- Trigger/Open The Modal -->
+<button class="modal-button" href="#gilliespie">About George</button>
+
+<!-- The Modal -->
+<div id="gilliespie" class="modal">
+
+  <!-- Modal content -->
+ <div class="modal-content">
+    <div class="modal-header">
+      <span class="close">×</span>
+      <h2>George Gilliespie</h2>
+    </div>
+    <div class="modal-body">
+      <img class="content peoplepic" src="/photos/gillespie.jpg" alt="George Gilliespie " align="left"/>
+      <div><p class="content">Experienced research administrator and seasoned technology commercialization professional with more than 20 years of experience in federal (Army, Energy, NOAA) and university (UNC-Pembroke, University of Maryland and currently University of Houston). Experience locating sources of research sponsorship from federal, industry and foundations. Negotiated and brought to conclusion more than 25 research agreements bringing in approximately $2M in research funding/royalty revenue for federal and academic organizations.</p></div>
+    </div>
+   </div>
+
+</div>
+</div>
+<br>
+
+
 
 
 <div>
@@ -594,6 +647,6 @@ University of Texas Health Science Center at Houston (UTHealth)</h4>
  </div>
  </div>
 </div>
-
+<br>
 
 <script src="/javascript/modal.js"></script>
