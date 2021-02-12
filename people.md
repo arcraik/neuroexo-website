@@ -18,7 +18,7 @@ title: People
 <h2>University of Houston Team</h2>
 <h3>Principal Investigator</h3>
 <div>
-  <img class="peoplepic" src="/photos/JContreras-Vidal.jpg" alt="Jose Luis Contreras-Vidal" />
+  <img class="peoplepic" src="/photos/JContreras-Vidal.jpg" alt="Jose Luis Contreras-Vidal" width="200" height="400"/>
   <h4><a href="http://www.ee.uh.edu/faculty/contreras-vidal" target="_blank"> Jose Luis Contreras-Vidal Ph.D.</a></h4>
   <h4>Hugh Roy and Lillie Cranz Cullen Distinguished Professor</h4>  
   <h4><a href="http://brain.egr.uh.edu/" target="_blank"> Director, UH NSF IUCRC BRAIN</a></h4>
