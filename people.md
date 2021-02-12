@@ -66,7 +66,7 @@ title: People
  </div>
  </div>
 </div>
-
+<br>
 
 
 
@@ -197,7 +197,7 @@ title: People
 
 </div>
 </div>
-
+<br>
 
 
 
@@ -227,7 +227,7 @@ title: People
  </div>
  </div>
 </div>
-
+<br>
 
 
 <div>
@@ -258,6 +258,9 @@ title: People
 
 </div>
 </div>
+<br>
+
+
 <div>
 <img class="peoplepic" src="/photos/erguzman.jpg" alt="Edgar Guzman" width="200" height="300"/>
 <h4>Edgar Guzman</h4>
@@ -319,6 +322,9 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
 
   </div>
 </div>
+<br>
+
+
 <div>
   <img class="peoplepic" src="/photos/annaleise.jpg" alt="Annaleise Gray" width="200" height="300"/>
   <h4>Annaleise Gray</h4>
@@ -349,6 +355,8 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
 </div>
 
 <br>
+
+
 <div>
   <img class="peoplepic" src="/photos/KSchmidt.JPG" alt="Kristin Schmidt" width="200" height="300"/>
   <h4>Kristin Schmidt</h4>
@@ -378,6 +386,8 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
   </div>
 </div>
 <br>
+
+
 <div>
   <img class="peoplepic" src="/photos/RSutherland.jpg" alt="Robert Sutherland" width="200" height="300"/>
   <h4>Robert Sutherland</h4>
@@ -405,7 +415,7 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
   </div>
 
   </div>
-
+<br>
 
 
 
@@ -442,6 +452,9 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
 
 </div>
 </div>
+<br>
+
+
 
 <div>
   <img class="peoplepic" src="/photos/antoin.jpg" alt="Antoinette Louw" width="200" height="300"/>
@@ -469,7 +482,7 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
   </div>
   </div>
 </div>
-
+<br>
 
 
 
@@ -500,7 +513,7 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
   </div>
 </div>
 </div>
-
+<br>
 
 
 <div>
@@ -510,7 +523,7 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
   <h4>2019-2020 High School Internship Program</h4>
   <h4>rliu17@uh.edu</h4>
 </div>
-
+<br>
 
 
 
@@ -526,6 +539,9 @@ University of Texas Health Science Center at Houston (UTHealth)</h4>
   <h4>gerard.e.francisco@uth.tmc.edu</h4>
 
 </div>
+<br>
+
+
 <h3>Co-Investigator</h3>
 <div>
   <img class="peoplepic" src="/photos/jameschang.jpg" alt="Shuo-Hsiu Chang" width="200" height="300"/>
@@ -550,7 +566,7 @@ University of Texas Health Science Center at Houston (UTHealth)</h4>
   <h4>Austin, TX</h4>
 
 </div>
-
+<br>
 
 <h2>Past Collaborators</h2>
 
