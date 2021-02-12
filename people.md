@@ -247,7 +247,7 @@ title: People
       <h2>Kameron Moore</h2>
     </div>
     <div class="modal-body">
-        <img class="content peoplepic" src="/photos/KMoore.jpeg" alt="Kameron Moore" width="200" height="300"/>
+        <img class="content peoplepic" src="/photos/KMoore.jpeg" alt="Kameron Moore" width="200" height="400"/>
       <div><p class="content">Kameron Moore is pursuing concurrent bachelors degrees in Biomedical Engineering and Spanish Linguistics at Arizona State University in Barrett, the Honors College. From Cave Creek, Arizona, Kameron enjoys spending time outdoors, doing yoga, and cooking. He is very driven and extremely passionate about neurological health, hoping to secure a career improving healthcare for all in the future. Having previously worked in ASU’s Memory and Attention Control Lab, Kameron has experience studying ADD and ADHD through pupil dilation analysis and cognitive task assessment. </p></div>
      </div>
   </div>
@@ -255,7 +255,7 @@ title: People
 </div>
 </div>
 <div>
-<img class="peoplepic" src="/photos/erguzman.jpg" alt="Edgar Guzman" width="200" height="400"/>
+<img class="peoplepic" src="/photos/erguzman.jpg" alt="Edgar Guzman" width="200" height="300"/>
 <h4>Edgar Guzman</h4>
 
 <h4>California State Polytechnic University, Pomona</h4>
