@@ -89,7 +89,7 @@ title: People
  <div class="modal-content">
     <div class="modal-header">
       <span class="close">×</span>
-      <h2>Alexander Craik, PHD Student</h2>
+      <h2>Alexander Craik, Doctoral Candidate</h2>
     </div>
     <div class="modal-body">
         <img class="content peoplepic" src="/photos/ArCraik.jpg" alt="Alexander Craik" width="200" height="300"/>
@@ -175,7 +175,7 @@ title: People
 <h4>Oziel Román Cantú López</h4>
 
 <h4>Universidad de Monterrey (Mexico)</h4>
-<h4>Biomedical Engineering</h4>
+<h4>Undergraduate, Biomedical Engineering</h4>
 <h4>oziel.cantu@udem.edu</h4>
 <!-- Trigger/Open The Modal -->
 <button class="modal-button" href="#OCantu">About Oziel</button>
@@ -209,8 +209,8 @@ title: People
 <img class="peoplepic" src="/photos/Gorman.jpg" alt="Niell Gorman" width="200" height="300"/>
 <h4>Niell Gorman</h4>
 <h4>University of Houston</h4>
-<h4>College of Architecture and Design</h4>
-<h4>2020 - Present REU program</h4>
+<h4>Undergraduate - College of Architecture and Design</h4>
+<h4>2020 - Present REU Program</h4>
 <h4>nbgorman@uh.edu</h4>
 
 <button class="modal-button" href="#ngorman">About Niell</button>
@@ -235,8 +235,8 @@ title: People
 <h4>Kameron Moore</h4>
 
 <h4>Arizona State University</h4>
-<h4>Biomedical Engineering and Spanish Linguistics</h4>
-<h4>2020 REU program</h4>
+<h4>Undergraduate, Biomedical Engineering and Spanish Linguistics</h4>
+<h4>2020 REU Program</h4>
 <h4>kjmoore8@asu.edu</h4>
 <!-- Trigger/Open The Modal -->
 <button class="modal-button" href="#KMoore">About Kameron</button>
@@ -262,7 +262,7 @@ title: People
 <img class="peoplepic" src="/photos/erguzman.jpg" alt="Edgar Guzman" width="200" height="300"/>
 <h4>Edgar Guzman</h4>
 <h4>California State Polytechnic University, Pomona</h4>
-<h4>Computer Engineering and Electrical Engineering</h4>
+<h4>Undergraduate, Computer Engineering and Electrical Engineering</h4>
 <h4>2020 REU program</h4>
 <h4>Minor: Mathematics</h4>
 <h4>erguzman@cpp.edu</h4>
@@ -297,7 +297,7 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
   <h4>Marianna Zanovello</h4>
 
   <h4>University of Houston</h4>
-  <h4>Mechanical Engineering Major</h4>
+  <h4>Undergraduate, Mechanical Engineering</h4>
   <h4>2019 REU program</h4>
   <h4>mlzanovello@uh.edu</h4>
   <!-- Trigger/Open The Modal -->
@@ -325,7 +325,7 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
   <h4>Annaleise Gray</h4>
 
   <h4>University of Houston</h4>
-  <h4>College of Architecture and Design</h4>
+  <h4>Undergraduate, College of Architecture and Design</h4>
   <h4>2019 REU program</h4>
   <h4>annaleisegray@gmail.com</h4>
   <!-- Trigger/Open The Modal -->
@@ -355,7 +355,7 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
   <h4>Kristin Schmidt</h4>
 
   <h4>University of Virginia </h4>
-  <h4>Mechanical Engineering Major</h4>
+  <h4>Undergraduate, Mechanical Engineering</h4>
   <h4>2019 REU program</h4>
   <h4>khs4jv@virginia.edu</h4>
   <!-- Trigger/Open The Modal -->
@@ -384,7 +384,7 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
   <h4>Robert Sutherland</h4>
 
   <h4>University of Southern California</h4>
-  <h4>Electrical Engineering Major</h4>
+  <h4>Undergraduate, Electrical Engineering</h4>
   <h4>2019 REU Program</h4>
   <h4>rfsuther@usc.edu</h4>
   <!-- Trigger/Open The Modal -->
@@ -420,7 +420,7 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
 <img class="peoplepic" src="/photos/maryam.png" alt="Maryam Tahir" width="200" height="250"/>
 <h4>Maryam Tahir</h4>
 <h4>University of Houston</h4>
-<h4>Electrical Engineering</h4>
+<h4>Undergraduate, Electrical Engineering</h4>
 <h4>2020 Independent Study</h4>
 <h4>maryam5000tah@gmail.com</h4>
 <!-- Trigger/Open The Modal -->
@@ -449,7 +449,7 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
   <h4>Antoinette Louw</h4>
 
   <h4>University of Houston </h4>
-  <h4>College of Architecture and Design</h4>
+  <h4>Undergraduate, College of Architecture and Design</h4>
   <h4>ant@louw.org</h4>
   <!-- Trigger/Open The Modal -->
   <button class="modal-button" href="#alouw">About Antoinette</button>
