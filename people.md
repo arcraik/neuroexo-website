@@ -47,7 +47,7 @@ title: People
 
 <h3>Co-Principal Investigator</h3>
 <div>
-<img class="peoplepic" src="/photos/jefffeng.jpg" alt="Jeff Feng" width="200" height="400"/>
+<img class="peoplepic" src="/photos/jefffeng.jpg" alt="Jeff Feng" width="200" height="300"/>
 <h4><a href="http://www.uh.edu/architecture/about/faculty/#!/details/1224152" target="_blank">Jeff Feng, Ph.D</a></h4>
 <h4>Associate Professor of Architecture and Design, Medical Device Design</h4>
 <h4>ffeng@uh.edu</h4>
@@ -60,7 +60,7 @@ title: People
      <h2>Jeff Feng, Ph.D</h2>
    </div>
    <div class="modal-body">
-       <img class="content peoplepic" src="/photos/jefffeng.jpg" alt="Jeff Feng" width="200" height="400"/>
+       <img class="content peoplepic" src="/photos/jefffeng.jpg" alt="Jeff Feng" width="200" height="300"/>
      <div><p class="content">Jeff Feng, MFA is an associate professor at the College of Architecture and Desing at the University of Houston. He is the principle of the enLiving Laboratory for interdisciplinary research and design in healthcare products and services.  Jeff is an educator with over 15 years of experience in innovating in the industries of healthcare, consumer electronics, product packaging, etc. Jeff has worked as the design director at Metaphase Design Group for 7 years before he started teaching at the University of Houston. As an expert in design thinking, creative problem solving, design project management, design team building, and management, Jeff has led the design team to win numerous design awards and recognitions, most notably IDEA, Medical Design Excellence Award, and ID magazine. His works have been published in ID magazine, Metropolis magazine, Medical Design, Appliance Design magazine, etc. Jeff holds over 50 U.S. and international design and utility patents.</p></div>
     </div>
  </div>
@@ -73,7 +73,7 @@ title: People
 
 <h3>Graduate Students</h3>
 <div>
-<img class="peoplepic" src="/photos/ArCraik.jpg" alt="Alexander Craik" width="200" height="400"/>
+<img class="peoplepic" src="/photos/ArCraik.jpg" alt="Alexander Craik" width="200" height="300"/>
 <h4>Alexander Craik MSEE</h4>
 
 <h4>PhD Student, Graduate Research Assistant</h4>
@@ -91,7 +91,7 @@ title: People
       <h2>Alexander Craik, PHD Student</h2>
     </div>
     <div class="modal-body">
-        <img class="content peoplepic" src="/photos/ArCraik.jpg" alt="Alexander Craik" width="200" height="400"/>
+        <img class="content peoplepic" src="/photos/ArCraik.jpg" alt="Alexander Craik" width="200" height="300"/>
       <div><p class="content">Alexander Craik is currently a PhD student in Electrical and Computer Engineering (ECE) at the University of Houston.  He previously received his M.S. in ECE, his B.S. in Aerospace Engineering, and his B.A. in Economics. His research involves the use of transfer learning and deep neural networks in decoding neural intent with EEG. His interests include neuroscience and speech synthesis.</p></div>
      </div>
   </div>
@@ -105,7 +105,7 @@ title: People
 
 
 <div>
-<img class="peoplepic" src="/photos/jj.jpg" alt="Juan Jose Gonzalez Espana" width="200" height="400" />
+<img class="peoplepic" src="/photos/jj.jpg" alt="Juan Jose Gonzalez Espana" width="200" height="300" />
 <h4>Juan Jose Gonzalez Espana, MSEE</h4>
 
 <h4>PhD Student, Graduate Research Assistant</h4>
@@ -124,7 +124,7 @@ title: People
       <h2>Juan Jose Gonzalez Espana, PHD Student</h2>
     </div>
     <div class="modal-body">
-        <img class="content peoplepic" src="/photos/jj.jpg" alt="Juan Jose Gonzalez Espana" width="200" height="400"/>
+        <img class="content peoplepic" src="/photos/jj.jpg" alt="Juan Jose Gonzalez Espana" width="200" height="300"/>
       <div><p class="content">Juan Jose Gonzalez Espana is currently a PhD student in Electrical and Computer Engineering (ECE) at the University of Houston. He previously received his M.S. in ECE, his M.S. in Computer Science and his B.S. in Electronics Engineering. His research involves the design and development of EEG amplifiers for Dry-Electrode sensors. His interests include Brain-Machine Interfaces, signal processing and embedded systems.</p></div>
      </div>
   </div>
@@ -137,7 +137,7 @@ title: People
 
 
 <div>
-<img class="peoplepic" src="/photos/Ayman.jpg" alt="Ayman Alamir" />
+<img class="peoplepic" src="/photos/Ayman.jpg" alt="Ayman Alamir" width="200" height="300"/>
 <h4>Ayman Alamir, MS</h4>
 
 <h4>PhD Student, Graduate Research Assistant</h4>
@@ -156,7 +156,7 @@ title: People
       <h2>Ayman Alamir, PHD Student</h2>
     </div>
     <div class="modal-body">
-        <img class="content peoplepic" src="/photos/Ayman.jpg" alt="Ayman Alamir" />
+        <img class="content peoplepic" src="/photos/Ayman.jpg" alt="Ayman Alamir" width="200" height="300" />
       <div><p class="content">Ayman Alamir is a PhD student in Biomedical Engineering at the University of Houston. He has a BS in Electrical Engineering and a MS in Biomedical Engineering. He is interested in brain-machine interfaces and neural engineering.</p></div>
      </div>
   </div>
@@ -169,7 +169,7 @@ title: People
 
 <h3>Undergraduate International Trainee</h3>
 <div>
-<img class="peoplepic" src="/photos/OCantu.png" alt="Oziel Román Cantú López" />
+<img class="peoplepic" src="/photos/OCantu.png" alt="Oziel Román Cantú López" width="200" height="300"/>
 <h4>Oziel Román Cantú López</h4>
 
 <h4>Universidad de Monterrey (Mexico)</h4>
@@ -188,7 +188,7 @@ title: People
       <h2>Oziel Román Cantú López</h2>
     </div>
     <div class="modal-body">
-        <img class="content peoplepic" src="/photos/OCantu.png" alt="Oziel Román Cantú López" />
+        <img class="content peoplepic" src="/photos/OCantu.png" alt="Oziel Román Cantú López" width="200" height="300"/>
       <div><p class="content">My name is Oziel, I’m currently an international trainee at the University of Houston research laboratory participating in the Noninvasive Brain-Machine Interface project. Since I began my engineering studies, I have been interested in advance and technological innovation for the continuous improvement of the quality of life through engineering resources for health. I currently attend to UDEM (University of Monterrey) in Monterrey, MX as an undergraduate Biomedical Engineering student. My plans after this project is to continue my research so I can not only create new technology but ensure that the new people will be able to have a better quality of life with it.</p></div>
      </div>
   </div>
@@ -204,7 +204,7 @@ title: People
 
 
 <div>
-<img class="peoplepic" src="/photos/Gorman.jpg" alt="Niell Gorman" />
+<img class="peoplepic" src="/photos/Gorman.jpg" alt="Niell Gorman" width="200" height="300"/>
 <h4>Niell Gorman</h4>
 <h4>University of Houston</h4>
 <h4>College of Architecture and Design</h4>
@@ -218,7 +218,7 @@ title: People
      <h2>Niell Gorman</h2>
    </div>
    <div class="modal-body">
-       <img class="content peoplepic" src="/photos/Gorman.jpg" alt="Niell Gorman" />
+       <img class="content peoplepic" src="/photos/Gorman.jpg" alt="Niell Gorman" width="200" height="300" />
      <div><p class="content">Niell Gorman is currently a 4th year Industrial Design student at the University of Houston’s Gerald D. Hines College of Architecture and Design. Coming from an arts background, he finds inspiration in drawing, nature, and playing music, and also leads the University of Houston chapter of the Precious Plastic circular plastic economy movement. His aim is to pursue a career in product design, with a focus on medical design, sustainability, and new fabrication technologies.</p></div>
     </div>
  </div>
@@ -228,7 +228,7 @@ title: People
 
 
 <div>
-<img class="peoplepic" src="/photos/KMoore.jpeg" alt="Kameron Moore" />
+<img class="peoplepic" src="/photos/KMoore.jpeg" alt="Kameron Moore" width="200" height="300"/>
 <h4>Kameron Moore</h4>
 
 <h4>Arizona State University</h4>
@@ -247,7 +247,7 @@ title: People
       <h2>Kameron Moore</h2>
     </div>
     <div class="modal-body">
-        <img class="content peoplepic" src="/photos/KMoore.jpeg" alt="Kameron Moore" />
+        <img class="content peoplepic" src="/photos/KMoore.jpeg" alt="Kameron Moore" width="200" height="300"/>
       <div><p class="content">Kameron Moore is pursuing concurrent bachelors degrees in Biomedical Engineering and Spanish Linguistics at Arizona State University in Barrett, the Honors College. From Cave Creek, Arizona, Kameron enjoys spending time outdoors, doing yoga, and cooking. He is very driven and extremely passionate about neurological health, hoping to secure a career improving healthcare for all in the future. Having previously worked in ASU’s Memory and Attention Control Lab, Kameron has experience studying ADD and ADHD through pupil dilation analysis and cognitive task assessment. </p></div>
      </div>
   </div>
@@ -255,7 +255,7 @@ title: People
 </div>
 </div>
 <div>
-<img class="peoplepic" src="/photos/erguzman.jpg" alt="Edgar Guzman" />
+<img class="peoplepic" src="/photos/erguzman.jpg" alt="Edgar Guzman" width="200" height="300"/>
 <h4>Edgar Guzman</h4>
 
 <h4>California State Polytechnic University, Pomona</h4>
@@ -275,7 +275,7 @@ title: People
       <h2>Edgar Guzman</h2>
     </div>
     <div class="modal-body">
-        <img class="content peoplepic" src="/photos/erguzman.jpg" alt="Edgar Guzman" />
+        <img class="content peoplepic" src="/photos/erguzman.jpg" alt="Edgar Guzman" width="200" height="300"/>
       <div><p class="content">Edgar Guzman is currently a 5 th year student in Electrical and Computer Engineering (ECE)
 at California State Polytechnic University, Pomona. He will be applying to graduate school
 during the fall of 2020, where he intendents to research robotics. Specifically, he wants to
@@ -291,7 +291,7 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
 <br>
 <h3>Undergraduate Researchers</h3>
 <div>
-<img class="peoplepic" src="/photos/maryam.png" alt="Maryam Tahir" />
+<img class="peoplepic" src="/photos/maryam.png" alt="Maryam Tahir" width="200" height="300"/>
 <h4>Maryam Tahir</h4>
 
 <h4>University of Houston</h4>
@@ -310,7 +310,7 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
       <h2>Maryam Tahir</h2>
     </div>
     <div class="modal-body">
-        <img class="content peoplepic" src="/photos/maryam.png" alt="Maryam Tahir" />
+        <img class="content peoplepic" src="/photos/maryam.png" alt="Maryam Tahir" width="200" height="300"/>
       <div><p class="content">Maryam Tahir is a Junior Electrical Engineering Major at the University of Houston. She plans to graduate in Fall 2022. She transferred from LoneStar College where she was part of the Honors College Chancellor's Fellows Program. She also served as secretary of the 'Student of Diverse Abilities' organization where she raised awareness for different disabilities and strived to make the campus more accessible. She was also a participant of the REU 2020 program at UH where she investigated the effect of music on performance during a working memory task. Currently, she is part of the Society of Women Engineers at UH and is a CRLA certified professional tutor at LoneStar College, where she tutors students in Math and Science subjects. In the future, she is interested in becoming more involved in research in the field of medicine and engineering, learning about prosthesis, neurotechnologies, robotics, and medical devices.</p></div>
      </div>
   </div>
@@ -325,7 +325,7 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
 
 <h3>2020 High School Intern</h3>
 <div>
-<img class="peoplepic" src="/photos/VMannem.jpg" alt="Vinay Mannem" />
+<img class="peoplepic" src="/photos/VMannem.jpg" alt="Vinay Mannem" width="200" height="300"/>
 <h4>Vinay Mannem</h4>
 
 <h4>The Academy of Science and Technology at the Woodlands College Park High School</h4>
@@ -343,7 +343,7 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
       <h2>Vinay Mannem, High School Intern</h2>
     </div>
     <div class="modal-body">
-        <img class="content peoplepic" src="/photos/VMannem.jpg" alt="Vinay Mannem" />
+        <img class="content peoplepic" src="/photos/VMannem.jpg" alt="Vinay Mannem" width="200" height="300"/>
       <div><p class="content">My name is Vinay Mannem and I am a rising senior at The Academy of Science and Technology at the Woodlands College Park High School. I am a high school intern working on the NeuroExo project at the University of Houston BRAIN Center. I am an active programming member on my school's robotics team 1477 Texas Torque and I play varsity tennis. In my free time, I tutor elementary and middle school students and work on my other science fair projects. Through science fair, I have worked on developing a belt to assist blind people during commutes through ultrasound and GPS technologies as well as a smart sole to predict foot injuries using pressure sensing data and machine learning to predict diabetes. I also am a member of my school DECA business club. </p></div>
      </div>
   </div>
@@ -351,7 +351,7 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
 </div>
 <h3>2020 Undergraduate Researchers</h3>
 <div>
-  <img class="peoplepic" src="/photos/antoin.jpg" alt="Antoinette Louw" />
+  <img class="peoplepic" src="/photos/antoin.jpg" alt="Antoinette Louw" width="200" height="300"/>
   <h4>Antoinette Louw</h4>
 
   <h4>University of Houston </h4>
@@ -370,7 +370,7 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
         <h2>Antoinette Louw</h2>
       </div>
       <div class="modal-body">
-        <img class="content peoplepic" src="/photos/antoin.jpg" alt="Antoinette Louw" />
+        <img class="content peoplepic" src="/photos/antoin.jpg" alt="Antoinette Louw" width="200" height="300"/>
         <div><p class="content"> </p></div>
       </div>
   </div>
@@ -380,7 +380,7 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
 <br>
 <h3>2019 REU Students</h3>
 <div>
-  <img class="peoplepic" src="/photos/MZanovello.JPG" alt="Marianna Zanovello" />
+  <img class="peoplepic" src="/photos/MZanovello.JPG" alt="Marianna Zanovello" width="200" height="300"/>
   <h4>Marianna Zanovello</h4>
 
   <h4>University of Houston</h4>
@@ -399,7 +399,7 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
         <h2>Marianna Zanovello, REU Program</h2>
       </div>
       <div class="modal-body">
-        <img class="content peoplepic" src="/photos/MZanovello.JPG" alt="Marianna Zanovello" />
+        <img class="content peoplepic" src="/photos/MZanovello.JPG" alt="Marianna Zanovello" width="200" height="300"/>
         <div><p class="content"> </p></div>
       </div>
   </div>
@@ -407,7 +407,7 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
   </div>
 </div>
 <div>
-  <img class="peoplepic" src="/photos/annaleise.jpg" alt="Annaleise Gray" />
+  <img class="peoplepic" src="/photos/annaleise.jpg" alt="Annaleise Gray" width="200" height="300"/>
   <h4>Annaleise Gray</h4>
 
   <h4>University of Houston</h4>
@@ -426,7 +426,7 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
         <h2>Annaleise Gray, REU Program</h2>
       </div>
       <div class="modal-body">
-        <img class="content peoplepic" src="/photos/annaleise.jpg" alt="Annaleise Gray" />
+        <img class="content peoplepic" src="/photos/annaleise.jpg" alt="Annaleise Gray" width="200" height="300"/>
         <div><p class="content"> </p></div>
       </div>
   </div>
@@ -436,7 +436,7 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
 
 <br>
 <div>
-  <img class="peoplepic" src="/photos/KSchmidt.JPG" alt="Kristin Schmidt" />
+  <img class="peoplepic" src="/photos/KSchmidt.JPG" alt="Kristin Schmidt" width="200" height="300"/>
   <h4>Kristin Schmidt</h4>
 
   <h4>University of Virginia </h4>
@@ -455,7 +455,7 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
         <h2>Kristin Schmidt, REU Program</h2>
       </div>
       <div class="modal-body">
-        <img class="content peoplepic" src="/photos/KSchmidt.JPG" alt="Kristin Schmidt" />
+        <img class="content peoplepic" src="/photos/KSchmidt.JPG" alt="Kristin Schmidt" width="200" height="300"/>
         <div><p class="content">Kristin Schmidt is an undergraduate student working in the lab this summer through the NSF REU program. Originally from Long Island, NY, Kristin currently attends the University of Virginia, studying mechanical engineering, and plans to graduate in spring 2020. At UVA’s Center for Applied Biomechanics, she studied the role of occupant posture in frontal car crashes. Additionally, Kristin is highly involved in service and outreach activities, such as introducing STEM to elementary school students of minority backgrounds. In the BRAIN Center at UH, Kristin is working to design a novel, low-cost dry cap system to integrate with the “NeuroExo” project. </p></div>
       </div>
   </div>
@@ -464,7 +464,7 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
 </div>
 <br>
 <div>
-  <img class="peoplepic" src="/photos/RSutherland.jpg" alt="Robert Sutherland" />
+  <img class="peoplepic" src="/photos/RSutherland.jpg" alt="Robert Sutherland" width="200" height="300"/>
   <h4>Robert Sutherland</h4>
 
   <h4>University of Southern California</h4>
@@ -483,7 +483,7 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
         <h2>Robert Sutherland, REU Program</h2>
       </div>
       <div class="modal-body">
-        <img class="content peoplepic" src="/photos/RSutherland.jpg" alt="Robert Sutherland" />
+        <img class="content peoplepic" src="/photos/RSutherland.jpg" alt="Robert Sutherland" width="200" height="300"/>
         <div><p class="content">Robert is a researcher looking to unlock the amazing potential within our brains. His passion for neural interfaces began in high school with an internship at Walter Reed. The time he spent working with veteran amputees inspired him to look to neural prosthetics as a tool for enhancing people's lives. He currently attends the University of Southern California as a Biomedical Engineering Undergrad and assists research in the University of Southern California's BioMEMs lab. Robert plans to continue his research in the fall at Charité – Universitätsmedizin in Berlin studying BMI’s. </p></div>
       </div>
   </div>
@@ -494,7 +494,7 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
 </div>
 <h3>High School Research Intern</h3>
 <div>
-  <img class="peoplepic" src="/photos/rliu.jpg" alt="Ruofan Liu" />
+  <img class="peoplepic" src="/photos/rliu.jpg" alt="Ruofan Liu" width="200" height="300"/>
   <h4>Ruofan Liu</h4>
   <h4>Carnegie Vanguard High School</h4>
   <h4>rliu17@uh.edu</h4>
@@ -506,7 +506,7 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
 <h2><a href="https://www.uth.edu/" target="_blank">University of Texas Health Science Center (UTHealth)</a></h2>
 <h3>Principal Investigator</h3>
 <div>
-  <img class="peoplepic" src="/photos/Francisco_Gerard.jpg" alt="Gerard Francisco" />
+  <img class="peoplepic" src="/photos/Francisco_Gerard.jpg" alt="Gerard Francisco" width="200" height="300"/>
   <h4><a href="https://med.uth.edu/pmr/faculty/gerard-e-francisco-md/" target="_blank">Gerard Francisco, MD</a></h4>
   <h4>Chairman and Professor, Physical Medicine and Rehabilitation,
 University of Texas Health Science Center at Houston (UTHealth)</h4>
@@ -517,7 +517,7 @@ University of Texas Health Science Center at Houston (UTHealth)</h4>
 </div>
 <h3>Co-Investigator</h3>
 <div>
-  <img class="peoplepic" src="/photos/jameschang.jpg" alt="Shuo-Hsiu Chang" />
+  <img class="peoplepic" src="/photos/jameschang.jpg" alt="Shuo-Hsiu Chang" width="200" height="300"/>
   <h4><a href="https://med.uth.edu/pmr/faculty/shuo-hsiu-james-chang-pt-phd/" target="_blank">Shuo-Hsiu Chang, PhD</a></h4>
   <h4>Assistant Professor</h4>
   <h4>Department of Physical Medicine and Rehabilitation</h4>
@@ -525,14 +525,14 @@ University of Texas Health Science Center at Houston (UTHealth)</h4>
 </div>
 <h2>Harmonic Bionics, Inc</h2>
 <div>
-  <img class="peoplepic" src="/photos/YoungMok Yu.jpg" alt="Youngmok Yun" />
+  <img class="peoplepic" src="/photos/YoungMok Yu.jpg" alt="Youngmok Yun" width="200" height="300"/>
   <h4><a href="https://harmonicbionics.com/" target="_blank">Youngmok Yun, PhD</a></h4>
   <h4>Chief Executive Officer/Cofounder</h4>
   <h4>mok@harmonicbionics.com</h4>
 </div>
 <h2>National Instruments</h2>
 <div>
-  <img class="peoplepic" src="/photos/igoralvarado.png" alt="Igor Alvarado" />
+  <img class="peoplepic" src="/photos/igoralvarado.png" alt="Igor Alvarado" width="200" height="300"/>
   <h4>Igor Alvarado</h4>
   <h4>Business Development Manager for Academic Research</h4>
   <h4>igor.alvarado@ni.com</h4>
@@ -544,7 +544,7 @@ University of Texas Health Science Center at Houston (UTHealth)</h4>
 <h2>Past Collaborators</h2>
 
 <div>
-<img class="peoplepic" src="/photos/fgrandi.jpg" alt="Francisco Grandi" />
+<img class="peoplepic" src="/photos/fgrandi.jpg" alt="Francisco Grandi" width="200" height="300"/>
 <h4>Francisco Grandi</h4>
 <h4>University of Houston</h4>
 <h4>Industrial Design</h4>
@@ -558,7 +558,7 @@ University of Texas Health Science Center at Houston (UTHealth)</h4>
      <h2>Francisco Grandi</h2>
    </div>
    <div class="modal-body">
-       <img class="content peoplepic" src="/photos/fgrandi.jpg" alt="Francisco Grandi" />
+       <img class="content peoplepic" src="/photos/fgrandi.jpg" alt="Francisco Grandi" width="200" height="300"/>
      <div><p class="content"></p></div>
     </div>
  </div>
@@ -570,7 +570,7 @@ University of Texas Health Science Center at Houston (UTHealth)</h4>
 
 
 <div>
-<img class="peoplepic" src="/photos/slokhan.jpg" alt="Shaheen Lokhandwala" />
+<img class="peoplepic" src="/photos/slokhan.jpg" alt="Shaheen Lokhandwala" width="200" height="300"/>
 <h4>Shaheen Lokhandwala</h4>
 <h4>University of Houston</h4>
 <h4>Office of Technology Transfer</h4>
@@ -584,7 +584,7 @@ University of Texas Health Science Center at Houston (UTHealth)</h4>
      <h2>Shaheen Lokhandwala</h2>
    </div>
    <div class="modal-body">
-       <img class="content peoplepic" src="/photos/slokhan.jpg" alt="Shaheen Lokhandwala" />
+       <img class="content peoplepic" src="/photos/slokhan.jpg" alt="Shaheen Lokhandwala" width="200" height="300"/>
      <div><p class="content"></p></div>
     </div>
  </div>
@@ -596,7 +596,7 @@ University of Texas Health Science Center at Houston (UTHealth)</h4>
 
 
 <div>
-<img class="peoplepic" src="/photos/gillespie.jpg" alt="George Gilliespie " />
+<img class="peoplepic" src="/photos/gillespie.jpg" alt="George Gilliespie" width="200" height="300"/>
 <h4>George Gilliespie</h4>
 <h4>Technology Transfer Associate</h4>
 <h4><a href="https://www.uh.edu/research/about/organization/otti/" target="_blank" >Office of Technology Transfer and Innovation(OTTI)</a></h4>
@@ -614,7 +614,7 @@ University of Texas Health Science Center at Houston (UTHealth)</h4>
       <h2>George Gilliespie</h2>
     </div>
     <div class="modal-body">
-      <img class="content peoplepic" src="/photos/gillespie.jpg" alt="George Gilliespie " align="left"/>
+      <img class="content peoplepic" src="/photos/gillespie.jpg" alt="George Gilliespie" align="left" width="200" height="300"/>
       <div><p class="content">Experienced research administrator and seasoned technology commercialization professional with more than 20 years of experience in federal (Army, Energy, NOAA) and university (UNC-Pembroke, University of Maryland and currently University of Houston). Experience locating sources of research sponsorship from federal, industry and foundations. Negotiated and brought to conclusion more than 25 research agreements bringing in approximately $2M in research funding/royalty revenue for federal and academic organizations.</p></div>
     </div>
    </div>
@@ -627,7 +627,7 @@ University of Texas Health Science Center at Houston (UTHealth)</h4>
 
 
 <div>
-<img class="peoplepic" src="/photos/AKilicarslan.jpeg" alt="Atilla Kilicarslan" />
+<img class="peoplepic" src="/photos/AKilicarslan.jpeg" alt="Atilla Kilicarslan" width="200" height="300"/>
 <h4>Atilla Kilicarslan, PHD</h4>
 <h4>University of Houston</h4>
 <h4>Research Assistant Professor</h4>
@@ -641,7 +641,7 @@ University of Texas Health Science Center at Houston (UTHealth)</h4>
      <h2>Atilla Kilicarslan</h2>
    </div>
    <div class="modal-body">
-       <img class="content peoplepic" src="/photos/AKilicarslan.jpeg" alt="Atilla Kilicarslan" />
+       <img class="content peoplepic" src="/photos/AKilicarslan.jpeg" alt="Atilla Kilicarslan" width="200" height="300"/>
      <div><p class="content"></p></div>
     </div>
  </div>
