@@ -10,5 +10,5 @@ title: Welcome 2019 REU Students
 
  <figure class="rpost">
  <img src="/photos/KSchmidt.JPG" width="200" height="300">
- <figcaption>Kristin Scmidt</figcaption>
+ <figcaption>Kristin Schmidt</figcaption>
  </figure>
