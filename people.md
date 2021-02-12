@@ -76,7 +76,8 @@ title: People
 <img class="peoplepic" src="/photos/ArCraik.jpg" alt="Alexander Craik" width="200" height="300"/>
 <h4>Alexander Craik MSEE</h4>
 
-<h4>PhD Student, Graduate Research Assistant</h4>
+<h4>Doctoral Candidate, Electrical and Computer Engineering</h4>
+<h4>Graduate Research Assistant</h4>
 <h4>arcraik@uh.edu</h4>
 <!-- Trigger/Open The Modal -->
 <button class="modal-button" href="#arcraik">About Alex</button>
@@ -108,7 +109,8 @@ title: People
 <img class="peoplepic" src="/photos/jj.jpg" alt="Juan Jose Gonzalez Espana" width="200" height="300" />
 <h4>Juan Jose Gonzalez Espana, MSEE</h4>
 
-<h4>PhD Student, Graduate Research Assistant</h4>
+<h4>PhD Student, Electrical and Computer Engineering</h4>
+<h4>Graduate Research Assistant</h4>
 <h4>jgonz220@central.uh.edu</h4>
 <!-- Trigger/Open The Modal -->
 <button class="modal-button" href="#jj">About Juan Jose</button>
@@ -139,8 +141,8 @@ title: People
 <div>
 <img class="peoplepic" src="/photos/Ayman.jpg" alt="Ayman Alamir" width="200" height="300"/>
 <h4>Ayman Alamir, MS</h4>
-
-<h4>PhD Student, Graduate Research Assistant</h4>
+<h4>PhD Student, Biomedical Engineering</h4>
+<h4>Graduate Research Assistant</h4>
 <h4>asalamir@uh.edu</h4>
 <!-- Trigger/Open The Modal -->
 <button class="modal-button" href="#ayman">About Ayman</button>
@@ -200,7 +202,7 @@ title: People
 
 
 
-<h3>2020 REU Students</h3>
+<h3>REU Students</h3>
 
 
 <div>
@@ -208,6 +210,7 @@ title: People
 <h4>Niell Gorman</h4>
 <h4>University of Houston</h4>
 <h4>College of Architecture and Design</h4>
+<h4>2020 - Present REU program</h4>
 <h4>nbgorman@uh.edu</h4>
 
 <button class="modal-button" href="#ngorman">About Niell</button>
@@ -232,7 +235,8 @@ title: People
 <h4>Kameron Moore</h4>
 
 <h4>Arizona State University</h4>
-<h4>B.S.E. Biomedical Engineering and B.A. Spanish Linguistics</h4>
+<h4>Biomedical Engineering and Spanish Linguistics</h4>
+<h4>2020 REU program</h4>
 <h4>kjmoore8@asu.edu</h4>
 <!-- Trigger/Open The Modal -->
 <button class="modal-button" href="#KMoore">About Kameron</button>
@@ -257,9 +261,9 @@ title: People
 <div>
 <img class="peoplepic" src="/photos/erguzman.jpg" alt="Edgar Guzman" width="200" height="300"/>
 <h4>Edgar Guzman</h4>
-
 <h4>California State Polytechnic University, Pomona</h4>
-<h4>Double Major: Computer Engineering and Electrical Engineering</h4>
+<h4>Computer Engineering and Electrical Engineering</h4>
+<h4>2020 REU program</h4>
 <h4>Minor: Mathematics</h4>
 <h4>erguzman@cpp.edu</h4>
 <!-- Trigger/Open The Modal -->
@@ -288,103 +292,13 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
 
 
 
-<br>
-<h3>Undergraduate Researchers</h3>
-<div>
-<img class="peoplepic" src="/photos/maryam.png" alt="Maryam Tahir" width="200" height="250"/>
-<h4>Maryam Tahir</h4>
-
-<h4>University of Houston</h4>
-<h4>Electrical Engineering</h4>
-<h4>maryam5000tah@gmail.com</h4>
-<!-- Trigger/Open The Modal -->
-<button class="modal-button" href="#Maryam">About Maryam</button>
-
-<!-- The Modal -->
-<div id="Maryam" class="modal">
-
-  <!-- Modal content -->
- <div class="modal-content">
-    <div class="modal-header">
-      <span class="close">×</span>
-      <h2>Maryam Tahir</h2>
-    </div>
-    <div class="modal-body">
-        <img class="content peoplepic" src="/photos/maryam.png" alt="Maryam Tahir" width="200" height="250"/>
-      <div><p class="content">Maryam Tahir is a Junior Electrical Engineering Major at the University of Houston. She plans to graduate in Fall 2022. She transferred from LoneStar College where she was part of the Honors College Chancellor's Fellows Program. She also served as secretary of the 'Student of Diverse Abilities' organization where she raised awareness for different disabilities and strived to make the campus more accessible. She was also a participant of the REU 2020 program at UH where she investigated the effect of music on performance during a working memory task. Currently, she is part of the Society of Women Engineers at UH and is a CRLA certified professional tutor at LoneStar College, where she tutors students in Math and Science subjects. In the future, she is interested in becoming more involved in research in the field of medicine and engineering, learning about prosthesis, neurotechnologies, robotics, and medical devices.</p></div>
-     </div>
-  </div>
-
-</div>
-</div>
-
-
-
-
-
-
-<h3>2020 High School Intern</h3>
-<div>
-<img class="peoplepic" src="/photos/VMannem.jpg" alt="Vinay Mannem" width="200" height="300"/>
-<h4>Vinay Mannem</h4>
-
-<h4>The Academy of Science and Technology at the Woodlands College Park High School</h4>
-<h4>v.mannem99@gmail.com</h4>
-<!-- Trigger/Open The Modal -->
-<button class="modal-button" href="#VMannem">About Vinay</button>
-
-<!-- The Modal -->
-<div id="VMannem" class="modal">
-
-  <!-- Modal content -->
- <div class="modal-content">
-    <div class="modal-header">
-      <span class="close">×</span>
-      <h2>Vinay Mannem, High School Intern</h2>
-    </div>
-    <div class="modal-body">
-        <img class="content peoplepic" src="/photos/VMannem.jpg" alt="Vinay Mannem" width="200" height="300"/>
-      <div><p class="content">My name is Vinay Mannem and I am a rising senior at The Academy of Science and Technology at the Woodlands College Park High School. I am a high school intern working on the NeuroExo project at the University of Houston BRAIN Center. I am an active programming member on my school's robotics team 1477 Texas Torque and I play varsity tennis. In my free time, I tutor elementary and middle school students and work on my other science fair projects. Through science fair, I have worked on developing a belt to assist blind people during commutes through ultrasound and GPS technologies as well as a smart sole to predict foot injuries using pressure sensing data and machine learning to predict diabetes. I also am a member of my school DECA business club. </p></div>
-     </div>
-  </div>
-</div>
-</div>
-<h3>2020 Undergraduate Researchers</h3>
-<div>
-  <img class="peoplepic" src="/photos/antoin.jpg" alt="Antoinette Louw" width="200" height="300"/>
-  <h4>Antoinette Louw</h4>
-
-  <h4>University of Houston </h4>
-  <h4>College of Architecture and Design</h4>
-  <h4>ant@louw.org</h4>
-  <!-- Trigger/Open The Modal -->
-  <button class="modal-button" href="#alouw">About Antoinette</button>
-
-  <!-- The Modal -->
-  <div id="alouw" class="modal">
-
-    <!-- Modal content -->
-   <div class="modal-content">
-      <div class="modal-header">
-        <span class="close">×</span>
-        <h2>Antoinette Louw</h2>
-      </div>
-      <div class="modal-body">
-        <img class="content peoplepic" src="/photos/antoin.jpg" alt="Antoinette Louw" width="200" height="300"/>
-        <div><p class="content"> </p></div>
-      </div>
-  </div>
-
-  </div>
-</div>
-<br>
-<h3>2019 REU Students</h3>
 <div>
   <img class="peoplepic" src="/photos/MZanovello.JPG" alt="Marianna Zanovello" width="200" height="300"/>
   <h4>Marianna Zanovello</h4>
 
   <h4>University of Houston</h4>
   <h4>Mechanical Engineering Major</h4>
+  <h4>2019 REU program</h4>
   <h4>mlzanovello@uh.edu</h4>
   <!-- Trigger/Open The Modal -->
   <button class="modal-button" href="#mlzanovello">About Marianna</button>
@@ -412,6 +326,7 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
 
   <h4>University of Houston</h4>
   <h4>College of Architecture and Design</h4>
+  <h4>2019 REU program</h4>
   <h4>annaleisegray@gmail.com</h4>
   <!-- Trigger/Open The Modal -->
   <button class="modal-button" href="#annaleise">About Annaleise</button>
@@ -441,6 +356,7 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
 
   <h4>University of Virginia </h4>
   <h4>Mechanical Engineering Major</h4>
+  <h4>2019 REU program</h4>
   <h4>khs4jv@virginia.edu</h4>
   <!-- Trigger/Open The Modal -->
   <button class="modal-button" href="#kschmidt">About Kristin</button>
@@ -469,6 +385,7 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
 
   <h4>University of Southern California</h4>
   <h4>Electrical Engineering Major</h4>
+  <h4>2019 REU Program</h4>
   <h4>rfsuther@usc.edu</h4>
   <!-- Trigger/Open The Modal -->
   <button class="modal-button"  href="#rsutherland">About Robert</button>
@@ -491,12 +408,107 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
   </div>
 
 
+
+
+
+
+
+
+<br>
+<h3>Undergraduate Researchers</h3>
+<div>
+<img class="peoplepic" src="/photos/maryam.png" alt="Maryam Tahir" width="200" height="250"/>
+<h4>Maryam Tahir</h4>
+<h4>University of Houston</h4>
+<h4>Electrical Engineering</h4>
+<h4>2020 Independent Study</h4>
+<h4>maryam5000tah@gmail.com</h4>
+<!-- Trigger/Open The Modal -->
+<button class="modal-button" href="#Maryam">About Maryam</button>
+
+<!-- The Modal -->
+<div id="Maryam" class="modal">
+
+  <!-- Modal content -->
+ <div class="modal-content">
+    <div class="modal-header">
+      <span class="close">×</span>
+      <h2>Maryam Tahir</h2>
+    </div>
+    <div class="modal-body">
+        <img class="content peoplepic" src="/photos/maryam.png" alt="Maryam Tahir" width="200" height="250"/>
+      <div><p class="content">Maryam Tahir is a Junior Electrical Engineering Major at the University of Houston. She plans to graduate in Fall 2022. She transferred from LoneStar College where she was part of the Honors College Chancellor's Fellows Program. She also served as secretary of the 'Student of Diverse Abilities' organization where she raised awareness for different disabilities and strived to make the campus more accessible. She was also a participant of the REU 2020 program at UH where she investigated the effect of music on performance during a working memory task. Currently, she is part of the Society of Women Engineers at UH and is a CRLA certified professional tutor at LoneStar College, where she tutors students in Math and Science subjects. In the future, she is interested in becoming more involved in research in the field of medicine and engineering, learning about prosthesis, neurotechnologies, robotics, and medical devices.</p></div>
+     </div>
+  </div>
+
 </div>
-<h3>High School Research Intern</h3>
+</div>
+
+<div>
+  <img class="peoplepic" src="/photos/antoin.jpg" alt="Antoinette Louw" width="200" height="300"/>
+  <h4>Antoinette Louw</h4>
+
+  <h4>University of Houston </h4>
+  <h4>College of Architecture and Design</h4>
+  <h4>ant@louw.org</h4>
+  <!-- Trigger/Open The Modal -->
+  <button class="modal-button" href="#alouw">About Antoinette</button>
+
+  <!-- The Modal -->
+  <div id="alouw" class="modal">
+
+    <!-- Modal content -->
+   <div class="modal-content">
+      <div class="modal-header">
+        <span class="close">×</span>
+        <h2>Antoinette Louw</h2>
+      </div>
+      <div class="modal-body">
+        <img class="content peoplepic" src="/photos/antoin.jpg" alt="Antoinette Louw" width="200" height="300"/>
+        <div><p class="content"> </p></div>
+      </div>
+  </div>
+  </div>
+</div>
+
+
+
+
+
+<h3>High School Interns</h3>
+<div>
+<img class="peoplepic" src="/photos/VMannem.jpg" alt="Vinay Mannem" width="200" height="300"/>
+<h4>Vinay Mannem</h4>
+<h4>The Academy of Science and Technology at the Woodlands College Park High School</h4>
+<h4>2020 High School Internship Program</h4>
+<h4>v.mannem99@gmail.com</h4>
+<!-- Trigger/Open The Modal -->
+<button class="modal-button" href="#VMannem">About Vinay</button>
+
+<!-- The Modal -->
+<div id="VMannem" class="modal">
+
+  <!-- Modal content -->
+ <div class="modal-content">
+    <div class="modal-header">
+      <span class="close">×</span>
+      <h2>Vinay Mannem, High School Intern</h2>
+    </div>
+    <div class="modal-body">
+        <img class="content peoplepic" src="/photos/VMannem.jpg" alt="Vinay Mannem" width="200" height="300"/>
+      <div><p class="content">My name is Vinay Mannem and I am a rising senior at The Academy of Science and Technology at the Woodlands College Park High School. I am a high school intern working on the NeuroExo project at the University of Houston BRAIN Center. I am an active programming member on my school's robotics team 1477 Texas Torque and I play varsity tennis. In my free time, I tutor elementary and middle school students and work on my other science fair projects. Through science fair, I have worked on developing a belt to assist blind people during commutes through ultrasound and GPS technologies as well as a smart sole to predict foot injuries using pressure sensing data and machine learning to predict diabetes. I also am a member of my school DECA business club. </p></div>
+     </div>
+  </div>
+</div>
+</div>
+
+
+
 <div>
   <img class="peoplepic" src="/photos/rliu.jpg" alt="Ruofan Liu" width="200" height="300"/>
   <h4>Ruofan Liu</h4>
   <h4>Carnegie Vanguard High School</h4>
+  <h4>2019-2020 High School Internship Program</h4>
   <h4>rliu17@uh.edu</h4>
 </div>
 
