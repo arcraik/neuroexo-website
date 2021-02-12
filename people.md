@@ -143,11 +143,11 @@ title: People
 <h4>PhD Student, Graduate Research Assistant</h4>
 <h4>asalamir@uh.edu</h4>
 <!-- Trigger/Open The Modal -->
-<button class="modal-button" href="#jj">About Ayman</button>
+<button class="modal-button" href="#ayman">About Ayman</button>
 
 
 <!-- The Modal -->
-<div id="jj" class="modal">
+<div id="ayman" class="modal">
 
   <!-- Modal content -->
  <div class="modal-content">
