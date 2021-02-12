@@ -228,7 +228,7 @@ title: People
 
 
 <div>
-<img class="peoplepic" src="/photos/KMoore.jpeg" alt="Kameron Moore" width="200" height="300"/>
+<img class="peoplepic" src="/photos/KMoore.jpeg" alt="Kameron Moore" width="200" height="400"/>
 <h4>Kameron Moore</h4>
 
 <h4>Arizona State University</h4>
@@ -255,7 +255,7 @@ title: People
 </div>
 </div>
 <div>
-<img class="peoplepic" src="/photos/erguzman.jpg" alt="Edgar Guzman" width="200" height="300"/>
+<img class="peoplepic" src="/photos/erguzman.jpg" alt="Edgar Guzman" width="200" height="400"/>
 <h4>Edgar Guzman</h4>
 
 <h4>California State Polytechnic University, Pomona</h4>
@@ -291,7 +291,7 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
 <br>
 <h3>Undergraduate Researchers</h3>
 <div>
-<img class="peoplepic" src="/photos/maryam.png" alt="Maryam Tahir" width="200" height="300"/>
+<img class="peoplepic" src="/photos/maryam.png" alt="Maryam Tahir" width="200" height="250"/>
 <h4>Maryam Tahir</h4>
 
 <h4>University of Houston</h4>
@@ -310,7 +310,7 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
       <h2>Maryam Tahir</h2>
     </div>
     <div class="modal-body">
-        <img class="content peoplepic" src="/photos/maryam.png" alt="Maryam Tahir" width="200" height="300"/>
+        <img class="content peoplepic" src="/photos/maryam.png" alt="Maryam Tahir" width="200" height="250"/>
       <div><p class="content">Maryam Tahir is a Junior Electrical Engineering Major at the University of Houston. She plans to graduate in Fall 2022. She transferred from LoneStar College where she was part of the Honors College Chancellor's Fellows Program. She also served as secretary of the 'Student of Diverse Abilities' organization where she raised awareness for different disabilities and strived to make the campus more accessible. She was also a participant of the REU 2020 program at UH where she investigated the effect of music on performance during a working memory task. Currently, she is part of the Society of Women Engineers at UH and is a CRLA certified professional tutor at LoneStar College, where she tutors students in Math and Science subjects. In the future, she is interested in becoming more involved in research in the field of medicine and engineering, learning about prosthesis, neurotechnologies, robotics, and medical devices.</p></div>
      </div>
   </div>
