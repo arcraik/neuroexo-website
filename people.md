@@ -263,8 +263,7 @@ title: People
 <h4>Edgar Guzman</h4>
 <h4>California State Polytechnic University, Pomona</h4>
 <h4>Undergraduate, Computer Engineering and Electrical Engineering</h4>
-<h4>2020 REU program</h4>
-<h4>Minor: Mathematics</h4>
+<h4>2020 REU Program</h4>
 <h4>erguzman@cpp.edu</h4>
 <!-- Trigger/Open The Modal -->
 <button class="modal-button" href="#erguzman">About Edgar</button>
@@ -298,7 +297,7 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
 
   <h4>University of Houston</h4>
   <h4>Undergraduate, Mechanical Engineering</h4>
-  <h4>2019 REU program</h4>
+  <h4>2019 REU Program</h4>
   <h4>mlzanovello@uh.edu</h4>
   <!-- Trigger/Open The Modal -->
   <button class="modal-button" href="#mlzanovello">About Marianna</button>
@@ -326,7 +325,7 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
 
   <h4>University of Houston</h4>
   <h4>Undergraduate, College of Architecture and Design</h4>
-  <h4>2019 REU program</h4>
+  <h4>2019 REU Program</h4>
   <h4>annaleisegray@gmail.com</h4>
   <!-- Trigger/Open The Modal -->
   <button class="modal-button" href="#annaleise">About Annaleise</button>
@@ -356,7 +355,7 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
 
   <h4>University of Virginia </h4>
   <h4>Undergraduate, Mechanical Engineering</h4>
-  <h4>2019 REU program</h4>
+  <h4>2019 REU Program</h4>
   <h4>khs4jv@virginia.edu</h4>
   <!-- Trigger/Open The Modal -->
   <button class="modal-button" href="#kschmidt">About Kristin</button>
