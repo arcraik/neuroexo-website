@@ -36,7 +36,7 @@ title: People
         <h2>Jose L Contreras-Vidal, PHD</h2>
       </div>
       <div class="modal-body">
-          <img class="content peoplepic" src="/photos/JContreras-Vidal.jpg" alt="Jose Luis Contreras-Vidal" />
+          <img class="content peoplepic" src="/photos/JContreras-Vidal.jpg" alt="Jose Luis Contreras-Vidal" width="200" height="400"/>
         <div><p class="content">Jose Luis Contreras-Vidal, Ph.D., IEEE Fellow (EMBS, SMC, RAS), is Cullen Distinguished Professor of Electrical &amp; Computer Engineering, and Director of the NSF Industry-University Collaborative Research Center on Building Reliable Advances and Innovations in Neurotechnologies (IUCRC BRAIN) at the University of Houston, and the Principal Investigator for this NSF PFI Project. He has pioneered the development of noninvasive brain-machine interfaces and wearable exoskeletons to restore motor function in individuals with spinal cord injury, stroke and limb amputation. Professor Contreras-Vidal is an associate editor of IEEE Transactions on Human Machine Systems and J of Mobile Human Computer Interaction, a Review Editor for Frontiers in Neuroprosthetics, a Topic Editor for Frontiers in Human Neuroscience and Editor-in-Chief for the incoming book (Springer Nature Switzerland AG) on Mobile Brain-Body Imaging and the Neuroscience of Art, Innovation and Creativity. His work has been supported by the NIH, NSF, VA, DARPA, ONR, Foundations, donors, and industry. Dr. Contreras-Vidal’s research has been highlighted by The Economist, Nature, Science, Science News, Der Spiegel, NSF, Wall Street Journal, SFN, O&amp;P, Scientific American, NPR’s Science Friday, and Neurology Today among others. Jose’s career development in biomedical engineering has been highlighted in the magazine Science.</p></div>
        </div>
 
@@ -47,7 +47,7 @@ title: People
 
 <h3>Co-Principal Investigator</h3>
 <div>
-<img class="peoplepic" src="/photos/jefffeng.jpg" alt="Jeff Feng" />
+<img class="peoplepic" src="/photos/jefffeng.jpg" alt="Jeff Feng" width="200" height="400"/>
 <h4><a href="http://www.uh.edu/architecture/about/faculty/#!/details/1224152" target="_blank">Jeff Feng, Ph.D</a></h4>
 <h4>Associate Professor of Architecture and Design, Medical Device Design</h4>
 <h4>ffeng@uh.edu</h4>
@@ -60,7 +60,7 @@ title: People
      <h2>Jeff Feng, Ph.D</h2>
    </div>
    <div class="modal-body">
-       <img class="content peoplepic" src="/photos/jefffeng.jpg" alt="Jeff Feng" />
+       <img class="content peoplepic" src="/photos/jefffeng.jpg" alt="Jeff Feng" width="200" height="400"/>
      <div><p class="content">Jeff Feng, MFA is an associate professor at the College of Architecture and Desing at the University of Houston. He is the principle of the enLiving Laboratory for interdisciplinary research and design in healthcare products and services.  Jeff is an educator with over 15 years of experience in innovating in the industries of healthcare, consumer electronics, product packaging, etc. Jeff has worked as the design director at Metaphase Design Group for 7 years before he started teaching at the University of Houston. As an expert in design thinking, creative problem solving, design project management, design team building, and management, Jeff has led the design team to win numerous design awards and recognitions, most notably IDEA, Medical Design Excellence Award, and ID magazine. His works have been published in ID magazine, Metropolis magazine, Medical Design, Appliance Design magazine, etc. Jeff holds over 50 U.S. and international design and utility patents.</p></div>
     </div>
  </div>
@@ -73,7 +73,7 @@ title: People
 
 <h3>Graduate Students</h3>
 <div>
-<img class="peoplepic" src="/photos/ArCraik.jpg" alt="Alexander Craik" />
+<img class="peoplepic" src="/photos/ArCraik.jpg" alt="Alexander Craik" width="200" height="400"/>
 <h4>Alexander Craik MSEE</h4>
 
 <h4>PhD Student, Graduate Research Assistant</h4>
@@ -91,7 +91,7 @@ title: People
       <h2>Alexander Craik, PHD Student</h2>
     </div>
     <div class="modal-body">
-        <img class="content peoplepic" src="/photos/ArCraik.jpg" alt="Alexander Craik" />
+        <img class="content peoplepic" src="/photos/ArCraik.jpg" alt="Alexander Craik" width="200" height="400"/>
       <div><p class="content">Alexander Craik is currently a PhD student in Electrical and Computer Engineering (ECE) at the University of Houston.  He previously received his M.S. in ECE, his B.S. in Aerospace Engineering, and his B.A. in Economics. His research involves the use of transfer learning and deep neural networks in decoding neural intent with EEG. His interests include neuroscience and speech synthesis.</p></div>
      </div>
   </div>
@@ -105,7 +105,7 @@ title: People
 
 
 <div>
-<img class="peoplepic" src="/photos/jj.jpg" alt="Juan Jose Gonzalez Espana" />
+<img class="peoplepic" src="/photos/jj.jpg" alt="Juan Jose Gonzalez Espana" width="200" height="400" />
 <h4>Juan Jose Gonzalez Espana, MSEE</h4>
 
 <h4>PhD Student, Graduate Research Assistant</h4>
@@ -124,7 +124,7 @@ title: People
       <h2>Juan Jose Gonzalez Espana, PHD Student</h2>
     </div>
     <div class="modal-body">
-        <img class="content peoplepic" src="/photos/jj.jpg" alt="Juan Jose Gonzalez Espana" />
+        <img class="content peoplepic" src="/photos/jj.jpg" alt="Juan Jose Gonzalez Espana" width="200" height="400"/>
       <div><p class="content">Juan Jose Gonzalez Espana is currently a PhD student in Electrical and Computer Engineering (ECE) at the University of Houston. He previously received his M.S. in ECE, his M.S. in Computer Science and his B.S. in Electronics Engineering. His research involves the design and development of EEG amplifiers for Dry-Electrode sensors. His interests include Brain-Machine Interfaces, signal processing and embedded systems.</p></div>
      </div>
   </div>
