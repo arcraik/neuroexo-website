@@ -85,7 +85,7 @@ title: People
  <div class="modal-content">
     <div class="modal-header">
       <span class="close">×</span>
-      <h2>Brian Sheed</h2>
+      <h2>Brian Shedd</h2>
     </div>
     <div class="modal-body">
       <img class="content peoplepic" src="/photos/Brian-Square.png" alt="Brian Shedd" align="left" width="200" height="300"/>
