@@ -72,7 +72,7 @@ title: People
 <div>
 <img class="peoplepic" src="/photos/Brian-Square.png" alt="Brian Shedd" width="200" height="300"/>
 <h4>Brian Shedd</h4>
-<h4>Technology Transfer Associate</h4>
+<h4>Director of Technology Commercialization</h4>
 <h4><a href="https://www.uh.edu/research/about/organization/otti/" target="_blank" >Office of Technology Transfer and Innovation(OTTI)</a></h4>
 <h4>bshedd@central.uh.edu</h4>
 <!-- Trigger/Open The Modal -->
