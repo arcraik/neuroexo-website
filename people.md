@@ -586,10 +586,7 @@ University of Texas Health Science Center at Houston (UTHealth)</h4>
   <h4>mok@harmonicbionics.com</h4>
 </div>
 <br>
-
-
-<h2>Past Collaborators</h2>
-
+<h2>National Instruments</h2>
 <div>
   <img class="peoplepic" src="/photos/igoralvarado.png" alt="Igor Alvarado" width="200" height="300"/>
   <h4>Igor Alvarado</h4>
@@ -599,6 +596,11 @@ University of Texas Health Science Center at Houston (UTHealth)</h4>
 
 </div>
 <br>
+
+
+
+<h2>Past Collaborators</h2>
+
 
 <div>
 <img class="peoplepic" src="/photos/fgrandi.jpg" alt="Francisco Grandi" width="200" height="300"/>
