@@ -516,6 +516,37 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
 
 
 <h3>High School Interns</h3>
+
+<div>
+<img class="peoplepic" src="/photos/Chloe.jpg" alt="Chloe Beaudreau" width="200" height="300"/>
+<h4>Chloe Beaudreau</h4>
+<h4>Carnegie Vanguard High School</h4>
+<h4>2021 High School Internship Program</h4>
+<h4>chloebeaudreau@gmail.com</h4>
+<!-- Trigger/Open The Modal -->
+<button class="modal-button" href="#Chloe">About Chloe</button>
+
+<!-- The Modal -->
+<div id="Chloe" class="modal">
+
+  <!-- Modal content -->
+ <div class="modal-content">
+    <div class="modal-header">
+      <span class="close">×</span>
+      <h2>Chloe Beaudreau, High School Intern</h2>
+    </div>
+    <div class="modal-body">
+        <img class="content peoplepic" src="/photos/Chloe.jpg" alt="Chloe Beaudreau" width="200" height="300"/>
+      <div><p class="content">Chloe Beaudreau is a rising senior at Carnegie Vanguard High School. She is a high school intern working on the NeuroExo project at the University of Houston BRAIN center. She first became interested in neurotechnologies through her project to build an adaptive virtual learning system using BCI technology for an independent study class. She currently serves as co-president of the Girls Who Code and HOSA chapters at her school. In her free time, she enjoys running varsity cross country and track and leading the literary magazine and creative writing group at her school. In the future, she is interested in pursuing biomedical engineering and learning more about neurotechnologies and deep neural networks.
+</p></div>
+     </div>
+  </div>
+</div>
+</div>
+<br>
+
+
+
 <div>
 <img class="peoplepic" src="/photos/VMannem.jpg" alt="Vinay Mannem" width="200" height="300"/>
 <h4>Vinay Mannem</h4>
