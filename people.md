@@ -234,11 +234,98 @@ title: People
 
 
 <div>
+<img class="peoplepic" src="/photos/David.png" alt="David Edquilang" width="200" height="300"/>
+<h4>David Edquilang</h4>
+<h4>University of Houston</h4>
+<h4>Undergraduate - Industrial Design</h4>
+<h4>2021 REU Program</h4>
+<h4>david.edquilang@gmail.com</h4>
+
+<button class="modal-button" href="#David">About David</button>
+<div id="David" class="modal">
+<div class="modal-content">
+   <div class="modal-header">
+     <span class="close">×</span>
+     <h2>David Edquilang</h2>
+   </div>
+   <div class="modal-body">
+       <img class="content peoplepic" src="/photos/David.png" alt="David Edquilang" width="200" height="300" />
+     <div><p class="content">I am currently a 4th year Industrial Design student at the College of Architecture and Design at the University of Houston. Prior to my industrial design education, I have experience studying in both the engineering and medical fields. I have a multitude of interests and skills, having designed a wide variety of products covering everything from consumer electronics, to furniture, to prosthetic arms, and other medical devices. What drives me is my interest in materials, manufacturing processes, being hands-on, and creating real solutions to solve real problems. I derive a great sense of satisfaction from the process of forming an idea and bringing it into reality.</p></div>
+    </div>
+ </div>
+ </div>
+</div>
+<br>
+
+
+
+
+
+<div>
+<img class="peoplepic" src="/photos/Carolina.JPG" alt="Carolina Ramirez" width="200" height="300"/>
+<h4>Carolina Ramirez</h4>
+<h4>Texas A&M University</h4>
+<h4>Undergraduate - Biomedical Engineering</h4>
+<h4>2021 REU Program</h4>
+<h4>carol.ramirez@tamu.edu</h4>
+
+<button class="modal-button" href="#carolina">About Carolina</button>
+<div id="carolina" class="modal">
+<div class="modal-content">
+   <div class="modal-header">
+     <span class="close">×</span>
+     <h2>Carolina Ramirez</h2>
+   </div>
+   <div class="modal-body">
+       <img class="content peoplepic" src="/photos/Carolina.JPG" alt="Carolina Ramirez" width="200" height="300" />
+     <div><p class="content">Carol Ramirez is a rising senior in the College of Engineering at Texas A&M University, pursuing an undergraduate degree. She is majoring in Biomedical Engineering with a focused track in bioinstrumentation. For the 2021 summer, she is joining the NeuroExo team under Dr. Contreras-Vidal's lab. She is excited for this new project, as she works with leading-edge neurotechnology research to help people affected by stroke-caused disabilities. Her aim is to pursue a career that will work to bring novel and accessible health care/medical equipment to underserved communities, and provide them with a better quality of life. In her free time she also enjoys crafts and outdoor activities.</p></div>
+    </div>
+ </div>
+ </div>
+</div>
+<br>
+
+
+
+
+
+<div>
+<img class="peoplepic" src="/photos/jacob.JPG" alt="Jacob Tajchman" width="200" height="300"/>
+<h4>Jacob Tajchman</h4>
+<h4>University of Massachusetts, Amherst</h4>
+<h4>Undergraduate - Sensorimotor Neurotechnology</h4>
+<h4>2021 REU Program</h4>
+<h4>jacob.tajchman@gmail.com</h4>
+
+<button class="modal-button" href="#jacob">About Jacob</button>
+<div id="jacob" class="modal">
+<div class="modal-content">
+   <div class="modal-header">
+     <span class="close">×</span>
+     <h2>Jacob Tajchman</h2>
+   </div>
+   <div class="modal-body">
+       <img class="content peoplepic" src="/photos/jacob.JPG" alt="Jacob Tajchman" width="200" height="300" />
+     <div><p class="content">Jacob's academic background mainly consists of biology and neuroscience, but he is branching into the fields of biomedical engineering and computer science and engineering. His prior research experience is of fibophotometry and behavioral neuroscience. He is interested mainly in the research and development of an interface between the sensorimotor aspects of the nervous system and computer systems, ideally developed with a noninvasive method. He plans to attend graduate school to pursue this interest and to research the technology in grad school and after. In his free time, he enjoys video games with friends, playing with his cats, and practicing martial arts.</p></div>
+    </div>
+ </div>
+ </div>
+</div>
+<br>
+
+
+
+
+
+
+
+
+<div>
 <img class="peoplepic" src="/photos/Gorman.jpg" alt="Niell Gorman" width="200" height="300"/>
 <h4>Niell Gorman</h4>
 <h4>University of Houston</h4>
 <h4>Undergraduate - College of Architecture and Design</h4>
-<h4>2020 - Present REU Program</h4>
+<h4>2020 - 2021</h4>
 <h4>nbgorman@uh.edu</h4>
 
 <button class="modal-button" href="#ngorman">About Niell</button>
