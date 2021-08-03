@@ -19,8 +19,8 @@ GEM
       i18n (>= 0.7, < 2)
       minitest (~> 5.1)
       tzinfo (~> 1.1)
-    addressable (2.6.0)
-      public_suffix (>= 2.0.2, < 4.0)
+    addressable (2.8.0)
+      public_suffix (>= 2.0.2, < 5.0)
     autoprefixer-rails (9.6.0)
       execjs
     bootstrap (4.3.1)
@@ -35,8 +35,10 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
     erubi (1.8.0)
+    eventmachine (1.2.7)
     eventmachine (1.2.7-x64-mingw32)
     execjs (2.7.0)
+    ffi (1.11.1)
     ffi (1.11.1-x64-mingw32)
     forwardable-extended (2.6.0)
     http_parser.rb (0.6.0)
@@ -83,12 +85,14 @@ GEM
     mini_portile2 (2.4.0)
     minima (2.0.0)
     minitest (5.11.3)
+    nokogiri (1.10.3)
+      mini_portile2 (~> 2.4.0)
     nokogiri (1.10.3-x64-mingw32)
       mini_portile2 (~> 2.4.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     popper_js (1.14.5)
-    public_suffix (3.1.1)
+    public_suffix (4.0.6)
     rack (2.0.7)
     rack-test (1.1.0)
       rack (>= 1.0, < 3)
@@ -139,6 +143,7 @@ GEM
 
 PLATFORMS
   x64-mingw32
+  x86_64-linux
 
 DEPENDENCIES
   bootstrap (~> 4.3.1)
