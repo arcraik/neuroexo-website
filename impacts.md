@@ -15,7 +15,17 @@ permalink: /impacts/
   </head>
 
 
-
+<br>
+<div class="section" >
+<hr>
+<figure class="section">
+<img style = "width: 80%;" src="/photos/2020interns.png" alt="2021 Summer Interns" />
+<figcaption>2021 Summer Interns</figcaption>
+</figure>
+<h3>2021 Summer Internships</h3>
+<p align="justify"> During the summer of 2021, we were happy to host several interns at our lab at the University of Houston. This includes three students from the Research Experiences for Undergraduates program (David Edquilang, Carolina Ramirez, and Jacob Tajchman) and one local high school student (Chloe Beaudreau). As the program began before the resurgence of COVID in the fall, we were able to directly interact with the interns in person. The summer was especially busy for this project, so we were very happy to have their support.</p>
+<br>
+</div>
 
 <div class ="section" align="left">
 <hr>
