@@ -197,39 +197,6 @@ title: People
 
 
 
-<h3>Undergraduate International Trainee</h3>
-<div>
-<img class="peoplepic" src="/photos/OCantu.png" alt="Oziel Román Cantú López" width="200"/>
-<h4>Oziel Román Cantú López</h4>
-
-<h4>Universidad de Monterrey (Mexico)</h4>
-<h4>Undergraduate, Biomedical Engineering</h4>
-<h4>oziel.cantu@udem.edu</h4>
-<!-- Trigger/Open The Modal -->
-<button class="modal-button" href="#OCantu">About Oziel</button>
-
-<!-- The Modal -->
-<div id="OCantu" class="modal">
-
-  <!-- Modal content -->
- <div class="modal-content">
-    <div class="modal-header">
-      <span class="close">×</span>
-      <h2>Oziel Román Cantú López</h2>
-    </div>
-    <div class="modal-body">
-        <img class="content peoplepic" src="/photos/OCantu.png" alt="Oziel Román Cantú López" width="200"/>
-      <div><p class="content" align = "justify">My name is Oziel, I’m currently an international trainee at the University of Houston research laboratory participating in the Noninvasive Brain-Machine Interface project. Since I began my engineering studies, I have been interested in advance and technological innovation for the continuous improvement of the quality of life through engineering resources for health. I currently attend to UDEM (University of Monterrey) in Monterrey, MX as an undergraduate Biomedical Engineering student. My plans after this project is to continue my research so I can not only create new technology but ensure that the new people will be able to have a better quality of life with it.</p></div>
-     </div>
-  </div>
-
-</div>
-</div>
-<br>
-
-
-
-
 <h3>REU Students</h3>
 
 
@@ -532,6 +499,39 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
   </div>
 <br>
 
+
+
+
+
+<h3>Undergraduate International Trainee</h3>
+<div>
+<img class="peoplepic" src="/photos/OCantu.png" alt="Oziel Román Cantú López" width="200"/>
+<h4>Oziel Román Cantú López</h4>
+
+<h4>Universidad de Monterrey (Mexico)</h4>
+<h4>Undergraduate, Biomedical Engineering</h4>
+<h4>oziel.cantu@udem.edu</h4>
+<!-- Trigger/Open The Modal -->
+<button class="modal-button" href="#OCantu">About Oziel</button>
+
+<!-- The Modal -->
+<div id="OCantu" class="modal">
+
+  <!-- Modal content -->
+ <div class="modal-content">
+    <div class="modal-header">
+      <span class="close">×</span>
+      <h2>Oziel Román Cantú López</h2>
+    </div>
+    <div class="modal-body">
+        <img class="content peoplepic" src="/photos/OCantu.png" alt="Oziel Román Cantú López" width="200"/>
+      <div><p class="content" align = "justify">My name is Oziel, I’m currently an international trainee at the University of Houston research laboratory participating in the Noninvasive Brain-Machine Interface project. Since I began my engineering studies, I have been interested in advance and technological innovation for the continuous improvement of the quality of life through engineering resources for health. I currently attend to UDEM (University of Monterrey) in Monterrey, MX as an undergraduate Biomedical Engineering student. My plans after this project is to continue my research so I can not only create new technology but ensure that the new people will be able to have a better quality of life with it.</p></div>
+     </div>
+  </div>
+
+</div>
+</div>
+<br>
 
 
 
