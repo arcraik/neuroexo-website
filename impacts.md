@@ -19,7 +19,7 @@ permalink: /impacts/
 <div class="section" >
 <hr>
 <figure class="section">
-<img style = "width: 80%;" src="/photos/2020interns.png" alt="2021 Summer Interns" />
+<img style = "width: 80%;" src="/photos/2021REUInterns.png" alt="2021 Summer Interns" />
 <figcaption>2021 Summer Interns</figcaption>
 </figure>
 <h3>2021 Summer Internships</h3>
