@@ -37,7 +37,7 @@ title: People
       </div>
       <div class="modal-body">
           <img class="content peoplepic" src="/photos/JContreras-Vidal.jpg" alt="Jose Luis Contreras-Vidal" width="200"/>
-        <div><p class="content">Jose Luis Contreras-Vidal, Ph.D., IEEE Fellow (EMBS, SMC, RAS), is Cullen Distinguished Professor of Electrical &amp; Computer Engineering, and Director of the NSF Industry-University Collaborative Research Center on Building Reliable Advances and Innovations in Neurotechnologies (IUCRC BRAIN) at the University of Houston, and the Principal Investigator for this NSF PFI Project. He has pioneered the development of noninvasive brain-machine interfaces and wearable exoskeletons to restore motor function in individuals with spinal cord injury, stroke and limb amputation. Professor Contreras-Vidal is an associate editor of IEEE Transactions on Human Machine Systems and J of Mobile Human Computer Interaction, a Review Editor for Frontiers in Neuroprosthetics, a Topic Editor for Frontiers in Human Neuroscience and Editor-in-Chief for the incoming book (Springer Nature Switzerland AG) on Mobile Brain-Body Imaging and the Neuroscience of Art, Innovation and Creativity. His work has been supported by the NIH, NSF, VA, DARPA, ONR, Foundations, donors, and industry. Dr. Contreras-Vidal’s research has been highlighted by The Economist, Nature, Science, Science News, Der Spiegel, NSF, Wall Street Journal, SFN, O&amp;P, Scientific American, NPRs Science Friday, and Neurology Today among others. Jose’s career development in biomedical engineering has been highlighted in the magazine Science.</p></div>
+        <div><p class="content" align = "justify">Jose Luis Contreras-Vidal, Ph.D., IEEE Fellow (EMBS, SMC, RAS), is Cullen Distinguished Professor of Electrical &amp; Computer Engineering, and Director of the NSF Industry-University Collaborative Research Center on Building Reliable Advances and Innovations in Neurotechnologies (IUCRC BRAIN) at the University of Houston, and the Principal Investigator for this NSF PFI Project. He has pioneered the development of noninvasive brain-machine interfaces and wearable exoskeletons to restore motor function in individuals with spinal cord injury, stroke and limb amputation. Professor Contreras-Vidal is an associate editor of IEEE Transactions on Human Machine Systems and J of Mobile Human Computer Interaction, a Review Editor for Frontiers in Neuroprosthetics, a Topic Editor for Frontiers in Human Neuroscience and Editor-in-Chief for the incoming book (Springer Nature Switzerland AG) on Mobile Brain-Body Imaging and the Neuroscience of Art, Innovation and Creativity. His work has been supported by the NIH, NSF, VA, DARPA, ONR, Foundations, donors, and industry. Dr. Contreras-Vidal’s research has been highlighted by The Economist, Nature, Science, Science News, Der Spiegel, NSF, Wall Street Journal, SFN, O&amp;P, Scientific American, NPRs Science Friday, and Neurology Today among others. Jose’s career development in biomedical engineering has been highlighted in the magazine Science.</p></div>
        </div>
 
 </div>
@@ -61,7 +61,7 @@ title: People
    </div>
    <div class="modal-body">
        <img class="content peoplepic" src="/photos/jefffeng.jpg" alt="Jeff Feng" width="200"/>
-     <div><p class="content">Jeff Feng, MFA is an associate professor at the College of Architecture and Desing at the University of Houston. He is the principle of the enLiving Laboratory for interdisciplinary research and design in healthcare products and services.  Jeff is an educator with over 15 years of experience in innovating in the industries of healthcare, consumer electronics, product packaging, etc. Jeff has worked as the design director at Metaphase Design Group for 7 years before he started teaching at the University of Houston. As an expert in design thinking, creative problem solving, design project management, design team building, and management, Jeff has led the design team to win numerous design awards and recognitions, most notably IDEA, Medical Design Excellence Award, and ID magazine. His works have been published in ID magazine, Metropolis magazine, Medical Design, Appliance Design magazine, etc. Jeff holds over 50 U.S. and international design and utility patents.</p></div>
+     <div><p class="content" align = "justify">Jeff Feng, MFA is an associate professor at the College of Architecture and Desing at the University of Houston. He is the principle of the enLiving Laboratory for interdisciplinary research and design in healthcare products and services.  Jeff is an educator with over 15 years of experience in innovating in the industries of healthcare, consumer electronics, product packaging, etc. Jeff has worked as the design director at Metaphase Design Group for 7 years before he started teaching at the University of Houston. As an expert in design thinking, creative problem solving, design project management, design team building, and management, Jeff has led the design team to win numerous design awards and recognitions, most notably IDEA, Medical Design Excellence Award, and ID magazine. His works have been published in ID magazine, Metropolis magazine, Medical Design, Appliance Design magazine, etc. Jeff holds over 50 U.S. and international design and utility patents.</p></div>
     </div>
  </div>
  </div>
@@ -89,7 +89,7 @@ title: People
     </div>
     <div class="modal-body">
       <img class="content peoplepic" src="/photos/Brian-Square.png" alt="Brian Shedd" align="left" width="200"/>
-      <div><p class="content">Brian Shedd is currently the Director of Technology Commercialization at the University of Houston Office of Technology Transfer and Innovation. In that role, Brian oversees a team tasked with the management of the UH intellectual property portfolio representing more than 2,000 different intellectual properties, and the commercialization of that portfolio resulting in more than 30 agreements per year and generating $50M+ in revenue every year. Prior to UH he was the President and Founder of Precision Technology Consulting, a freelance consulting company providing technology commercialization assistance to companies and research institutions. Brian has also worked in university technology transfer roles at Louisiana State University (LSU) and the University of California, Los Angeles (UCLA). Brian has also served as a Board Member to PortTech Los Angeles, a business incubator focused on developing technologies for the Port of Los Angeles. He also served as a Leadership Council Member for the Los Angeles Cleantech Incubator and as a lecturer in the UCLA Anderson School of Management. He is also responsible for the co-creation and management of BRUINcubate, the UCLA Entrepreneur Support Network, involving more than 20 different entrepreneurial support organizations located on campus.</p></div>
+      <div><p class="content" align = "justify">Brian Shedd is currently the Director of Technology Commercialization at the University of Houston Office of Technology Transfer and Innovation. In that role, Brian oversees a team tasked with the management of the UH intellectual property portfolio representing more than 2,000 different intellectual properties, and the commercialization of that portfolio resulting in more than 30 agreements per year and generating $50M+ in revenue every year. Prior to UH he was the President and Founder of Precision Technology Consulting, a freelance consulting company providing technology commercialization assistance to companies and research institutions. Brian has also worked in university technology transfer roles at Louisiana State University (LSU) and the University of California, Los Angeles (UCLA). Brian has also served as a Board Member to PortTech Los Angeles, a business incubator focused on developing technologies for the Port of Los Angeles. He also served as a Leadership Council Member for the Los Angeles Cleantech Incubator and as a lecturer in the UCLA Anderson School of Management. He is also responsible for the co-creation and management of BRUINcubate, the UCLA Entrepreneur Support Network, involving more than 20 different entrepreneurial support organizations located on campus.</p></div>
     </div>
    </div>
 
@@ -121,7 +121,7 @@ title: People
     </div>
     <div class="modal-body">
         <img class="content peoplepic" src="/photos/ArCraik.jpg" alt="Alexander Craik" width="200"/>
-      <div><p class="content">Alexander Craik is currently a PhD student in Electrical and Computer Engineering (ECE) at the University of Houston.  He previously received his M.S. in ECE, his B.S. in Aerospace Engineering, and his B.A. in Economics. His research involves the use of transfer learning and deep neural networks in decoding neural intent with EEG. His interests include neuroscience and speech synthesis.</p></div>
+      <div><p class="content" align = "justify">Alexander Craik is currently a PhD student in Electrical and Computer Engineering (ECE) at the University of Houston.  He previously received his M.S. in ECE, his B.S. in Aerospace Engineering, and his B.A. in Economics. His research involves the use of transfer learning and deep neural networks in decoding neural intent with EEG. His interests include neuroscience and speech synthesis.</p></div>
      </div>
   </div>
 
@@ -155,7 +155,7 @@ title: People
     </div>
     <div class="modal-body">
         <img class="content peoplepic" src="/photos/jj.jpg" alt="Juan Jose Gonzalez Espana" width="200"/>
-      <div><p class="content">Juan Jose Gonzalez Espana is currently a PhD student in Electrical and Computer Engineering (ECE) at the University of Houston. He previously received his M.S. in ECE, his M.S. in Computer Science and his B.S. in Electronics Engineering. His research involves the design and development of EEG amplifiers for Dry-Electrode sensors. His interests include Brain-Machine Interfaces, signal processing and embedded systems.</p></div>
+      <div><p class="content" align = "justify">Juan Jose Gonzalez Espana is currently a PhD student in Electrical and Computer Engineering (ECE) at the University of Houston. He previously received his M.S. in ECE, his M.S. in Computer Science and his B.S. in Electronics Engineering. His research involves the design and development of EEG amplifiers for Dry-Electrode sensors. His interests include Brain-Machine Interfaces, signal processing and embedded systems.</p></div>
      </div>
   </div>
 
@@ -187,7 +187,7 @@ title: People
     </div>
     <div class="modal-body">
         <img class="content peoplepic" src="/photos/Ayman.jpg" alt="Ayman Alamir" width="200"/>
-      <div><p class="content">Ayman Alamir is a PhD student in Biomedical Engineering at the University of Houston. He has a BS in Electrical Engineering and a MS in Biomedical Engineering. He is interested in brain-machine interfaces and neural engineering.</p></div>
+      <div><p class="content" align = "justify">Ayman Alamir is a PhD student in Biomedical Engineering at the University of Houston. He has a BS in Electrical Engineering and a MS in Biomedical Engineering. He is interested in brain-machine interfaces and neural engineering.</p></div>
      </div>
   </div>
 
@@ -219,7 +219,7 @@ title: People
     </div>
     <div class="modal-body">
         <img class="content peoplepic" src="/photos/OCantu.png" alt="Oziel Román Cantú López" width="200"/>
-      <div><p class="content">My name is Oziel, I’m currently an international trainee at the University of Houston research laboratory participating in the Noninvasive Brain-Machine Interface project. Since I began my engineering studies, I have been interested in advance and technological innovation for the continuous improvement of the quality of life through engineering resources for health. I currently attend to UDEM (University of Monterrey) in Monterrey, MX as an undergraduate Biomedical Engineering student. My plans after this project is to continue my research so I can not only create new technology but ensure that the new people will be able to have a better quality of life with it.</p></div>
+      <div><p class="content" align = "justify">My name is Oziel, I’m currently an international trainee at the University of Houston research laboratory participating in the Noninvasive Brain-Machine Interface project. Since I began my engineering studies, I have been interested in advance and technological innovation for the continuous improvement of the quality of life through engineering resources for health. I currently attend to UDEM (University of Monterrey) in Monterrey, MX as an undergraduate Biomedical Engineering student. My plans after this project is to continue my research so I can not only create new technology but ensure that the new people will be able to have a better quality of life with it.</p></div>
      </div>
   </div>
 
@@ -250,7 +250,7 @@ title: People
    </div>
    <div class="modal-body">
        <img class="content peoplepic" src="/photos/David.png" alt="David Edquilang" width="200"/>
-     <div><p class="content">I am currently a 4th year Industrial Design student at the College of Architecture and Design at the University of Houston. Prior to my industrial design education, I have experience studying in both the engineering and medical fields. I have a multitude of interests and skills, having designed a wide variety of products covering everything from consumer electronics, to furniture, to prosthetic arms, and other medical devices. What drives me is my interest in materials, manufacturing processes, being hands-on, and creating real solutions to solve real problems. I derive a great sense of satisfaction from the process of forming an idea and bringing it into reality.</p></div>
+     <div><p class="content" align = "justify">I am currently a 4th year Industrial Design student at the College of Architecture and Design at the University of Houston. Prior to my industrial design education, I have experience studying in both the engineering and medical fields. I have a multitude of interests and skills, having designed a wide variety of products covering everything from consumer electronics, to furniture, to prosthetic arms, and other medical devices. What drives me is my interest in materials, manufacturing processes, being hands-on, and creating real solutions to solve real problems. I derive a great sense of satisfaction from the process of forming an idea and bringing it into reality.</p></div>
     </div>
  </div>
  </div>
@@ -278,7 +278,7 @@ title: People
    </div>
    <div class="modal-body">
        <img class="content peoplepic" src="/photos/Carolina.JPG" alt="Carolina Ramirez" width="200"/>
-     <div><p class="content">Carol Ramirez is a rising senior in the College of Engineering at Texas A&M University, pursuing an undergraduate degree. She is majoring in Biomedical Engineering with a focused track in bioinstrumentation. For the 2021 summer, she is joining the NeuroExo team under Dr. Contreras-Vidal's lab. She is excited for this new project, as she works with leading-edge neurotechnology research to help people affected by stroke-caused disabilities. Her aim is to pursue a career that will work to bring novel and accessible health care/medical equipment to underserved communities, and provide them with a better quality of life. In her free time she also enjoys crafts and outdoor activities.</p></div>
+     <div><p class="content" align = "justify">Carol Ramirez is a rising senior in the College of Engineering at Texas A&M University, pursuing an undergraduate degree. She is majoring in Biomedical Engineering with a focused track in bioinstrumentation. For the 2021 summer, she is joining the NeuroExo team under Dr. Contreras-Vidal's lab. She is excited for this new project, as she works with leading-edge neurotechnology research to help people affected by stroke-caused disabilities. Her aim is to pursue a career that will work to bring novel and accessible health care/medical equipment to underserved communities, and provide them with a better quality of life. In her free time she also enjoys crafts and outdoor activities.</p></div>
     </div>
  </div>
  </div>
@@ -306,7 +306,7 @@ title: People
    </div>
    <div class="modal-body">
        <img class="content peoplepic" src="/photos/jacob.JPG" alt="Jacob Tajchman" width="200"/>
-     <div><p class="content">Jacob's academic background mainly consists of biology and neuroscience, but he is branching into the fields of biomedical engineering and computer science and engineering. His prior research experience is of fibophotometry and behavioral neuroscience. He is interested mainly in the research and development of an interface between the sensorimotor aspects of the nervous system and computer systems, ideally developed with a noninvasive method. He plans to attend graduate school to pursue this interest and to research the technology in grad school and after. In his free time, he enjoys video games with friends, playing with his cats, and practicing martial arts.</p></div>
+     <div><p class="content" align = "justify">Jacob's academic background mainly consists of biology and neuroscience, but he is branching into the fields of biomedical engineering and computer science and engineering. His prior research experience is of fibophotometry and behavioral neuroscience. He is interested mainly in the research and development of an interface between the sensorimotor aspects of the nervous system and computer systems, ideally developed with a noninvasive method. He plans to attend graduate school to pursue this interest and to research the technology in grad school and after. In his free time, he enjoys video games with friends, playing with his cats, and practicing martial arts.</p></div>
     </div>
  </div>
  </div>
@@ -337,7 +337,7 @@ title: People
    </div>
    <div class="modal-body">
        <img class="content peoplepic" src="/photos/Gorman.jpg" alt="Niell Gorman" width="200"/>
-     <div><p class="content">Niell Gorman is currently a 4th year Industrial Design student at the University of Houston’s Gerald D. Hines College of Architecture and Design. Coming from an arts background, he finds inspiration in drawing, nature, and playing music, and also leads the University of Houston chapter of the Precious Plastic circular plastic economy movement. His aim is to pursue a career in product design, with a focus on medical design, sustainability, and new fabrication technologies.</p></div>
+     <div><p class="content" align = "justify">Niell Gorman is currently a 4th year Industrial Design student at the University of Houston’s Gerald D. Hines College of Architecture and Design. Coming from an arts background, he finds inspiration in drawing, nature, and playing music, and also leads the University of Houston chapter of the Precious Plastic circular plastic economy movement. His aim is to pursue a career in product design, with a focus on medical design, sustainability, and new fabrication technologies.</p></div>
     </div>
  </div>
  </div>
@@ -367,7 +367,7 @@ title: People
     </div>
     <div class="modal-body">
         <img class="content peoplepic" src="/photos/KMoore.jpeg" alt="Kameron Moore" width="200"/>
-      <div><p class="content">Kameron Moore is pursuing concurrent bachelors degrees in Biomedical Engineering and Spanish Linguistics at Arizona State University in Barrett, the Honors College. From Cave Creek, Arizona, Kameron enjoys spending time outdoors, doing yoga, and cooking. He is very driven and extremely passionate about neurological health, hoping to secure a career improving healthcare for all in the future. Having previously worked in ASU’s Memory and Attention Control Lab, Kameron has experience studying ADD and ADHD through pupil dilation analysis and cognitive task assessment. </p></div>
+      <div><p class="content" align = "justify">Kameron Moore is pursuing concurrent bachelors degrees in Biomedical Engineering and Spanish Linguistics at Arizona State University in Barrett, the Honors College. From Cave Creek, Arizona, Kameron enjoys spending time outdoors, doing yoga, and cooking. He is very driven and extremely passionate about neurological health, hoping to secure a career improving healthcare for all in the future. Having previously worked in ASU’s Memory and Attention Control Lab, Kameron has experience studying ADD and ADHD through pupil dilation analysis and cognitive task assessment. </p></div>
      </div>
   </div>
 
@@ -397,7 +397,7 @@ title: People
     </div>
     <div class="modal-body">
         <img class="content peoplepic" src="/photos/erguzman.jpg" alt="Edgar Guzman" width="200"/>
-      <div><p class="content">Edgar Guzman is currently a 5 th year student in Electrical and Computer Engineering (ECE)
+      <div><p class="content" align = "justify">Edgar Guzman is currently a 5 th year student in Electrical and Computer Engineering (ECE)
 at California State Polytechnic University, Pomona. He will be applying to graduate school
 during the fall of 2020, where he intendents to research robotics. Specifically, he wants to
 read brains signals and translate them into robotic (rehabilitation robotics) movements.</p></div>
@@ -494,7 +494,7 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
       </div>
       <div class="modal-body">
         <img class="content peoplepic" src="/photos/KSchmidt.JPG" alt="Kristin Schmidt" width="200"/>
-        <div><p class="content">Kristin Schmidt is an undergraduate student working in the lab this summer through the NSF REU program. Originally from Long Island, NY, Kristin currently attends the University of Virginia, studying mechanical engineering, and plans to graduate in spring 2020. At UVA’s Center for Applied Biomechanics, she studied the role of occupant posture in frontal car crashes. Additionally, Kristin is highly involved in service and outreach activities, such as introducing STEM to elementary school students of minority backgrounds. In the BRAIN Center at UH, Kristin is working to design a novel, low-cost dry cap system to integrate with the “NeuroExo” project. </p></div>
+        <div><p class="content" align = "justify">Kristin Schmidt is an undergraduate student working in the lab this summer through the NSF REU program. Originally from Long Island, NY, Kristin currently attends the University of Virginia, studying mechanical engineering, and plans to graduate in spring 2020. At UVA’s Center for Applied Biomechanics, she studied the role of occupant posture in frontal car crashes. Additionally, Kristin is highly involved in service and outreach activities, such as introducing STEM to elementary school students of minority backgrounds. In the BRAIN Center at UH, Kristin is working to design a novel, low-cost dry cap system to integrate with the “NeuroExo” project. </p></div>
       </div>
   </div>
 
@@ -525,7 +525,7 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
       </div>
       <div class="modal-body">
         <img class="content peoplepic" src="/photos/RSutherland.jpg" alt="Robert Sutherland" width="200"/>
-        <div><p class="content">Robert is a researcher looking to unlock the amazing potential within our brains. His passion for neural interfaces began in high school with an internship at Walter Reed. The time he spent working with veteran amputees inspired him to look to neural prosthetics as a tool for enhancing people's lives. He currently attends the University of Southern California as a Biomedical Engineering Undergrad and assists research in the University of Southern California's BioMEMs lab. Robert plans to continue his research in the fall at Charité – Universitätsmedizin in Berlin studying BMI’s. </p></div>
+        <div><p class="content" align = "justify">Robert is a researcher looking to unlock the amazing potential within our brains. His passion for neural interfaces began in high school with an internship at Walter Reed. The time he spent working with veteran amputees inspired him to look to neural prosthetics as a tool for enhancing people's lives. He currently attends the University of Southern California as a Biomedical Engineering Undergrad and assists research in the University of Southern California's BioMEMs lab. Robert plans to continue his research in the fall at Charité – Universitätsmedizin in Berlin studying BMI’s. </p></div>
       </div>
   </div>
 
@@ -561,7 +561,7 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
     </div>
     <div class="modal-body">
         <img class="content peoplepic" src="/photos/maryam.png" alt="Maryam Tahir" width="200"/>
-      <div><p class="content">Maryam Tahir is a Junior Electrical Engineering Major at the University of Houston. She plans to graduate in Fall 2022. She transferred from LoneStar College where she was part of the Honors College Chancellor's Fellows Program. She also served as secretary of the 'Student of Diverse Abilities' organization where she raised awareness for different disabilities and strived to make the campus more accessible. She was also a participant of the REU 2020 program at UH where she investigated the effect of music on performance during a working memory task. Currently, she is part of the Society of Women Engineers at UH and is a CRLA certified professional tutor at LoneStar College, where she tutors students in Math and Science subjects. In the future, she is interested in becoming more involved in research in the field of medicine and engineering, learning about prosthesis, neurotechnologies, robotics, and medical devices.</p></div>
+      <div><p class="content" align = "justify">Maryam Tahir is a Junior Electrical Engineering Major at the University of Houston. She plans to graduate in Fall 2022. She transferred from LoneStar College where she was part of the Honors College Chancellor's Fellows Program. She also served as secretary of the 'Student of Diverse Abilities' organization where she raised awareness for different disabilities and strived to make the campus more accessible. She was also a participant of the REU 2020 program at UH where she investigated the effect of music on performance during a working memory task. Currently, she is part of the Society of Women Engineers at UH and is a CRLA certified professional tutor at LoneStar College, where she tutors students in Math and Science subjects. In the future, she is interested in becoming more involved in research in the field of medicine and engineering, learning about prosthesis, neurotechnologies, robotics, and medical devices.</p></div>
      </div>
   </div>
 
@@ -624,7 +624,7 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
     </div>
     <div class="modal-body">
         <img class="content peoplepic" src="/photos/Chloe.jpg" alt="Chloe Beaudreau" width="200"/>
-      <div><p class="content">Chloe Beaudreau is a rising senior at Carnegie Vanguard High School. She is a high school intern working on the NeuroExo project at the University of Houston BRAIN center. She first became interested in neurotechnologies through her project to build an adaptive virtual learning system using BCI technology for an independent study class. She currently serves as co-president of the Girls Who Code and HOSA chapters at her school. In her free time, she enjoys running varsity cross country and track and leading the literary magazine and creative writing group at her school. In the future, she is interested in pursuing biomedical engineering and learning more about neurotechnologies and deep neural networks.
+      <div><p class="content" align = "justify">Chloe Beaudreau is a rising senior at Carnegie Vanguard High School. She is a high school intern working on the NeuroExo project at the University of Houston BRAIN center. She first became interested in neurotechnologies through her project to build an adaptive virtual learning system using BCI technology for an independent study class. She currently serves as co-president of the Girls Who Code and HOSA chapters at her school. In her free time, she enjoys running varsity cross country and track and leading the literary magazine and creative writing group at her school. In the future, she is interested in pursuing biomedical engineering and learning more about neurotechnologies and deep neural networks.
 </p></div>
      </div>
   </div>
@@ -654,7 +654,7 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
     </div>
     <div class="modal-body">
         <img class="content peoplepic" src="/photos/VMannem.jpg" alt="Vinay Mannem" width="200"/>
-      <div><p class="content">My name is Vinay Mannem and I am a rising senior at The Academy of Science and Technology at the Woodlands College Park High School. I am a high school intern working on the NeuroExo project at the University of Houston BRAIN Center. I am an active programming member on my school's robotics team 1477 Texas Torque and I play varsity tennis. In my free time, I tutor elementary and middle school students and work on my other science fair projects. Through science fair, I have worked on developing a belt to assist blind people during commutes through ultrasound and GPS technologies as well as a smart sole to predict foot injuries using pressure sensing data and machine learning to predict diabetes. I also am a member of my school DECA business club. </p></div>
+      <div><p class="content" align = "justify">My name is Vinay Mannem and I am a rising senior at The Academy of Science and Technology at the Woodlands College Park High School. I am a high school intern working on the NeuroExo project at the University of Houston BRAIN Center. I am an active programming member on my school's robotics team 1477 Texas Torque and I play varsity tennis. In my free time, I tutor elementary and middle school students and work on my other science fair projects. Through science fair, I have worked on developing a belt to assist blind people during commutes through ultrasound and GPS technologies as well as a smart sole to predict foot injuries using pressure sensing data and machine learning to predict diabetes. I also am a member of my school DECA business club. </p></div>
      </div>
   </div>
 </div>
@@ -796,7 +796,7 @@ University of Texas Health Science Center at Houston (UTHealth)</h4>
     </div>
     <div class="modal-body">
       <img class="content peoplepic" src="/photos/gillespie.jpg" alt="George Gilliespie" align="left" width="200"/>
-      <div><p class="content">Experienced research administrator and seasoned technology commercialization professional with more than 20 years of experience in federal (Army, Energy, NOAA) and university (UNC-Pembroke, University of Maryland and currently University of Houston). Experience locating sources of research sponsorship from federal, industry and foundations. Negotiated and brought to conclusion more than 25 research agreements bringing in approximately $2M in research funding/royalty revenue for federal and academic organizations.</p></div>
+      <div><p class="content" align = "justify">Experienced research administrator and seasoned technology commercialization professional with more than 20 years of experience in federal (Army, Energy, NOAA) and university (UNC-Pembroke, University of Maryland and currently University of Houston). Experience locating sources of research sponsorship from federal, industry and foundations. Negotiated and brought to conclusion more than 25 research agreements bringing in approximately $2M in research funding/royalty revenue for federal and academic organizations.</p></div>
     </div>
    </div>
 
