@@ -1,6 +1,7 @@
 ---
 layout: post
-title: At-Home Trials End---
+title: At-Home Trials End
+---
 
 <p align="justify"> The system was successfully used by the participant at home without a physical therapist, marking the successful completion of the world’s first at-home trials for a neurotechnology application. To mark the occasion, Houston’s KPRC News channel 2 interviewed the participant to ask him how he felt about using the system. </p>
 
