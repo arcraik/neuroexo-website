@@ -69,6 +69,9 @@ title: People
 <br>
 
 
+
+<!--
+ COMMENTED OUT
 <div>
 <img class="peoplepic" src="/photos/Brian-Square.png" alt="Brian Shedd" width="200"/>
 <h4>Brian Shedd</h4>
@@ -95,7 +98,7 @@ title: People
 
 </div>
 </div>
-<br>
+<br> -->
 
 
 
