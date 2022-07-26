@@ -70,37 +70,6 @@ title: People
 
 
 
-<!--
- COMMENTED OUT
-<div>
-<img class="peoplepic" src="/photos/Brian-Square.png" alt="Brian Shedd" width="200"/>
-<h4>Brian Shedd</h4>
-<h4>Director of Technology Commercialization</h4>
-<h4><a href="https://www.uh.edu/research/about/organization/otti/" target="_blank" >Office of Technology Transfer and Innovation(OTTI)</a></h4>
-<h4>bshedd@central.uh.edu</h4>
-<!-- Trigger/Open The Modal -->
-<button class="modal-button" href="#sheed">About Shedd</button>
-
-<!-- The Modal -->
-<div id="sheed" class="modal">
-
-  <!-- Modal content -->
- <div class="modal-content">
-    <div class="modal-header">
-      <span class="close">×</span>
-      <h2>Brian Shedd</h2>
-    </div>
-    <div class="modal-body">
-      <img class="content peoplepic" src="/photos/Brian-Square.png" alt="Brian Shedd" align="left" width="200"/>
-      <div><p class="content" align = "justify">Brian Shedd is currently the Director of Technology Commercialization at the University of Houston Office of Technology Transfer and Innovation. In that role, Brian oversees a team tasked with the management of the UH intellectual property portfolio representing more than 2,000 different intellectual properties, and the commercialization of that portfolio resulting in more than 30 agreements per year and generating $50M+ in revenue every year. Prior to UH he was the President and Founder of Precision Technology Consulting, a freelance consulting company providing technology commercialization assistance to companies and research institutions. Brian has also worked in university technology transfer roles at Louisiana State University (LSU) and the University of California, Los Angeles (UCLA). Brian has also served as a Board Member to PortTech Los Angeles, a business incubator focused on developing technologies for the Port of Los Angeles. He also served as a Leadership Council Member for the Los Angeles Cleantech Incubator and as a lecturer in the UCLA Anderson School of Management. He is also responsible for the co-creation and management of BRUINcubate, the UCLA Entrepreneur Support Network, involving more than 20 different entrepreneurial support organizations located on campus.</p></div>
-    </div>
-   </div>
-
-</div>
-</div>
-<br> -->
-
-
 
 <h3>Graduate Students</h3>
 <div>
