@@ -169,6 +169,41 @@ title: People
 
 
 
+
+
+<div>
+<img class="peoplepic" src="/photos/Suochun.jpg" alt="Suochun Fang" width="200"/>
+<h4>Suochun Fang, BE</h4>
+<h4>Master's Student, College of Architecture and Design</h4>
+<h4>Graduate Research Assistant</h4>
+<h4>sfang8@uh.edu</h4>
+<!-- Trigger/Open The Modal -->
+<button class="modal-button" href="#Suochun">About Suochun</button>
+
+
+<!-- The Modal -->
+<div id="Suochun" class="modal">
+
+  <!-- Modal content -->
+ <div class="modal-content">
+    <div class="modal-header">
+      <span class="close">×</span>
+      <h2>Suochun Fang, Master's student</h2>
+    </div>
+    <div class="modal-body">
+        <img class="content peoplepic" src="/photos/Suochun.jpg" alt="Suochun Fang" width="200"/>
+      <div><p class="content" align = "justify">Suochun Fang is a master's student in the College of Architecture and Design, Industrial Design program. He previously received his Bachelor of Engineering in Industrial Design. His competencies include design thinking, 3D modeling and rendering, and prototyping.</p></div>
+     </div>
+  </div>
+
+</div>
+</div>
+<br>
+
+
+
+
+
 <h3>REU Students</h3>
 
 
