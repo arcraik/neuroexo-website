@@ -204,7 +204,49 @@ title: People
 
 
 
+
+
+
+
+
+
+
+
 <h3>REU Students</h3>
+
+
+
+
+
+<div>
+<img class="peoplepic" src="/photos/Wong_Sarah.jpg" alt="Wong" width="200"/>
+<h4>Sarah Wong</h4>
+<h4>University of Houston</h4>
+<h4>Undergraduate - Industrial Design</h4>
+<h4>2022 REU Program</h4>
+<h4>sjwong3@central.uh.edu</h4>
+
+<button class="modal-button" href="#Wong">About Sarah</button>
+<div id="Wong" class="modal">
+<div class="modal-content">
+   <div class="modal-header">
+     <span class="close">×</span>
+     <h2>Sarah Wong</h2>
+   </div>
+   <div class="modal-body">
+       <img class="content peoplepic" src="/photos/Wong_Sarah.jpg" alt="Wong" width="200"/>
+     <div><p class="content" align = "justify">Sarah Wong is currently a 4th year Industrial Design student at the University of Houston’s Gerald D. Hines College of Architecture and Design. Sarah is a Lupus and stroke survivor and this is what drives her to pursue medical design and create novel devices to assist patients with their challenges. She enjoys model-making, whether for a project or for fun tinkering with 3D modeling, 3D printing, molding, sewing, origami, and crocheting. In summer 2022, she was part of the SURF program and worked to design a device to identify concussions. She is excited to join the NeuroExo team to help prototype devices to assist stroke survivors with disabilities. </p></div>
+    </div>
+ </div>
+ </div>
+</div>
+<br>
+
+
+
+
+
+
 
 
 <div>
