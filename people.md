@@ -93,7 +93,7 @@ title: People
     </div>
     <div class="modal-body">
         <img class="content peoplepic" src="/photos/ArCraik.jpg" alt="Alexander Craik" width="200"/>
-      <div><p class="content" align = "justify">Alexander Craik is currently a PhD student in Electrical and Computer Engineering (ECE) at the University of Houston.  He previously received his M.S. in ECE, his B.S. in Aerospace Engineering, and his B.A. in Economics. His research involves the use of transfer learning and deep neural networks in decoding neural intent with EEG. His interests include neuroscience and speech synthesis.</p></div>
+      <div><p class="content" align = "justify">Alexander Craik is currently a doctoral candidate in Electrical and Computer Engineering (ECE) at the University of Houston. He previously received his M.S. in ECE, his B.S. in Aerospace Engineering, and his B.A. in Economics. His research involves systems engineering for a custom Brain Computer Interface-enabled stroke rehabilitation device (the NeuroExo) and the use of deep neural networks for decoding neural correlates related to speech and motor intent with EEG. His interests include neuroscience, chess, and speech synthesis.</p></div>
      </div>
   </div>
 
