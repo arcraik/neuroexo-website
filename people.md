@@ -170,37 +170,34 @@ title: People
 
 
 
-
 <div>
-<img class="peoplepic" src="/photos/Suochun.jpg" alt="Suochun Fang" width="200"/>
-<h4>Suochun Fang, BE</h4>
-<h4>Master's Student, College of Architecture and Design</h4>
+<img class="peoplepic" src="/photos/Lianne.JPG" alt="Lianne Sánchez Rodríguez" width="200"/>
+<h4>Lianne Sánchez Rodríguez, MS</h4>
+<h4>PhD Student, Electrical and Computer Engineering</h4>
 <h4>Graduate Research Assistant</h4>
-<h4>sfang8@uh.edu</h4>
+<h4>lsanch46@uh.edu</h4>
 <!-- Trigger/Open The Modal -->
-<button class="modal-button" href="#Suochun">About Suochun</button>
+<button class="modal-button" href="#Lianne">About Lianne</button>
 
 
 <!-- The Modal -->
-<div id="Suochun" class="modal">
+<div id="Lianne" class="modal">
 
   <!-- Modal content -->
  <div class="modal-content">
     <div class="modal-header">
       <span class="close">×</span>
-      <h2>Suochun Fang, Master's student</h2>
+      <h2>Lianne Sánchez Rodríguez, PHD Student</h2>
     </div>
     <div class="modal-body">
-        <img class="content peoplepic" src="/photos/Suochun.jpg" alt="Suochun Fang" width="200"/>
-      <div><p class="content" align = "justify">Suochun Fang is a master's student in the College of Architecture and Design, Industrial Design program. He previously received his Bachelor of Engineering in Industrial Design. His competencies include design thinking, 3D modeling and rendering, and prototyping.</p></div>
+        <img class="content peoplepic" src="/photos/Lianne.JPG" alt="Lianne Sánchez Rodríguez" width="200"/>
+      <div><p class="content" align = "justify">Lianne Sánchez Rodríguez is currently an admitted Ph.D. student in the Electrical and Computer Engineering (ECE) department at the University of Houston. She previously received her M.S. in Applied Biomedical Engineering from Johns Hopkins University and her B.S. in Computer Engineering from the University of Puerto Rico at Mayagüez. Her interests include Brain-Computer Interfaces, computational neuroscience, connectomics, machine learning, wearables, and, more broadly, medical devices. She also works for Biosense Webster, Inc., a Johnson & Johnson medical device company, as a full-time employee.</p></div>
      </div>
   </div>
 
 </div>
 </div>
 <br>
-
-
 
 
 
@@ -243,6 +240,37 @@ title: People
 <br>
 
 
+
+
+
+<div>
+<img class="peoplepic" src="/photos/Suochun.jpg" alt="Suochun Fang" width="200"/>
+<h4>Suochun Fang, BE</h4>
+<h4>Master's Student, College of Architecture and Design</h4>
+<h4>Graduate Research Assistant</h4>
+<h4>sfang8@uh.edu</h4>
+<!-- Trigger/Open The Modal -->
+<button class="modal-button" href="#Suochun">About Suochun</button>
+
+
+<!-- The Modal -->
+<div id="Suochun" class="modal">
+
+  <!-- Modal content -->
+ <div class="modal-content">
+    <div class="modal-header">
+      <span class="close">×</span>
+      <h2>Suochun Fang, Master's student</h2>
+    </div>
+    <div class="modal-body">
+        <img class="content peoplepic" src="/photos/Suochun.jpg" alt="Suochun Fang" width="200"/>
+      <div><p class="content" align = "justify">Suochun Fang is a master's student in the College of Architecture and Design, Industrial Design program. He previously received his Bachelor of Engineering in Industrial Design. His competencies include design thinking, 3D modeling and rendering, and prototyping.</p></div>
+     </div>
+  </div>
+
+</div>
+</div>
+<br>
 
 
 
