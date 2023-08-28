@@ -266,6 +266,29 @@ title: People
 </div>
 <br>
 
+<div>
+<img class="peoplepic" src="/photos/David.png" alt="David Edquilang" width="200"/>
+<h4>David Edquilang</h4>
+<h4>University of Houston</h4>
+<h4>Undergraduate - Industrial Design</h4>
+<h4>2021 REU Program</h4>
+<h4>david.edquilang@gmail.com</h4>
+
+<button class="modal-button" href="#David">About David</button>
+<div id="David" class="modal">
+<div class="modal-content">
+   <div class="modal-header">
+     <span class="close">×</span>
+     <h2>David Edquilang</h2>
+   </div>
+   <div class="modal-body">
+       <img class="content peoplepic" src="/photos/David.png" alt="David Edquilang" width="200"/>
+     <div><p class="content" align = "justify">I am currently a 4th year Industrial Design student at the College of Architecture and Design at the University of Houston. Prior to my industrial design education, I have experience studying in both the engineering and medical fields. I have a multitude of interests and skills, having designed a wide variety of products covering everything from consumer electronics, to furniture, to prosthetic arms, and other medical devices. What drives me is my interest in materials, manufacturing processes, being hands-on, and creating real solutions to solve real problems. I derive a great sense of satisfaction from the process of forming an idea and bringing it into reality.</p></div>
+    </div>
+ </div>
+ </div>
+</div>
+<br>
 
 <div>
 <img class="peoplepic" src="/photos/Joanna.jpg" alt="Joanna" width="200"/>
@@ -326,29 +349,6 @@ title: People
 
 
 
-<div>
-<img class="peoplepic" src="/photos/David.png" alt="David Edquilang" width="200"/>
-<h4>David Edquilang</h4>
-<h4>University of Houston</h4>
-<h4>Undergraduate - Industrial Design</h4>
-<h4>2021 REU Program</h4>
-<h4>david.edquilang@gmail.com</h4>
-
-<button class="modal-button" href="#David">About David</button>
-<div id="David" class="modal">
-<div class="modal-content">
-   <div class="modal-header">
-     <span class="close">×</span>
-     <h2>David Edquilang</h2>
-   </div>
-   <div class="modal-body">
-       <img class="content peoplepic" src="/photos/David.png" alt="David Edquilang" width="200"/>
-     <div><p class="content" align = "justify">I am currently a 4th year Industrial Design student at the College of Architecture and Design at the University of Houston. Prior to my industrial design education, I have experience studying in both the engineering and medical fields. I have a multitude of interests and skills, having designed a wide variety of products covering everything from consumer electronics, to furniture, to prosthetic arms, and other medical devices. What drives me is my interest in materials, manufacturing processes, being hands-on, and creating real solutions to solve real problems. I derive a great sense of satisfaction from the process of forming an idea and bringing it into reality.</p></div>
-    </div>
- </div>
- </div>
-</div>
-<br>
 
 
 
