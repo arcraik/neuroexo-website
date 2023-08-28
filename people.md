@@ -74,9 +74,9 @@ title: People
 <h3>Graduate Students</h3>
 <div>
 <img class="peoplepic" src="/photos/ArCraik.jpg" alt="Alexander Craik" width="200"/>
-<h4>Alexander Craik MSEE</h4>
+<h4>Alexander Craik MSEE, PhD</h4>
 
-<h4>Doctoral Candidate, Electrical and Computer Engineering</h4>
+<h4>PhD in Electrical and Computer Engineering</h4>
 <h4>Graduate Research Assistant</h4>
 <h4>arcraik@uh.edu</h4>
 <!-- Trigger/Open The Modal -->
@@ -89,7 +89,7 @@ title: People
  <div class="modal-content">
     <div class="modal-header">
       <span class="close">×</span>
-      <h2>Alexander Craik, Doctoral Candidate</h2>
+      <h2>Alexander Craik, PhD</h2>
     </div>
     <div class="modal-body">
         <img class="content peoplepic" src="/photos/ArCraik.jpg" alt="Alexander Craik" width="200"/>
@@ -111,7 +111,7 @@ title: People
 
 <h4>Doctoral Candidate, Electrical and Computer Engineering</h4>
 <h4>Graduate Research Assistant</h4>
-<h4>jgonz220@central.uh.edu</h4>
+<h4>jgonzalezespana@central.uh.edu</h4>
 <!-- Trigger/Open The Modal -->
 <button class="modal-button" href="#jj">About Juan Jose</button>
 
