@@ -199,7 +199,34 @@ title: People
 </div>
 <br>
 
+<div>
+<img class="peoplepic" src="/photos/Lianne.JPG" alt="Lianne Sánchez Rodríguez" width="200"/>
+<h4>Lianne Sánchez Rodríguez, MS</h4>
+<h4>PhD Student, Electrical and Computer Engineering</h4>
+<h4>Graduate Research Assistant</h4>
+<h4>lsanch46@uh.edu</h4>
+<!-- Trigger/Open The Modal -->
+<button class="modal-button" href="#Lianne">About Lianne</button>
 
+
+<!-- The Modal -->
+<div id="Annel" class="modal">
+
+  <!-- Modal content -->
+ <div class="modal-content">
+    <div class="modal-header">
+      <span class="close">×</span>
+      <h2>Maxine Annel Pacheco Ramírez, BME, PHD Student</h2>
+    </div>
+    <div class="modal-body">
+        <img class="content peoplepic" src="/photos/Annel.JPG" alt="Maxine Annel Pacheco Ramírez" width="200"/>
+      <div><p class="content" align = "justify">Maxine Annel Pacheco Ramírez is presently a Ph.D. student in Electrical and Computer Engineering (ECE) at the University of Houston. She earned her bachelor's degree in Biomedical Engineering in June 2023 from Tec de Monterrey, Campus Monterrey, Mexico. Maxine is currently engaged in research at the Noninvasive Brain-Machine Interface System Laboratory at UH. Her primary areas of interest encompass neuroscience, wearables, medical devices and signal processing.</p></div>
+     </div>
+  </div>
+
+</div>
+</div>
+<br>
 
 
 
