@@ -284,7 +284,7 @@ title: People
    </div>
    <div class="modal-body">
        <img class="content peoplepic" src="/photos/Joanna.jpg" alt="Joanna" width="200"/>
-     <div><p class="content" align = "justify">Joanna De Gasperín is pursuing concurrent a bachelor degree in Biomedical Engineering at Tecnológico de Monterrey in Mexico. For the 2023 Fall, she is joining in the NeuroExo team and has participated as a biomedical engineering intern at Zambrano-Hellion Hospital TecSalud in the cognitive neurosciences area. She is very passionate about engineering and health, her focus is to improve neurological health with the help of technology. In her free time she enjoys painting, listening to music, playing the piano and coaching tennis. </p></div>
+     <div><p class="content" align = "justify">Joanna De Gasperín is pursuing a bachelor degree in Biomedical Engineering at Tecnológico de Monterrey in Mexico. For the 2023 Fall, she is joining in the NeuroExo team and has participated as a biomedical engineering intern at Zambrano-Hellion Hospital TecSalud in the cognitive neurosciences area. She is very passionate about engineering and health, her focus is to improve neurological health with the help of technology. In her free time she enjoys painting, listening to music, playing the piano and coaching tennis. </p></div>
     </div>
  </div>
  </div>
