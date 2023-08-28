@@ -111,7 +111,7 @@ title: People
 
 <h4>Doctoral Candidate, Electrical and Computer Engineering</h4>
 <h4>Graduate Research Assistant</h4>
-<h4>jgonzalezespana@central.uh.edu</h4>
+<h4>jgonzalezespana@uh.edu</h4>
 <!-- Trigger/Open The Modal -->
 <button class="modal-button" href="#jj">About Juan Jose</button>
 
