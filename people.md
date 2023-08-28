@@ -127,7 +127,7 @@ title: People
     </div>
     <div class="modal-body">
         <img class="content peoplepic" src="/photos/jj.jpg" alt="Juan Jose Gonzalez Espana" width="200"/>
-      <div><p class="content" align = "justify">Juan Jose Gonzalez Espana is currently a PhD student in Electrical and Computer Engineering (ECE) at the University of Houston. He previously received his M.S. in ECE, his M.S. in Computer Science and his B.S. in Electronics Engineering. His research involves the design and development of EEG amplifiers for Dry-Electrode sensors. His interests include Brain-Machine Interfaces, signal processing and embedded systems.</p></div>
+      <div><p class="content" align = "justify">Juan Jose Gonzalez Espana is currently a doctoral candidate in Electrical and Computer Engineering (ECE) at the University of Houston. He previously received his M.S. in ECE, his M.S. in Computer Science and his B.S. in Electronics Engineering. His research involves the design and development of EEG amplifiers for Dry-Electrode sensors. His interests include Brain-Machine Interfaces, signal processing and embedded systems.</p></div>
      </div>
   </div>
 
