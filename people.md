@@ -200,13 +200,13 @@ title: People
 <br>
 
 <div>
-<img class="peoplepic" src="/photos/Lianne.JPG" alt="Lianne Sánchez Rodríguez" width="200"/>
-<h4>Lianne Sánchez Rodríguez, MS</h4>
+<img class="peoplepic" src="/photos/Annel.JPG" alt="Maxine Annel Pacheco Ramírez" width="200"/>
+<h4>Maxine Annel Pacheco Ramírez, BME</h4>
 <h4>PhD Student, Electrical and Computer Engineering</h4>
 <h4>Graduate Research Assistant</h4>
-<h4>lsanch46@uh.edu</h4>
+<h4>mpachec4@cougarnet.uh.edu</h4>
 <!-- Trigger/Open The Modal -->
-<button class="modal-button" href="#Lianne">About Lianne</button>
+<button class="modal-button" href="#Lianne">About Annel</button>
 
 
 <!-- The Modal -->
