@@ -206,7 +206,7 @@ title: People
 <h4>Graduate Research Assistant</h4>
 <h4>mpachec4@cougarnet.uh.edu</h4>
 <!-- Trigger/Open The Modal -->
-<button class="modal-button" href="#Lianne">About Annel</button>
+<button class="modal-button" href="#Annel">About Annel</button>
 
 
 <!-- The Modal -->
