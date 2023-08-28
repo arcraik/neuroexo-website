@@ -267,7 +267,29 @@ title: People
 <br>
 
 
+<div>
+<img class="peoplepic" src="/photos/Joanna.jpg" alt="Joanna" width="200"/>
+<h4>Joanna Karina De Gasperín Vázquez</h4>
+<h4>Tecnológico de Monterrey (Mexico)</h4>
+<h4>Undergraduate, Biomedical Engineering</h4>
+<h4>2023 REU Program</h4>
+<h4>degasperinvazquez@hotmail.com</h4>
 
+<button class="modal-button" href="#Joanna">About Joanna</button>
+<div id="Joanna" class="modal">
+<div class="modal-content">
+   <div class="modal-header">
+     <span class="close">×</span>
+     <h2>Joanna Karina De Gasperín Vázquez</h2>
+   </div>
+   <div class="modal-body">
+       <img class="content peoplepic" src="/photos/Joanna.jpg" alt="Joanna" width="200"/>
+     <div><p class="content" align = "justify">Joanna De Gasperín is pursuing concurrent a bachelor degree in Biomedical Engineering at Tecnológico de Monterrey in Mexico. For the 2023 Fall, she is joining in the NeuroExo team and has participated as a biomedical engineering intern at Zambrano-Hellion Hospital TecSalud in the cognitive neurosciences area. She is very passionate about engineering and health, her focus is to improve neurological health with the help of technology. In her free time she enjoys painting, listening to music, playing the piano and coaching tennis. </p></div>
+    </div>
+ </div>
+ </div>
+</div>
+<br>
 
 
 <div>
