@@ -290,6 +290,31 @@ title: People
 </div>
 <br>
 
+
+<div>
+<img class="peoplepic" src="/photos/Alana.jpg" alt="Alana" width="200"/>
+<h4>Alana Maluszczak</h4>
+<h4>University of Arizona</h4>
+<h4>Undergraduate - Biomedical Engineering and Applied Mathematics</h4>
+<h4>2023 REU Program</h4>
+<h4>ammaluszczak@gmail.com</h4>
+
+<button class="modal-button" href="#Alana">About Alana</button>
+<div id="Alana" class="modal">
+<div class="modal-content">
+   <div class="modal-header">
+     <span class="close">×</span>
+     <h2>Alana Maluszczak</h2>
+   </div>
+   <div class="modal-body">
+       <img class="content peoplepic" src="/photos/Alana.jpg" alt="Alana" width="200"/>
+     <div><p class="content" align = "justify">Alana Maluszczak is in her 4th year of her undergraduate degree at the University of Arizona. She is majoring in Biomedical Engineering and Applied Mathematics and has a minor in Electrical and Computer Engineering. She is very interested in neurotechnology, A.I., and mathematical modeling of neural circuits. Alana plans to attain a PhD in neural engineering with a focus in computational neuroscience. She then wants to continue with her research and become a professor, as she enjoys teaching and tutoring. She also enjoys taking dance classes, reading philosophy, and going on runs. </p></div>
+    </div>
+ </div>
+ </div>
+</div>
+<br>
+
 <div>
 <img class="peoplepic" src="/photos/Joanna.jpg" alt="Joanna" width="200"/>
 <h4>Joanna Karina De Gasperín Vázquez</h4>
