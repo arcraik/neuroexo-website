@@ -290,6 +290,39 @@ title: People
 </div>
 <br>
 
+<div>
+<img class="peoplepic" src="/photos/NOEL.jpg" alt="Noel" width="200"/>
+<h4>Jeremie Noel, BE</h4>
+<h4>Master student, electronics and computer science</h4>
+<h4>Intern 2023</h4>
+<h4>noeldoc7@gmail.com</h4>
+<!-- Trigger/Open The Modal -->
+<button class="modal-button" href="#Noel">About Jeremie</button>
+
+
+<!-- The Modal -->
+<div id="Noel" class="modal">
+
+  <!-- Modal content -->
+ <div class="modal-content">
+    <div class="modal-header">
+      <span class="close">×</span>
+      <h2>Jeremie Noel, Master's student</h2>
+    </div>
+    <div class="modal-body">
+        <img class="content peoplepic" src="/photos/NOEL.jpg" alt="Jeremie Noel" width="200"/>
+      <div><p class="content" align = "justify">Jeremie NOEL is in his second year of his Engineering school in France. He should be majoring in Electronics and Computer science in 2024. For the summer 2023, he joined the NeuroExo team. Even though it’s his first experience with research and biomedical, he is really passionate about it and plans to continue into biomedical in the future. He likes to discover new technologies and work on resolving problems in order to help others. In his free time, he enjoys playing video games, reading.</p></div>
+     </div>
+  </div>
+
+</div>
+</div>
+<br>
+
+
+
+
+
 
 <div>
 <img class="peoplepic" src="/photos/Alana.jpg" alt="Alana" width="200"/>
