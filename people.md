@@ -323,7 +323,6 @@ title: People
 
 
 
-
 <div>
 <img class="peoplepic" src="/photos/Alana.jpg" alt="Alana" width="200"/>
 <h4>Alana Maluszczak</h4>
@@ -347,6 +346,31 @@ title: People
  </div>
 </div>
 <br>
+
+<div>
+<img class="peoplepic" src="/photos/Jacob.jpg" alt="Jacob" width="200"/>
+<h4>Jacob Mendez</h4>
+<h4>University of Central Florida </h4>
+<h4>Undergraduate - Mechanical Engineering</h4>
+<h4>2023 REU Program</h4>
+<h4>jacobmendez091@gmail.com</h4>
+
+<button class="modal-button" href="#Jacob">About Jacob</button>
+<div id="Jacob" class="modal">
+<div class="modal-content">
+   <div class="modal-header">
+     <span class="close">×</span>
+     <h2>Jacob Mendez</h2>
+   </div>
+   <div class="modal-body">
+       <img class="content peoplepic" src="/photos/Jacob.jpg" alt="Jacob" width="200"/>
+     <div><p class="content" align = "justify">Jacob Jose Mendez Araque is pursuing a bachelor degree in Mechanical Engineering at the University of Central Florida. He is very passionate about engineering and Robotics. Jacob plans to pursue a masters after his undergraduate, he hopes to pursue this degree in France. In his free time he enjoys exercising, practicing French, and playing a variety of sports. </p></div>
+    </div>
+ </div>
+ </div>
+</div>
+<br>
+
 
 <div>
 <img class="peoplepic" src="/photos/Joanna.jpg" alt="Joanna" width="200"/>
