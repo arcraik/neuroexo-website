@@ -236,7 +236,7 @@ title: People
 
 
 
-<h3>REU Students</h3>
+<h3>Workforce Development</h3>
 
 
 
