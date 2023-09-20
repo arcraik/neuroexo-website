@@ -73,6 +73,7 @@ title: People
 
 
 
+<h3>Research Assistants</h3>
 
 <div>
 <img class="peoplepic" src="/photos/jj.jpg" alt="Juan Jose Gonzalez Espana" width="200"/>
@@ -896,7 +897,6 @@ University of Texas Health Science Center at Houston (UTHealth)</h4>
 
 <h2>Past Collaborators</h2>
 
-<h3>Graduate Students</h3>
 <div>
 <img class="peoplepic" src="/photos/ArCraik.jpg" alt="Alexander Craik" width="200"/>
 <h4>Alexander Craik MSEE, PhD</h4>
