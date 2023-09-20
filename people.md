@@ -71,37 +71,6 @@ title: People
 
 
 
-<h3>Graduate Students</h3>
-<div>
-<img class="peoplepic" src="/photos/ArCraik.jpg" alt="Alexander Craik" width="200"/>
-<h4>Alexander Craik MSEE, PhD</h4>
-
-<h4>PhD in Electrical and Computer Engineering</h4>
-<h4>Graduate Research Assistant</h4>
-<h4>arcraik@uh.edu</h4>
-<!-- Trigger/Open The Modal -->
-<button class="modal-button" href="#arcraik">About Alex</button>
-
-<!-- The Modal -->
-<div id="arcraik" class="modal">
-
-  <!-- Modal content -->
- <div class="modal-content">
-    <div class="modal-header">
-      <span class="close">×</span>
-      <h2>Alexander Craik, PhD</h2>
-    </div>
-    <div class="modal-body">
-        <img class="content peoplepic" src="/photos/ArCraik.jpg" alt="Alexander Craik" width="200"/>
-      <div><p class="content" align = "justify">Alexander Craik is currently a doctoral candidate in Electrical and Computer Engineering (ECE) at the University of Houston. He previously received his M.S. in ECE, his B.S. in Aerospace Engineering, and his B.A. in Economics. His research involves systems engineering for a custom Brain Computer Interface-enabled stroke rehabilitation device (the NeuroExo) and the use of deep neural networks for decoding neural correlates related to speech and motor intent with EEG. His interests include neuroscience, chess, and speech synthesis.</p></div>
-     </div>
-  </div>
-
-</div>
-</div>
-<br>
-
-
 
 
 
@@ -927,6 +896,35 @@ University of Texas Health Science Center at Houston (UTHealth)</h4>
 
 <h2>Past Collaborators</h2>
 
+<h3>Graduate Students</h3>
+<div>
+<img class="peoplepic" src="/photos/ArCraik.jpg" alt="Alexander Craik" width="200"/>
+<h4>Alexander Craik MSEE, PhD</h4>
+
+<h4>PhD in Electrical and Computer Engineering</h4>
+<h4>Graduate Research Assistant</h4>
+<h4>arcraik@uh.edu</h4>
+<!-- Trigger/Open The Modal -->
+<button class="modal-button" href="#arcraik">About Alex</button>
+
+<!-- The Modal -->
+<div id="arcraik" class="modal">
+
+  <!-- Modal content -->
+ <div class="modal-content">
+    <div class="modal-header">
+      <span class="close">×</span>
+      <h2>Alexander Craik, PhD</h2>
+    </div>
+    <div class="modal-body">
+        <img class="content peoplepic" src="/photos/ArCraik.jpg" alt="Alexander Craik" width="200"/>
+      <div><p class="content" align = "justify">Alexander Craik is currently a doctoral candidate in Electrical and Computer Engineering (ECE) at the University of Houston. He previously received his M.S. in ECE, his B.S. in Aerospace Engineering, and his B.A. in Economics. His research involves systems engineering for a custom Brain Computer Interface-enabled stroke rehabilitation device (the NeuroExo) and the use of deep neural networks for decoding neural correlates related to speech and motor intent with EEG. His interests include neuroscience, chess, and speech synthesis.</p></div>
+     </div>
+  </div>
+
+</div>
+</div>
+<br>
   
   <div>
 <img class="peoplepic" src="/photos/Brian-Square.png" alt="Brian Shedd" width="200"/>
