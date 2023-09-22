@@ -7,4 +7,4 @@ title: NSF SPRINT supplemental funding
 
 This award will allow the team to move toward technology commercialization and the creation of startups. </p>
 
-<div style="text-align:center"><img src="/photos/NeuroExo_team.png" width="600" /></div>
+
