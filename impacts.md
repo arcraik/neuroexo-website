@@ -19,7 +19,7 @@ permalink: /impacts/
 <hr>
 <figure class="section">
 <img style = "width: 80%;" src="/photos/Jose_Alex_IRL.jpg" alt="Engineers-in-Real-Life" />
-<figcaption>2023 Engineers-in-Real-Life</figcaption>
+<figcaption>PFI graduate Students Jose Gonzalez-Espana and Alex Craik (in red shirts) demonstrating the BCI headset at the Engineers in Real Life STEM Outreach Event.</figcaption>
 </figure>
 <h3>2021 Summer Internships</h3>
 <p align="justify"> On February 25, 2023, our team conducted a K-12 STEM outreach at the Engineers-in-Real-Life event in the Houston/Galveston Area at the Clear Lake High School.</p>
