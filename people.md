@@ -198,7 +198,34 @@ title: People
 </div>
 <br>
 
+<div>
+<img class="peoplepic" src="/photos/Danny.jpg" alt="Danny Blacker" width="200"/>
+<h4>Danny Blacker</h4>
+<h4>Industrial Design</h4>
+<h4>Undergraduate research assistant</h4>
+<h4>dcblacke@CougarNet.uh.edu</h4>
+<!-- Trigger/Open The Modal -->
+<button class="modal-button" href="#Danny">About Danny</button>
 
+
+<!-- The Modal -->
+<div id="Danny" class="modal">
+
+  <!-- Modal content -->
+ <div class="modal-content">
+    <div class="modal-header">
+      <span class="close">×</span>
+      <h2>Danny Blacker</h2>
+    </div>
+    <div class="modal-body">
+        <img class="content peoplepic" src="/photos/Danny.jpg" alt="Danny Blacker" width="200"/>
+      <div><p class="content" align = "justify">Danny is an engineering design supervisor at the Oshman Engineering Design Kitchen since 2016. He specializes in creative solutions to real world problems. A ‘maker’ in every sense of the word. He stay up-to-date with the latest in safety and equipment, and is excited about his role in bringing ethical and accessible, simple and intuitive medical devices to the end user.</p></div>
+     </div>
+  </div>
+
+</div>
+</div>
+<br>
 
 
 
@@ -263,6 +290,7 @@ title: People
 <div>
 <img class="peoplepic" src="/photos/NOEL.jpg" alt="Noel" width="200"/>
 <h4>Jeremie Noel, BE</h4>
+<h4>Engineering Graduate School, University of Nantes, France</h4>
 <h4>Master student, electronics and computer science</h4>
 <h4>Intern 2023</h4>
 <h4>noeldoc7@gmail.com</h4>
