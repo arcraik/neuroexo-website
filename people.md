@@ -161,7 +161,7 @@ title: People
     </div>
     <div class="modal-body">
         <img class="content peoplepic" src="/photos/Lianne.JPG" alt="Lianne Sánchez Rodríguez" width="200"/>
-      <div><p class="content" align = "justify">Lianne Sánchez Rodríguez is currently an admitted Ph.D. student in the Electrical and Computer Engineering (ECE) department at the University of Houston. She previously received her M.S. in Applied Biomedical Engineering from Johns Hopkins University and her B.S. in Computer Engineering from the University of Puerto Rico at Mayagüez. Her interests include Brain-Computer Interfaces, computational neuroscience, connectomics, machine learning, wearables, and, more broadly, medical devices. She also works for Biosense Webster, Inc., a Johnson & Johnson medical device company, as a full-time employee.</p></div>
+      <div><p class="content" align = "justify">Lianne Sánchez Rodríguez is currently a Ph.D. student in the Electrical and Computer Engineering (ECE) department at the University of Houston. She previously received her M.S. in Applied Biomedical Engineering from Johns Hopkins University and her B.S. in Computer Engineering from the University of Puerto Rico at Mayagüez. Her interests include Brain-Computer Interfaces, computational neuroscience, connectomics, machine learning, wearables, and, more broadly, medical devices. She also works for Biosense Webster, Inc., a Johnson & Johnson medical device company, as a full-time employee.</p></div>
      </div>
   </div>
 
