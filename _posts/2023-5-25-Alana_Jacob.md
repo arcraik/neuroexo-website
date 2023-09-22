@@ -7,7 +7,3 @@ title: REU students join the PFI NeuroExo team!
 
 <div style="text-align:left"><img src="/photos/Alana.jpg" width="400" /></div>
 <div style="text-align:right"><img src="/photos/Jacob.jpg" width="400" /></div>
-
-Jacob.jpg
-
-/photos/Alana.jpg
