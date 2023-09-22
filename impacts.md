@@ -14,6 +14,19 @@ permalink: /impacts/
     </style>
   </head>
 
+<br>
+<div class="section" >
+<hr>
+<figure class="section">
+<img style = "width: 80%;" src="/photos/Jose_Alex_IRL.png" alt="Engineers-in-Real-Life" />
+<figcaption>2023 Engineers-in-Real-Life</figcaption>
+</figure>
+<h3>2021 Summer Internships</h3>
+<p align="justify"> On February 25, 2023, our team conducted a K-12 STEM outreach at the Engineers-in-Real-Life event in the Houston/Galveston Area at the Clear Lake High School.</p>
+<br>
+</div>
+
+
 
 <br>
 <div class="section" >
