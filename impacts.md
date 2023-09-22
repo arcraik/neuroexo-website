@@ -19,6 +19,7 @@ permalink: /impacts/
 <hr>
 <figure class="section">
 <img style = "width: 80%;" src="/photos/Jacob_Alana_Jeremie.jpg" alt="2023 Summer Internships" />
+<figcaption>Jacob Mendez, Alana Maluszczak and Jeremie Noel.</figcaption>
 </figure>
 <h3>2023 Summer Internships</h3>
 <p align="justify"> During the summer of 2023, we reopened our lab at the University of Houston for in-person research internships. This includes two students from the Research Experiences for Undergraduates program (Alana Maluszczak from the University of Arizona, Jacob Mendez from the University of Central Florida, and Jeremie Noel from the University of Nantes, France ). The summer 2023 was especially busy and exciting for the NeuroExo project, so we were very happy to have their support.</p>
