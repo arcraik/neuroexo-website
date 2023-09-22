@@ -18,11 +18,11 @@ permalink: /impacts/
 <div class="section" >
 <hr>
 <figure class="section">
-<img style = "width: 80%;" src="/photos/Jose_Alex_IRL.jpg" alt="Engineers-in-Real-Life" />
+<img style = "width: 80%;" src="/photos/Jacob_Alana_Jeremie.jpg" alt="2023 Summer Internships" />
 <figcaption>PFI graduate Students Jose Gonzalez-Espana and Alex Craik (in red shirts) demonstrating the BCI headset at the Engineers in Real Life STEM Outreach Event.</figcaption>
 </figure>
-<h3>2021 Summer Internships</h3>
-<p align="justify"> On February 25, 2023, our team conducted a K-12 STEM outreach at the Engineers-in-Real-Life event in the Houston/Galveston Area at the Clear Lake High School.</p>
+<h3>2023 Summer Internships</h3>
+<p align="justify"> During the summer of 2023, we reopened our lab at the University of Houston for in-person research internships. This includes two students from the Research Experiences for Undergraduates program (Alana Maluszczak from the University of Arizona, Jacob Mendez from the University of Central Florida, and Jeremie Noel from the University of Nantes, France ). The summer 2023 was especially busy and exciting for the NeuroExo project, so we were very happy to have their support.</p>
 <br>
 </div>
 
@@ -30,11 +30,11 @@ permalink: /impacts/
 <div class="section" >
 <hr>
 <figure class="section">
-<img style = "width: 80%;" src="/photos/Jacob_Alana_Jeremie.jpg" alt="2023 Summer Internships" />
+<img style = "width: 80%;" src="/photos/Jose_Alex_IRL.jpg" alt="Engineers-in-Real-Life" />
 <figcaption>PFI graduate Students Jose Gonzalez-Espana and Alex Craik (in red shirts) demonstrating the BCI headset at the Engineers in Real Life STEM Outreach Event.</figcaption>
 </figure>
-<h3>2021 Summer Internships</h3>
-<p align="justify"> During the summer of 2023, we reopened our lab at the University of Houston for in-person research internships. This includes two students from the Research Experiences for Undergraduates program (Alana Maluszczak from the University of Arizona, Jacob Mendez from the University of Central Florida, and Jeremie Noel from the University of Nantes, France ). The summer 2023 was especially busy and exciting for the NeuroExo project, so we were very happy to have their support.</p>
+<h3>Engineers-in-Real-Life</h3>
+<p align="justify"> On February 25, 2023, our team conducted a K-12 STEM outreach at the Engineers-in-Real-Life event in the Houston/Galveston Area at the Clear Lake High School.</p>
 <br>
 </div>
 
