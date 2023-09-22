@@ -18,7 +18,7 @@ permalink: /impacts/
 <div class="section" >
 <hr>
 <figure class="section">
-<img style = "width: 80%;" src="/photos/Jose_Alex_IRL.png" alt="Engineers-in-Real-Life" />
+<img style = "width: 80%;" src="/photos/Jose_Alex_IRL.jpg" alt="Engineers-in-Real-Life" />
 <figcaption>2023 Engineers-in-Real-Life</figcaption>
 </figure>
 <h3>2021 Summer Internships</h3>
