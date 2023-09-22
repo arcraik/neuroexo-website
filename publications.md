@@ -2,6 +2,13 @@
 layout: page
 title: Publications
 ---
+<h2>2023</h2>
+<hr>
+<br>
+<ul>
+  <li><a href="NeuroExo_Sensors.pdf" target="_blank">Design and Validation of a Low-Cost Mobile EEG-Based Brain–Computer Interface</a></li>
+  <li><a href="https://www.mdpi.com/1424-8220/23/13/5930" target="_blank"> Craik, A.; González-España, J.J.; Alamir, A.; Edquilang, D.; Wong, S.; Sánchez Rodríguez, L.; Feng, J.; Francisco, G.E.; Contreras-Vidal, J.L. Design and Validation of a Low-Cost Mobile EEG-Based Brain–Computer Interface. Sensors 2023, 23, 5930. https://doi.org/10.3390/s23135930.</a></li>
+
 <h2>2019</h2>
 <hr>
 <br>
