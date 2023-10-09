@@ -199,7 +199,7 @@ title: People
 <br>
 
 <div>
-<img class="peoplepic" src="/photos/Danny.jpg" alt="Danny Blacker" width="200"/>
+<img class="peoplepic" src="/photos/Danny.JPG" alt="Danny Blacker" width="200"/>
 <h4>Danny Blacker</h4>
 <h4>Industrial Design</h4>
 <h4>Undergraduate research assistant</h4>
