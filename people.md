@@ -218,7 +218,7 @@ title: People
       <h2>Danny Blacker</h2>
     </div>
     <div class="modal-body">
-        <img class="content peoplepic" src="/photos/Danny.jpg" alt="Danny Blacker" width="200"/>
+        <img class="content peoplepic" src="/photos/Danny.JPG" alt="Danny Blacker" width="200"/>
       <div><p class="content" align = "justify">Danny is an engineering design supervisor at the Oshman Engineering Design Kitchen since 2016. He specializes in creative solutions to real world problems. A ‘maker’ in every sense of the word. He stay up-to-date with the latest in safety and equipment, and is excited about his role in bringing ethical and accessible, simple and intuitive medical devices to the end user.</p></div>
      </div>
   </div>
