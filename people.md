@@ -68,77 +68,7 @@ title: People
 </div>
 <br>
 
-
-
-
-
-
 <h3>Research Assistants</h3>
-
-<div>
-<img class="peoplepic" src="/photos/jj.jpg" alt="Juan Jose Gonzalez Espana" width="200"/>
-<h4>Juan Jose Gonzalez Espana, MSEE</h4>
-
-<h4>Doctoral Candidate, Electrical and Computer Engineering</h4>
-<h4>Graduate Research Assistant</h4>
-<h4>jgonzalezespana@uh.edu</h4>
-<!-- Trigger/Open The Modal -->
-<button class="modal-button" href="#jj">About Juan Jose</button>
-
-
-<!-- The Modal -->
-<div id="jj" class="modal">
-
-  <!-- Modal content -->
- <div class="modal-content">
-    <div class="modal-header">
-      <span class="close">×</span>
-      <h2>Juan Jose Gonzalez Espana, Doctoral Candidate</h2>
-    </div>
-    <div class="modal-body">
-        <img class="content peoplepic" src="/photos/jj.jpg" alt="Juan Jose Gonzalez Espana" width="200"/>
-      <div><p class="content" align = "justify">Juan Jose Gonzalez Espana is currently a doctoral candidate in Electrical and Computer Engineering (ECE) at the University of Houston. He previously received his M.S. in ECE, his M.S. in Computer Science and his B.S. in Electronics Engineering. His research involves the design and development of EEG amplifiers for Dry-Electrode sensors. His interests include Brain-Machine Interfaces, signal processing and embedded systems.</p></div>
-     </div>
-  </div>
-
-</div>
-</div>
-<br>
-
-
-
-
-<div>
-<img class="peoplepic" src="/photos/Ayman.jpg" alt="Ayman Alamir" width="200"/>
-<h4>Ayman Alamir, MS</h4>
-<h4>PhD Student, Biomedical Engineering</h4>
-<h4>Graduate Research Assistant</h4>
-<h4>asalamir@uh.edu</h4>
-<!-- Trigger/Open The Modal -->
-<button class="modal-button" href="#ayman">About Ayman</button>
-
-
-<!-- The Modal -->
-<div id="ayman" class="modal">
-
-  <!-- Modal content -->
- <div class="modal-content">
-    <div class="modal-header">
-      <span class="close">×</span>
-      <h2>Ayman Alamir, PHD Student</h2>
-    </div>
-    <div class="modal-body">
-        <img class="content peoplepic" src="/photos/Ayman.jpg" alt="Ayman Alamir" width="200"/>
-      <div><p class="content" align = "justify">Ayman Alamir is a PhD student in Biomedical Engineering at the University of Houston. He has a BS in Electrical Engineering and a MS in Biomedical Engineering. He is interested in brain-machine interfaces and neural engineering.</p></div>
-     </div>
-  </div>
-
-</div>
-</div>
-<br>
-
-
-
 
 <div>
 <img class="peoplepic" src="/photos/Lianne.JPG" alt="Lianne Sánchez Rodríguez" width="200"/>
@@ -197,41 +127,6 @@ title: People
 </div>
 </div>
 <br>
-
-<div>
-<img class="peoplepic" src="/photos/Danny.JPG" alt="Danny Blacker" width="200"/>
-<h4>Danny Blacker</h4>
-<h4>Industrial Design</h4>
-<h4>Undergraduate research assistant</h4>
-<h4>dcblacke@CougarNet.uh.edu</h4>
-<!-- Trigger/Open The Modal -->
-<button class="modal-button" href="#Danny">About Danny</button>
-
-
-<!-- The Modal -->
-<div id="Danny" class="modal">
-
-  <!-- Modal content -->
- <div class="modal-content">
-    <div class="modal-header">
-      <span class="close">×</span>
-      <h2>Danny Blacker</h2>
-    </div>
-    <div class="modal-body">
-        <img class="content peoplepic" src="/photos/Danny.JPG" alt="Danny Blacker" width="200"/>
-      <div><p class="content" align = "justify">Danny is an engineering design supervisor at the Oshman Engineering Design Kitchen since 2016. He specializes in creative solutions to real world problems. A ‘maker’ in every sense of the word. He stay up-to-date with the latest in safety and equipment, and is excited about his role in bringing ethical and accessible, simple and intuitive medical devices to the end user.</p></div>
-     </div>
-  </div>
-
-</div>
-</div>
-<br>
-
-
-
-
-
-
 
 <h3>Workforce Development</h3>
 
@@ -807,8 +702,143 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
 
 
 
+<h3>High School Teacher Interns</h3>
+
+<div>
+<img class="peoplepic" src="/photos/Diana.jpg" alt="Diana Rodriguez-Perez width="200"/>
+<h4>Diana Rodriguez-Perez</h4>
+<h4>St. Agnes Academy</h4>
+<h4>2024 Research Experience and Mentoring (REM) Teacher</h4>
+<h4>dianarodriguez.croem@gmail.com</h4>
+<!-- Trigger/Open The Modal -->
+<button class="modal-button" href="#Diana">About Diana</button>
+
+<!-- The Modal -->
+<div id="Diana" class="modal">
+
+  <!-- Modal content -->
+ <div class="modal-content">
+    <div class="modal-header">
+      <span class="close">×</span>
+      <h2>Diana, REM Teacher Intern</h2>
+    </div>
+    <div class="modal-body">
+        <img class="content peoplepic" src="/photos/Diana.jpg" alt="Diana Rodriguez-Perez" width="200"/>
+      <div><p class="content" align = "justify">Diana Rodríguez-Pérez, a passionate science teacher with 20 years of experience, ignites curiosity in students at CROEM School, a Puerto Rican boarding school specializing in science and math. Her background in chemistry, neuroscience, and research fuels engaging courses. "NeuroMagic," her brain-exploring community outreach program with games and challenges, exemplifies her passion for making science fun and accessible. Outside the classroom, Diana enjoys music, playing the flute, beach days, and movie nights.
+</p></div>
+     </div>
+  </div>
+</div>
+</div>
+<br>
+
+
+<h3>Senior Design Students</h3>
+
+<div>
+<img class="peoplepic" src="/photos/Ajibola.jpg" alt="Ajibola Afolabi width="200"/>
+<h4>Ajibola Afolabi</h4>
+<h4>University of Houston</h4>
+<h4>Senior Design Student 2023</h4>
+<h4>afafolab@cougarnet.uh.edu</h4>
+</div>
+<br>
+
+<div>
+<img class="peoplepic" src="/photos/no_image.jpg" alt="Zach A. Harris width="200"/>
+<h4>Zach A. Harris</h4>
+<h4>University of Houston</h4>
+<h4>Senior Design Student 2023</h4>
+<h4>zaharri2@cougarnet.uh.edu</h4>
+</div>
+<br>
+
+<div>
+<img class="peoplepic" src="/photos/no_image.jpg" alt="Nam T. Nguyen width="200"/>
+<h4>Nam T. Nguyen</h4>
+<h4>University of Houston</h4>
+<h4>Senior Design Student 2023</h4>
+<h4>afafolab@cougarnet.uh.edu</h4>
+</div>
+<br>
+
+<div>
+<img class="peoplepic" src="/photos/no_image.jpg" alt="Jorge Gonzalez width="200"/>
+<h4>Jorge Gonzalez</h4>
+<h4>University of Houston</h4>
+<h4>Senior Design Student 2022-2023</h4>
+<h4>jdgonz24@cougarnet.uh.edu</h4>
+</div>
+<br>
+
+<div>
+<img class="peoplepic" src="/photos/Laura.jpg" alt="Laura Guzman width="200"/>
+<h4>Laura Guzman</h4>
+<h4>University of Houston</h4>
+<h4>Senior Design Student 2022-2023</h4>
+<h4>lyguzman@cougarnet.uh.edu</h4>
+</div>
+<br>
+
+<div>
+<img class="peoplepic" src="/photos/no_image.jpg" alt="Urhum Syed width="200"/>
+<h4>Urhum Syed</h4>
+<h4>University of Houston</h4>
+<h4>Senior Design Student 2022-2023</h4>
+<h4>usyed@cougarnet.uh.edu</h4>
+</div>
+<br>
+
+<div>
+<img class="peoplepic" src="/photos/Marcoantonio.jpg" alt="Marcoantonio Lopez width="200"/>
+<h4>Marcoantonio Lopez</h4>
+<h4>University of Houston</h4>
+<h4>Senior Design Student 2022-2023</h4>
+<h4>mlopez59@cougarnet.uh.edu</h4>
+</div>
+<br>
+
+<div>
+<img class="peoplepic" src="/photos/Thinh.jpg" alt="Thinh Phan width="200"/>
+<h4>Thinh Phan</h4>
+<h4>University of Houston</h4>
+<h4>Senior Design Student 2022-2023</h4>
+<h4>xphan@cougarnet.uh.edu</h4>
+</div>
+<br>
 
 <h3>High School Interns</h3>
+
+
+
+<div>
+<img class="peoplepic" src="/photos/Morgan.jpg" alt="Morgan Feng width="200"/>
+<h4>Morgan Feng</h4>
+<h4>St. Agnes Academy</h4>
+<h4>2024 Research Experience and Mentoring (REM) High School Intern</h4>
+<h4>myfeng@central.uh.edu</h4>
+<!-- Trigger/Open The Modal -->
+<button class="modal-button" href="#Morgan">About Morgan</button>
+
+<!-- The Modal -->
+<div id="Morgan" class="modal">
+
+  <!-- Modal content -->
+ <div class="modal-content">
+    <div class="modal-header">
+      <span class="close">×</span>
+      <h2>Morgan Feng, REM High School Intern</h2>
+    </div>
+    <div class="modal-body">
+        <img class="content peoplepic" src="/photos/Morgan.jpg" alt="Morgan Feng" width="200"/>
+      <div><p class="content" align = "justify">Morgan Feng is a rising junior at St. Agnes Academy. Her passions lie within the STEM field, specifically aiming toward medicine and neuroscience, which led her to seek this opportunity to learn more about neurotechnology involving BMI. She hopes to further grow her knowledge and experience at the IUCRC BRAIN Center and is excited to research topics she's interested in. Outside of her studies, Morgan loves painting and swimming.
+</p></div>
+     </div>
+  </div>
+</div>
+</div>
+<br>
+
 
 <div>
 <img class="peoplepic" src="/photos/Chloe.jpg" alt="Chloe Beaudreau" width="200"/>
@@ -923,6 +953,10 @@ University of Texas Health Science Center at Houston (UTHealth)</h4>
 
 
 
+
+
+
+
 <h2>Past Collaborators</h2>
 
 <div>
@@ -953,6 +987,99 @@ University of Texas Health Science Center at Houston (UTHealth)</h4>
 </div>
 </div>
 <br>
+
+
+<div>
+<img class="peoplepic" src="/photos/jj.jpg" alt="Juan Jose Gonzalez Espana" width="200"/>
+<h4>Juan Jose Gonzalez Espana MSEE, PhD</h4>
+
+<h4>Doctoral Candidate, Electrical and Computer Engineering</h4>
+<h4>Graduate Research Assistant</h4>
+<h4>jgonzalezespana@uh.edu</h4>
+<!-- Trigger/Open The Modal -->
+<button class="modal-button" href="#jj">About Juan Jose</button>
+
+
+<!-- The Modal -->
+<div id="jj" class="modal">
+
+  <!-- Modal content -->
+ <div class="modal-content">
+    <div class="modal-header">
+      <span class="close">×</span>
+      <h2>Juan Jose Gonzalez Espana, Doctoral Candidate</h2>
+    </div>
+    <div class="modal-body">
+        <img class="content peoplepic" src="/photos/jj.jpg" alt="Juan Jose Gonzalez Espana" width="200"/>
+      <div><p class="content" align = "justify">Juan Jose Gonzalez Espana is currently a doctoral candidate in Electrical and Computer Engineering (ECE) at the University of Houston. He previously received his M.S. in ECE, his M.S. in Computer Science and his B.S. in Electronics Engineering. His research involves the design and development of EEG amplifiers for Dry-Electrode sensors. His interests include Brain-Machine Interfaces, signal processing and embedded systems.</p></div>
+     </div>
+  </div>
+
+</div>
+</div>
+<br>
+
+
+
+
+<div>
+<img class="peoplepic" src="/photos/Ayman.jpg" alt="Ayman Alamir" width="200"/>
+<h4>Ayman Alamir MS, PhD</h4>
+<h4>PhD Student, Biomedical Engineering</h4>
+<h4>Graduate Research Assistant</h4>
+<h4>asalamir@uh.edu</h4>
+<!-- Trigger/Open The Modal -->
+<button class="modal-button" href="#ayman">About Ayman</button>
+
+
+<!-- The Modal -->
+<div id="ayman" class="modal">
+
+  <!-- Modal content -->
+ <div class="modal-content">
+    <div class="modal-header">
+      <span class="close">×</span>
+      <h2>Ayman Alamir, PHD Student</h2>
+    </div>
+    <div class="modal-body">
+        <img class="content peoplepic" src="/photos/Ayman.jpg" alt="Ayman Alamir" width="200"/>
+      <div><p class="content" align = "justify">Ayman Alamir is a PhD student in Biomedical Engineering at the University of Houston. He has a BS in Electrical Engineering and a MS in Biomedical Engineering. He is interested in brain-machine interfaces and neural engineering.</p></div>
+     </div>
+  </div>
+
+</div>
+</div>
+<br>
+
+<div>
+<img class="peoplepic" src="/photos/Danny.JPG" alt="Danny Blacker" width="200"/>
+<h4>Danny Blacker</h4>
+<h4>Industrial Design</h4>
+<h4>Undergraduate research assistant</h4>
+<h4>dcblacke@CougarNet.uh.edu</h4>
+<!-- Trigger/Open The Modal -->
+<button class="modal-button" href="#Danny">About Danny</button>
+
+
+<!-- The Modal -->
+<div id="Danny" class="modal">
+
+  <!-- Modal content -->
+ <div class="modal-content">
+    <div class="modal-header">
+      <span class="close">×</span>
+      <h2>Danny Blacker</h2>
+    </div>
+    <div class="modal-body">
+        <img class="content peoplepic" src="/photos/Danny.JPG" alt="Danny Blacker" width="200"/>
+      <div><p class="content" align = "justify">Danny is an engineering design supervisor at the Oshman Engineering Design Kitchen since 2016. He specializes in creative solutions to real world problems. A ‘maker’ in every sense of the word. He stay up-to-date with the latest in safety and equipment, and is excited about his role in bringing ethical and accessible, simple and intuitive medical devices to the end user.</p></div>
+     </div>
+  </div>
+
+</div>
+</div>
+<br>
+
   
   <div>
 <img class="peoplepic" src="/photos/Brian-Square.png" alt="Brian Shedd" width="200"/>
