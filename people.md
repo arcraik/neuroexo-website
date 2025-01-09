@@ -1012,7 +1012,7 @@ University of Texas Health Science Center at Houston (UTHealth)</h4>
     </div>
     <div class="modal-body">
         <img class="content peoplepic" src="/photos/jj.jpg" alt="Juan Jose Gonzalez Espana" width="200"/>
-      <div><p class="content" align = "justify">Juan Jose Gonzalez Espana is currently a doctoral candidate in Electrical and Computer Engineering (ECE) at the University of Houston. He previously received his M.S. in ECE, his M.S. in Computer Science and his B.S. in Electronics Engineering. His research involves the design and development of EEG amplifiers for Dry-Electrode sensors. His interests include Brain-Machine Interfaces, signal processing and embedded systems.</p></div>
+      <div><p class="content" align = "justify">Juan Jose Gonzalez Espana graduated with a PhD in Electrical Engineering from the University of Houston. He previously received his M.S. in ECE, his M.S. in Computer Science and his B.S. in Electronics Engineering. His research involves the design and development of EEG amplifiers for Dry-Electrode sensors. His interests include IoT, Wearables, Embedded Systems, Hardware Design, and Machine Learning.</p></div>
      </div>
   </div>
 
@@ -1026,7 +1026,7 @@ University of Texas Health Science Center at Houston (UTHealth)</h4>
 <div>
 <img class="peoplepic" src="/photos/Ayman.jpg" alt="Ayman Alamir" width="200"/>
 <h4>Ayman Alamir MS, PhD</h4>
-<h4>PhD Student, Biomedical Engineering</h4>
+<h4>PhD in Biomedical Engineering</h4>
 <h4>Graduate Research Assistant</h4>
 <h4>asalamir@uh.edu</h4>
 <!-- Trigger/Open The Modal -->
@@ -1040,11 +1040,11 @@ University of Texas Health Science Center at Houston (UTHealth)</h4>
  <div class="modal-content">
     <div class="modal-header">
       <span class="close">×</span>
-      <h2>Ayman Alamir, PHD Student</h2>
+      <h2>Ayman Alamir, PHD </h2>
     </div>
     <div class="modal-body">
         <img class="content peoplepic" src="/photos/Ayman.jpg" alt="Ayman Alamir" width="200"/>
-      <div><p class="content" align = "justify">Ayman Alamir is a PhD student in Biomedical Engineering at the University of Houston. He has a BS in Electrical Engineering and a MS in Biomedical Engineering. He is interested in brain-machine interfaces and neural engineering.</p></div>
+      <div><p class="content" align = "justify">Ayman Alamir is a PhD in Biomedical Engineering at the University of Houston. He has a BS in Electrical Engineering and a MS in Biomedical Engineering. He is interested in brain-machine interfaces and neural engineering.</p></div>
      </div>
   </div>
 
