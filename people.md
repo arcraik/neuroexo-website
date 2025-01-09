@@ -1008,7 +1008,7 @@ University of Texas Health Science Center at Houston (UTHealth)</h4>
  <div class="modal-content">
     <div class="modal-header">
       <span class="close">×</span>
-      <h2>Juan Jose Gonzalez Espana, Doctoral Candidate</h2>
+      <h2>Juan Jose Gonzalez Espana, PhD</h2>
     </div>
     <div class="modal-body">
         <img class="content peoplepic" src="/photos/jj.jpg" alt="Juan Jose Gonzalez Espana" width="200"/>
