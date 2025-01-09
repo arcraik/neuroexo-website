@@ -994,7 +994,7 @@ University of Texas Health Science Center at Houston (UTHealth)</h4>
 <img class="peoplepic" src="/photos/jj.jpg" alt="Juan Jose Gonzalez Espana" width="200"/>
 <h4>Juan Jose Gonzalez Espana MSEE, PhD</h4>
 
-<h4>Doctoral Candidate, Electrical and Computer Engineering</h4>
+<h4>PhD in Electrical Engineering</h4>
 <h4>Graduate Research Assistant</h4>
 <h4>jgonzalezespana@uh.edu</h4>
 <!-- Trigger/Open The Modal -->
