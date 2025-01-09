@@ -705,9 +705,9 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
 <h3>High School Teacher Interns</h3>
 
 <div>
-<img class="peoplepic" src="/photos/Diana.jpg" alt="Diana Rodriguez-Perez width="200"/>
+<img class="peoplepic" src="/photos/Diana.jpg" alt="Diana Rodriguez-Perez" width="200"/>
 <h4>Diana Rodriguez-Perez</h4>
-<h4>St. Agnes Academy</h4>
+<h4>CROEM</h4>
 <h4>2024 Research Experience and Mentoring (REM) Teacher</h4>
 <h4>dianarodriguez.croem@gmail.com</h4>
 <!-- Trigger/Open The Modal -->
@@ -736,7 +736,7 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
 <h3>Senior Design Students</h3>
 
 <div>
-<img class="peoplepic" src="/photos/Ajibola.jpg" alt="Ajibola Afolabi width="200"/>
+<img class="peoplepic" src="/photos/Ajibola.jpg" alt="Ajibola Afolabi" width="200"/>
 <h4>Ajibola Afolabi</h4>
 <h4>University of Houston</h4>
 <h4>Senior Design Student 2023</h4>
@@ -745,7 +745,7 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
 <br>
 
 <div>
-<img class="peoplepic" src="/photos/no_image.jpg" alt="Zach A. Harris width="200"/>
+<img class="peoplepic" src="/photos/no_image.jpg" alt="Zach A. Harris" width="200"/>
 <h4>Zach A. Harris</h4>
 <h4>University of Houston</h4>
 <h4>Senior Design Student 2023</h4>
@@ -754,7 +754,7 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
 <br>
 
 <div>
-<img class="peoplepic" src="/photos/no_image.jpg" alt="Nam T. Nguyen width="200"/>
+<img class="peoplepic" src="/photos/no_image.jpg" alt="Nam T. Nguyen" width="200"/>
 <h4>Nam T. Nguyen</h4>
 <h4>University of Houston</h4>
 <h4>Senior Design Student 2023</h4>
@@ -763,7 +763,7 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
 <br>
 
 <div>
-<img class="peoplepic" src="/photos/no_image.jpg" alt="Jorge Gonzalez width="200"/>
+<img class="peoplepic" src="/photos/no_image.jpg" alt="Jorge Gonzalez" width="200"/>
 <h4>Jorge Gonzalez</h4>
 <h4>University of Houston</h4>
 <h4>Senior Design Student 2022-2023</h4>
@@ -772,7 +772,7 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
 <br>
 
 <div>
-<img class="peoplepic" src="/photos/Laura.jpg" alt="Laura Guzman width="200"/>
+<img class="peoplepic" src="/photos/Laura.jpg" alt="Laura Guzman" width="200"/>
 <h4>Laura Guzman</h4>
 <h4>University of Houston</h4>
 <h4>Senior Design Student 2022-2023</h4>
@@ -781,7 +781,7 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
 <br>
 
 <div>
-<img class="peoplepic" src="/photos/no_image.jpg" alt="Urhum Syed width="200"/>
+<img class="peoplepic" src="/photos/no_image.jpg" alt="Urhum Syed" width="200"/>
 <h4>Urhum Syed</h4>
 <h4>University of Houston</h4>
 <h4>Senior Design Student 2022-2023</h4>
@@ -790,7 +790,7 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
 <br>
 
 <div>
-<img class="peoplepic" src="/photos/Marcoantonio.jpg" alt="Marcoantonio Lopez width="200"/>
+<img class="peoplepic" src="/photos/Marcoantonio.jpg" alt="Marcoantonio Lopez" width="200"/>
 <h4>Marcoantonio Lopez</h4>
 <h4>University of Houston</h4>
 <h4>Senior Design Student 2022-2023</h4>
@@ -799,7 +799,7 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
 <br>
 
 <div>
-<img class="peoplepic" src="/photos/Thinh.jpg" alt="Thinh Phan width="200"/>
+<img class="peoplepic" src="/photos/Thinh.jpg" alt="Thinh Phan" width="200"/>
 <h4>Thinh Phan</h4>
 <h4>University of Houston</h4>
 <h4>Senior Design Student 2022-2023</h4>
@@ -807,12 +807,13 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
 </div>
 <br>
 
+
 <h3>High School Interns</h3>
 
 
 
 <div>
-<img class="peoplepic" src="/photos/Morgan.jpg" alt="Morgan Feng width="200"/>
+<img class="peoplepic" src="/photos/Morgan.jpg" alt="Morgan Feng" width="200"/>
 <h4>Morgan Feng</h4>
 <h4>St. Agnes Academy</h4>
 <h4>2024 Research Experience and Mentoring (REM) High School Intern</h4>
