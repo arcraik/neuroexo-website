@@ -131,7 +131,29 @@ title: People
 <h3>Workforce Development</h3>
 
 
+<div>
+<img class="peoplepic" src="/photos/Gabriel.jpg" alt="Gabriel" width="200"/>
+<h4>Gabriel A. Baquero Sánchez</h4>
+<h4>University of Houston</h4>
+<h4>Undergraduate - Electrical Engineering</h4>
+<h4>2024 REU Program</h4>
+<h4>gabaquer@cougarnet.uh.edu</h4>
 
+<button class="modal-button" href="#Gabriel">About Gabriel</button>
+<div id="Gabriel" class="modal">
+<div class="modal-content">
+   <div class="modal-header">
+     <span class="close">×</span>
+     <h2>Gabriel A. Baquero Sánchez</h2>
+   </div>
+   <div class="modal-body">
+       <img class="content peoplepic" src="/photos/Gabriel.jpg" alt="Gabriel" width="200"/>
+     <div><p class="content" align = "justify"> Electrical Engineering student with experience in KiCAD/Altium for PCB design, SolidWorks for CAD modeling, and expertise in 3D printing technologies. Proficient in programming languages including C, C++, and Python, with a strong interest for embedded hardware and system development. I'm passionate about problem-solving, innovation, and leveraging technology to create efficient and impactful solutions. </p></div>
+    </div>
+ </div>
+ </div>
+</div>
+<br>
 
 
 <div>
@@ -988,6 +1010,7 @@ University of Texas Health Science Center at Houston (UTHealth)</h4>
 </div>
 </div>
 <br>
+
 
 
 <div>
