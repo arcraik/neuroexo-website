@@ -757,6 +757,53 @@ read brains signals and translate them into robotic (rehabilitation robotics) mo
 
 <h3>Senior Design Students</h3>
 
+
+<div>
+<img class="peoplepic" src="/photos/Tarek.jpeg" alt="Tarek Bakeer" width="200"/>
+<h4>Tarek Bakeer</h4>
+<h4>University of Houston</h4>
+<h4>Senior Design Student 2025</h4>
+<h4>tjbakeer@cougarnet.uh.edu</h4>
+</div>
+<br>
+
+<div>
+<img class="peoplepic" src="/photos/Julio.jpg" alt="Julio Sibrian" width="200"/>
+<h4>Julio Sibrian</h4>
+<h4>University of Houston</h4>
+<h4>Senior Design Student 2025</h4>
+<h4>jrsibria@cougarnet.uh.edu</h4>
+</div>
+<br>
+
+<div>
+<img class="peoplepic" src="/photos/Muneer.jpeg" alt="Muneer Sayyedahmad" width="200"/>
+<h4>Muneer Sayyedahmad</h4>
+<h4>University of Houston</h4>
+<h4>Senior Design Student 2025</h4>
+<h4>mgsayyed@cougarnet.uh.edu</h4>
+</div>
+<br>
+
+<div>
+<img class="peoplepic" src="/photos/Delfino.jpg" alt="Tzul Delfino" width="200"/>
+<h4>Delfino Tzul</h4>
+<h4>University of Houston</h4>
+<h4>Senior Design Student 2025</h4>
+<h4>detzul@cougarnet.uh.edu</h4>
+</div>
+<br>
+
+<div>
+<img class="peoplepic" src="/photos/Tyler.JPG" alt="Tyler Nguyen" width="200"/>
+<h4>Tyler Nguyen</h4>
+<h4>University of Houston</h4>
+<h4>Senior Design Student 2025</h4>
+<h4>ttngu498@cougarnet.uh.edu</h4>
+</div>
+<br>
+
+
 <div>
 <img class="peoplepic" src="/photos/Ajibola.jpg" alt="Ajibola Afolabi" width="200"/>
 <h4>Ajibola Afolabi</h4>
