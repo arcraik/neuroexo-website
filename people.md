@@ -155,6 +155,30 @@ title: People
 </div>
 <br>
 
+<div>
+<img class="peoplepic" src="/photos/Zoya.jpg" alt="Zoya" width="200"/>
+<h4>Zoya Fazal</h4>
+<h4>Barnard College</h4>
+<h4>Neuroscience and Behavior</h4>
+<h4>2025 Internship</h4>
+<h4>zfazal@central.uh.edu</h4>
+
+<button class="modal-button" href="#Zoya">About Zoya</button>
+<div id="Zoya" class="modal">
+<div class="modal-content">
+   <div class="modal-header">
+     <span class="close">×</span>
+     <h2>Zoya Fazal</h2>
+   </div>
+   <div class="modal-body">
+       <img class="content peoplepic" src="/photos/Gabriel.jpg" alt="Gabriel" width="200"/>
+     <div><p class="content" align = "justify"> A Neuroscience & Behavior graduate from Barnard College. She is currently researching efficient, safe, and user-centered strategies for implementing BCIs to enhance device accessibility and performance in the industry. In her free time, I love to read, go to the gym, and crochet.</p></div>
+    </div>
+ </div>
+ </div>
+</div>
+<br>
+
 
 <div>
 <img class="peoplepic" src="/photos/Wong_Sarah.jpg" alt="Wong" width="200"/>
